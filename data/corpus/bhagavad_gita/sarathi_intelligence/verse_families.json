@@ -1,0 +1,123 @@
+{
+  "version": "0.3.1-wip",
+  "description": "Verse families group teachings that should be retrieved and taught together before jumping across the corpus.",
+  "families": [
+    {
+      "id": "karma_yoga_foundations",
+      "name": "Karma Yoga Foundations",
+      "chapter": 2,
+      "verse_ids": [
+        "bg_2_47",
+        "bg_2_48",
+        "bg_2_49",
+        "bg_2_50"
+      ],
+      "status": "approved",
+      "theme": "Right action, equanimity in results, buddhi-yoga, skill in action.",
+      "primary_intents": [
+        "seeking_guidance",
+        "seeking_detachment",
+        "seeking_encouragement",
+        "seeking_discipline"
+      ]
+    },
+    {
+      "id": "sthitaprajna",
+      "name": "Steady Wisdom (Sthitaprajña)",
+      "chapter": 2,
+      "verse_ids": [
+        "bg_2_54",
+        "bg_2_55",
+        "bg_2_56",
+        "bg_2_57",
+        "bg_2_58",
+        "bg_2_59",
+        "bg_2_60",
+        "bg_2_61",
+        "bg_2_62",
+        "bg_2_63",
+        "bg_2_64",
+        "bg_2_65",
+        "bg_2_66",
+        "bg_2_67",
+        "bg_2_68",
+        "bg_2_69",
+        "bg_2_70",
+        "bg_2_71",
+        "bg_2_72"
+      ],
+      "status": "approved",
+      "theme": "What a person of steady wisdom looks like in desire, emotion, sense restraint, and peace.",
+      "primary_intents": [
+        "seeking_peace",
+        "seeking_discipline",
+        "seeking_detachment",
+        "seeking_meaning"
+      ]
+    },
+    {
+      "id": "self_mastery",
+      "name": "Self Mastery",
+      "chapter": 6,
+      "verse_ids": [
+        "bg_6_5",
+        "bg_6_6",
+        "bg_6_7",
+        "bg_6_8",
+        "bg_6_9",
+        "bg_6_10"
+      ],
+      "status": "reviewed",
+      "theme": "Elevate yourself by the self; mind as friend or enemy; meditation foundations.",
+      "primary_intents": [
+        "seeking_discipline",
+        "seeking_courage",
+        "seeking_encouragement",
+        "seeking_peace"
+      ]
+    },
+    {
+      "id": "qualities_of_devotee",
+      "name": "Qualities of the Devotee",
+      "chapter": 12,
+      "verse_ids": [
+        "bg_12_13",
+        "bg_12_14",
+        "bg_12_15",
+        "bg_12_16",
+        "bg_12_17",
+        "bg_12_18",
+        "bg_12_19",
+        "bg_12_20"
+      ],
+      "status": "planned",
+      "theme": "Compassion, equanimity, friendliness, and devoted character.",
+      "primary_intents": [
+        "seeking_peace",
+        "seeking_forgiveness",
+        "seeking_encouragement"
+      ]
+    },
+    {
+      "id": "surrender_closing",
+      "name": "Surrender & Closing Teaching",
+      "chapter": 18,
+      "verse_ids": [
+        "bg_18_61",
+        "bg_18_62",
+        "bg_18_63",
+        "bg_18_64",
+        "bg_18_65",
+        "bg_18_66"
+      ],
+      "status": "planned",
+      "theme": "Refuge, surrender, and the Gita's culminating pastoral teaching.",
+      "primary_intents": [
+        "seeking_peace",
+        "seeking_courage",
+        "seeking_forgiveness",
+        "seeking_meaning"
+      ]
+    }
+  ]
+}

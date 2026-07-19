@@ -1,0 +1,1757 @@
+{
+  "manifest": {
+    "name": "Sarathi Intelligence",
+    "scripture": "bhagavad_gita",
+    "chapter": 9,
+    "chapter_title": "Raja-Vidya — Royal Knowledge",
+    "version": "0.2.0-generated",
+    "status": "generated",
+    "authentic_corpus": "../bhagavad_gita.json",
+    "editorial_workflow": [
+      "generated",
+      "reviewed",
+      "approved",
+      "locked"
+    ],
+    "enrichment_count": 34,
+    "approval_policy": "Never auto-approve. Human review required."
+  },
+  "enrichments": [
+    {
+      "node_id": "bg_9_1",
+      "citation": "BG 9.1",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.1) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.1 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_2",
+        "bg_9_3",
+        "bg_9_4"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्री भगवानुवाच इदं तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे। ज्ञान…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_1",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_2",
+      "citation": "BG 9.2",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.2) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.2 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_1",
+        "bg_9_3",
+        "bg_9_4",
+        "bg_9_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: राजविद्या राजगुह्यं पवित्रमिदमुत्तमम्। प्रत्यक्षावगमं धर्म्य…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_2",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_3",
+      "citation": "BG 9.3",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.3) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.3 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_1",
+        "bg_9_2",
+        "bg_9_4",
+        "bg_9_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अश्रद्दधानाः पुरुषा धर्मस्यास्य परन्तप। अप्राप्य मां निवर्तन…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_3",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_4",
+      "citation": "BG 9.4",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.4) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.4 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_2",
+        "bg_9_3",
+        "bg_9_5",
+        "bg_9_6"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: मया ततमिदं सर्वं जगदव्यक्तमूर्तिना। मत्स्थानि सर्वभूतानि न च…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_4",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_5",
+      "citation": "BG 9.5",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.5) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma",
+        "karma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.5 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_3",
+        "bg_9_4",
+        "bg_9_6",
+        "bg_9_7"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम्। भूतभृन्न च भूतस्थो…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_5",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_6",
+      "citation": "BG 9.6",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.6) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.6 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_4",
+        "bg_9_5",
+        "bg_9_7",
+        "bg_9_8"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यथाऽऽकाशस्थितो नित्यं वायुः सर्वत्रगो महान्। तथा सर्वाणि भूत…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_6",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_7",
+      "citation": "BG 9.7",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.7) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "anger",
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.7 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_5",
+        "bg_9_6",
+        "bg_9_8",
+        "bg_9_9"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम्। कल्पक्षये पुनस्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_7",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_8",
+      "citation": "BG 9.8",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.8) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.8 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_6",
+        "bg_9_7",
+        "bg_9_9",
+        "bg_9_10"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: प्रकृतिं स्वामवष्टभ्य विसृजामि पुनः पुनः। भूतग्राममिमं कृत्स…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_8",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_9",
+      "citation": "BG 9.9",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.9) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma",
+        "karma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.9 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_7",
+        "bg_9_8",
+        "bg_9_10",
+        "bg_9_11"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: न च मां तानि कर्माणि निबध्नन्ति धनञ्जय। उदासीनवदासीनमसक्तं त…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_9",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_10",
+      "citation": "BG 9.10",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.10) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.10 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_8",
+        "bg_9_9",
+        "bg_9_11",
+        "bg_9_12"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: मयाऽध्यक्षेण प्रकृतिः सूयते सचराचरम्। हेतुनाऽनेन कौन्तेय जगद…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_10",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_11",
+      "citation": "BG 9.11",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.11) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.11 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_9",
+        "bg_9_10",
+        "bg_9_12",
+        "bg_9_13"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अवजानन्ति मां मूढा मानुषीं तनुमाश्रितम्। परं भावमजानन्तो मम …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_11",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_12",
+      "citation": "BG 9.12",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.12) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma",
+        "karma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.12 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_10",
+        "bg_9_11",
+        "bg_9_13",
+        "bg_9_14"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: मोघाशा मोघकर्माणो मोघज्ञाना विचेतसः। राक्षसीमासुरीं चैव प्रक…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_12",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_13",
+      "citation": "BG 9.13",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.13) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.13 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_11",
+        "bg_9_12",
+        "bg_9_14",
+        "bg_9_15"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: महात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिताः। भजन्त्यनन्यमन…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_13",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_14",
+      "citation": "BG 9.14",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.14) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.14 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_12",
+        "bg_9_13",
+        "bg_9_15",
+        "bg_9_16"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सततं कीर्तयन्तो मां यतन्तश्च दृढव्रताः। नमस्यन्तश्च मां भक्त…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_14",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_15",
+      "citation": "BG 9.15",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.15) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.15 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_13",
+        "bg_9_14",
+        "bg_9_16",
+        "bg_9_17"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ज्ञानयज्ञेन चाप्यन्ये यजन्तो मामुपासते। एकत्वेन पृथक्त्वेन ब…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_15",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_16",
+      "citation": "BG 9.16",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.16) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.16 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_14",
+        "bg_9_15",
+        "bg_9_17",
+        "bg_9_18"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अहं क्रतुरहं यज्ञः स्वधाऽहमहमौषधम्। मंत्रोऽहमहमेवाज्यमहमग्नि…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_16",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_17",
+      "citation": "BG 9.17",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.17) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.17 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_15",
+        "bg_9_16",
+        "bg_9_18",
+        "bg_9_19"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: पिताऽहमस्य जगतो माता धाता पितामहः। वेद्यं पवित्रमोंकार ऋक् स…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_17",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_18",
+      "citation": "BG 9.18",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.18) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.18 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_16",
+        "bg_9_17",
+        "bg_9_19",
+        "bg_9_20"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: गतिर्भर्ता प्रभुः साक्षी निवासः शरणं सुहृत्। प्रभवः प्रलयः स…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_18",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_19",
+      "citation": "BG 9.19",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.19) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.19 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_17",
+        "bg_9_18",
+        "bg_9_20",
+        "bg_9_21"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तपाम्यहमहं वर्षं निगृह्णाम्युत्सृजामि च। अमृतं चैव मृत्युश्च…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_19",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_20",
+      "citation": "BG 9.20",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.20) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.20 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_18",
+        "bg_9_19",
+        "bg_9_21",
+        "bg_9_22"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: त्रैविद्या मां सोमपाः पूतपापा यज्ञैरिष्ट्वा स्वर्गतिं प्रार्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_20",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_21",
+      "citation": "BG 9.21",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.21) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "anger",
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.21 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_19",
+        "bg_9_20",
+        "bg_9_22",
+        "bg_9_23"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ते तं भुक्त्वा स्वर्गलोकं विशालं क्षीणे पुण्ये मर्त्यलोकं वि…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_21",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_22",
+      "citation": "BG 9.22",
+      "status": "generated",
+      "summary": "Those who worship Me with exclusive devotion — I carry what they lack and preserve what they have.",
+      "modern_interpretation": "Sincere devoted focus is met with support; trust can coexist with responsible effort.",
+      "topics": [
+        "devotion",
+        "surrender",
+        "duty"
+      ],
+      "emotions": [
+        "anxiety",
+        "fear",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "family"
+      ],
+      "user_intents": [
+        "seeking_encouragement",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "devotion",
+        "perseverance",
+        "humility"
+      ],
+      "practice": [
+        "Do your part fully; then release tomorrow's provision anxiety in prayer or quiet trust."
+      ],
+      "reflection_question": "Where am I exhausting myself trying to secure what only trust can hold?",
+      "related_verses": [
+        "bg_18_66",
+        "bg_2_47",
+        "bg_12_6"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.7999999999999999,
+        "emotions": 0.75,
+        "overall": 0.85
+      },
+      "uncertainty_notes": "High-priority verse override — still requires human review before approval.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_9_22",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_23",
+      "citation": "BG 9.23",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.23) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.23 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_21",
+        "bg_9_22",
+        "bg_9_24",
+        "bg_9_25"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: येऽप्यन्यदेवता भक्ता यजन्ते श्रद्धयाऽन्विताः। तेऽपि मामेव कौ…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_23",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_24",
+      "citation": "BG 9.24",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.24) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.24 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_22",
+        "bg_9_23",
+        "bg_9_25",
+        "bg_9_26"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च। न तु मामभिजानन्ति त…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_24",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_25",
+      "citation": "BG 9.25",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.25) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.25 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_23",
+        "bg_9_24",
+        "bg_9_26",
+        "bg_9_27"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यान्ति देवव्रता देवान् पितृ़न्यान्ति पितृव्रताः। भूतानि यान्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_25",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_26",
+      "citation": "BG 9.26",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.26) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.26 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_24",
+        "bg_9_25",
+        "bg_9_27",
+        "bg_9_28"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति। तदहं भक्त्युप…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_26",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_27",
+      "citation": "BG 9.27",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.27) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.27 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_25",
+        "bg_9_26",
+        "bg_9_28",
+        "bg_9_29"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यत्करोषि यदश्नासि यज्जुहोषि ददासि यत्। यत्तपस्यसि कौन्तेय तत…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_27",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_28",
+      "citation": "BG 9.28",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.28) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma",
+        "karma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.28 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_26",
+        "bg_9_27",
+        "bg_9_29",
+        "bg_9_30"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: शुभाशुभफलैरेवं मोक्ष्यसे कर्मबन्धनैः। संन्यासयोगयुक्तात्मा व…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_28",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_29",
+      "citation": "BG 9.29",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.29) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.29 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_27",
+        "bg_9_28",
+        "bg_9_30",
+        "bg_9_31"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः। ये भजन्ति तु …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_29",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_30",
+      "citation": "BG 9.30",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.30) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.30 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_28",
+        "bg_9_29",
+        "bg_9_31",
+        "bg_9_32"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अपि चेत्सुदुराचारो भजते मामनन्यभाक्। साधुरेव स मन्तव्यः सम्य…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_30",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_31",
+      "citation": "BG 9.31",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.31) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.31 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_29",
+        "bg_9_30",
+        "bg_9_32",
+        "bg_9_33"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: क्षिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति। कौन्तेय प्रत…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_31",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_32",
+      "citation": "BG 9.32",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.32) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.32 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_30",
+        "bg_9_31",
+        "bg_9_33",
+        "bg_9_34"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: मां हि पार्थ व्यपाश्रित्य येऽपि स्युः पापयोनयः। स्त्रियो वैश…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_32",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_33",
+      "citation": "BG 9.33",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.33) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.33 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_31",
+        "bg_9_32",
+        "bg_9_34"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: किं पुनर्ब्राह्मणाः पुण्या भक्ता राजर्षयस्तथा। अनित्यमसुखं ल…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_33",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_9_34",
+      "citation": "BG 9.34",
+      "status": "generated",
+      "summary": "A teaching from Raja-Vidya — Royal Knowledge (BG 9.34) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 9 supports clarity around devotion when facing peace. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "dharma"
+      ],
+      "emotions": [
+        "peace",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 9.34 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 9's theme (Raja-Vidya — Royal Knowledge) asking of me through this verse?",
+      "related_verses": [
+        "bg_9_32",
+        "bg_9_33"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु। मामेवैष्यसि युक्त्व…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_9_34",
+      "review_notes": []
+    }
+  ]
+}

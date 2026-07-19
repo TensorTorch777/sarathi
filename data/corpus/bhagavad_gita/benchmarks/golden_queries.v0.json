@@ -1,0 +1,52 @@
+{
+  "name": "Sarathi Golden Retrieval Benchmark",
+  "version": "0.1.0-draft",
+  "status": "scaffold",
+  "description": "Objective retrieval cases. Expand as verses reach approved/locked. Used later to evaluate embeddings, rerankers, and prompts — not for chat runtime.",
+  "scoring": {
+    "expected_confidence_default": 0.85,
+    "pass_rule": "Top results should include the expected verses; order may vary unless rank_sensitive is true."
+  },
+  "cases": [
+    {
+      "id": "exam_fear",
+      "query": "I'm terrified of failing my exams.",
+      "expected_verses": ["bg_2_47", "bg_2_48", "bg_6_5"],
+      "expected_confidence": 0.85,
+      "notes": "Outcome anxiety / performance pressure cluster.",
+      "depends_on_approved": ["bg_2_47", "bg_2_48", "bg_6_5"]
+    },
+    {
+      "id": "comparison",
+      "query": "I keep comparing myself with everyone.",
+      "expected_verses": ["bg_2_47", "bg_12_13", "bg_6_5"],
+      "expected_confidence": 0.85,
+      "notes": "Ego, envy, self-mastery. Adjust expected list after ch.12 review.",
+      "depends_on_approved": ["bg_2_47", "bg_12_13", "bg_6_5"]
+    },
+    {
+      "id": "grief_loss",
+      "query": "I've lost someone close to me.",
+      "expected_verses": ["bg_2_13", "bg_2_20", "bg_2_22"],
+      "expected_confidence": 0.85,
+      "notes": "Impermanence / embodied self cluster. Pastoral care required in answers.",
+      "depends_on_approved": ["bg_2_13", "bg_2_20", "bg_2_22"]
+    },
+    {
+      "id": "steady_wisdom",
+      "query": "How do I stay calm when everything goes wrong?",
+      "expected_verses": ["bg_2_56", "bg_2_57", "bg_2_48"],
+      "expected_confidence": 0.85,
+      "notes": "Sthitaprajña / equanimity unit (2.54–72).",
+      "depends_on_approved": ["bg_2_56", "bg_2_57", "bg_2_48"]
+    },
+    {
+      "id": "anger_spiral",
+      "query": "I get angry and then I can't think straight.",
+      "expected_verses": ["bg_2_62", "bg_2_63", "bg_2_64"],
+      "expected_confidence": 0.85,
+      "notes": "Desire → anger → delusion cascade.",
+      "depends_on_approved": ["bg_2_62", "bg_2_63", "bg_2_64"]
+    }
+  ]
+}

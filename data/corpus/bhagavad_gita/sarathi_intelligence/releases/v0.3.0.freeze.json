@@ -1,0 +1,47 @@
+{
+  "release": "sarathi-intelligence-v0.3.0",
+  "frozen_at": "2026-07-19T11:22:19Z",
+  "note": "Git tag deferred: repository has no .git yet. This freeze file is the immutable editorial snapshot.",
+  "authentic_corpus_version": "1.0.0",
+  "intelligence_version": "0.3.0",
+  "approved_count": 23,
+  "approved_ids": [
+    "bg_2_47",
+    "bg_2_48",
+    "bg_2_49",
+    "bg_2_50",
+    "bg_2_54",
+    "bg_2_55",
+    "bg_2_56",
+    "bg_2_57",
+    "bg_2_58",
+    "bg_2_59",
+    "bg_2_60",
+    "bg_2_61",
+    "bg_2_62",
+    "bg_2_63",
+    "bg_2_64",
+    "bg_2_65",
+    "bg_2_66",
+    "bg_2_67",
+    "bg_2_68",
+    "bg_2_69",
+    "bg_2_70",
+    "bg_2_71",
+    "bg_2_72"
+  ],
+  "families_approved": [
+    "karma_yoga_foundations",
+    "sthitaprajna"
+  ],
+  "checksums": {
+    "ALL.generated.json": "5ce0b6b2851eedeb2970a5b4bf1f0926d9002304f9bc19cb5401d32b2b1e1620",
+    "chapter_02.generated.json": "ba08f26476bd953964e6b071828936c3de8d567aed16457a29280f523ad8aaac",
+    "verse_families.json": "90bec6f27132bf175fc989d7aa1cec684e13ea79efc6c28ca69d549edc196313",
+    "VERSION": "d915cc95d6ca8f47ae297713ed46d4e5c5d99ddd29fc3c61e263bdf305f2b5b0",
+    "CHANGELOG.md": "c8a92955e465cd0d28034ceb9e64255ca08505f5e9cbe884d5b928ebe22f7977",
+    "../bhagavad_gita.json": "d7d804336cd4d7852ddd53cfe77125c929d489b185a1dbefdb5dec75b0088a1e"
+  },
+  "approved_enrichments_file": "v0.3.0.approved_enrichments.json",
+  "approved_enrichments_sha256": "8f1d64a919da5a0537afae86203a0815854b58363effd6f02a0aed5751b78807"
+}

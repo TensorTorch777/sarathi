@@ -1,0 +1,1827 @@
+{
+  "manifest": {
+    "name": "Sarathi Intelligence",
+    "scripture": "bhagavad_gita",
+    "chapter": 13,
+    "chapter_title": "Kshetra-Kshetrajna — Field and Knower",
+    "version": "0.2.0-generated",
+    "status": "generated",
+    "authentic_corpus": "../bhagavad_gita.json",
+    "editorial_workflow": [
+      "generated",
+      "reviewed",
+      "approved",
+      "locked"
+    ],
+    "enrichment_count": 34,
+    "approval_policy": "Never auto-approve. Human review required."
+  },
+  "enrichments": [
+    {
+      "node_id": "bg_13_1",
+      "citation": "BG 13.1",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.1) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.1 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_2",
+        "bg_13_3",
+        "bg_13_4"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अर्जुन उवाच प्रकृतिं पुरुषं चैव क्षेत्रं क्षेत्रज्ञमेव च। एत…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_1",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_2",
+      "citation": "BG 13.2",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.2) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.2 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_1",
+        "bg_13_3",
+        "bg_13_4",
+        "bg_13_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्री भगवानुवाच इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते। एतद्यो…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_2",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_3",
+      "citation": "BG 13.3",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.3) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.3 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_1",
+        "bg_13_2",
+        "bg_13_4",
+        "bg_13_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत। क्षेत्रक्षे…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_3",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_4",
+      "citation": "BG 13.4",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.4) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.4 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_2",
+        "bg_13_3",
+        "bg_13_5",
+        "bg_13_6"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तत्क्षेत्रं यच्च यादृक् च यद्विकारि यतश्च यत्। स च यो यत्प्र…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_4",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_5",
+      "citation": "BG 13.5",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.5) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.5 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_3",
+        "bg_13_4",
+        "bg_13_6",
+        "bg_13_7"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ऋषिभिर्बहुधा गीतं छन्दोभिर्विविधैः पृथक्। ब्रह्मसूत्रपदैश्चै…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_5",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_6",
+      "citation": "BG 13.6",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.6) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.6 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_4",
+        "bg_13_5",
+        "bg_13_7",
+        "bg_13_8"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: महाभूतान्यहङ्कारो बुद्धिरव्यक्तमेव च। इन्द्रियाणि दशैकं च पञ…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_6",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_7",
+      "citation": "BG 13.7",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.7) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "grief",
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.7 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_5",
+        "bg_13_6",
+        "bg_13_8",
+        "bg_13_9"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: इच्छा द्वेषः सुखं दुःखं सङ्घातश्चेतनाधृतिः। एतत्क्षेत्रं समा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_7",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_8",
+      "citation": "BG 13.8",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.8) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.8 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_6",
+        "bg_13_7",
+        "bg_13_9",
+        "bg_13_10"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अमानित्वमदम्भित्वमहिंसा क्षान्तिरार्जवम्। आचार्योपासनं शौचं …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_8",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_9",
+      "citation": "BG 13.9",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.9) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "grief",
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.9 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_7",
+        "bg_13_8",
+        "bg_13_10",
+        "bg_13_11"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: इन्द्रियार्थेषु वैराग्यमनहङ्कार एव च। जन्ममृत्युजराव्याधिदुः…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_9",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_10",
+      "citation": "BG 13.10",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.10) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.10 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_8",
+        "bg_13_9",
+        "bg_13_11",
+        "bg_13_12"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: असक्ितरनभिष्वङ्गः पुत्रदारगृहादिषु। नित्यं च समचित्तत्वमिष्ट…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_10",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_11",
+      "citation": "BG 13.11",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.11) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom",
+        "karma"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.11 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_9",
+        "bg_13_10",
+        "bg_13_12",
+        "bg_13_13"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: मयि चानन्ययोगेन भक्ितरव्यभिचारिणी। विविक्तदेशसेवित्वमरतिर्जन…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_11",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_12",
+      "citation": "BG 13.12",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.12) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.12 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_10",
+        "bg_13_11",
+        "bg_13_13",
+        "bg_13_14"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अध्यात्मज्ञाननित्यत्वं तत्त्वज्ञानार्थदर्शनम्। एतज्ज्ञानमिति…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_12",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_13",
+      "citation": "BG 13.13",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.13) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.13 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_11",
+        "bg_13_12",
+        "bg_13_14",
+        "bg_13_15"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ज्ञेयं यत्तत्प्रवक्ष्यामि यज्ज्ञात्वाऽमृतमश्नुते। अनादिमत्पर…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_13",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_14",
+      "citation": "BG 13.14",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.14) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.14 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_12",
+        "bg_13_13",
+        "bg_13_15",
+        "bg_13_16"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सर्वतः पाणिपादं तत्सर्वतोऽक्षिशिरोमुखम्। सर्वतः श्रुतिमल्लोक…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_14",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_15",
+      "citation": "BG 13.15",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.15) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.15 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_13",
+        "bg_13_14",
+        "bg_13_16",
+        "bg_13_17"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सर्वेन्द्रियगुणाभासं सर्वेन्द्रियविवर्जितम्। असक्तं सर्वभृच्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_15",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_16",
+      "citation": "BG 13.16",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.16) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.16 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_14",
+        "bg_13_15",
+        "bg_13_17",
+        "bg_13_18"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: बहिरन्तश्च भूतानामचरं चरमेव च। सूक्ष्मत्वात्तदविज्ञेयं दूरस्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_16",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_17",
+      "citation": "BG 13.17",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.17) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.17 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_15",
+        "bg_13_16",
+        "bg_13_18",
+        "bg_13_19"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अविभक्तं च भूतेषु विभक्तमिव च स्थितम्। भूतभर्तृ च तज्ज्ञेयं …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_17",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_18",
+      "citation": "BG 13.18",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.18) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.18 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_16",
+        "bg_13_17",
+        "bg_13_19",
+        "bg_13_20"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ज्योतिषामपि तज्ज्योतिस्तमसः परमुच्यते। ज्ञानं ज्ञेयं ज्ञानगम…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_18",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_19",
+      "citation": "BG 13.19",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.19) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.19 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_17",
+        "bg_13_18",
+        "bg_13_20",
+        "bg_13_21"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: इति क्षेत्रं तथा ज्ञानं ज्ञेयं चोक्तं समासतः। मद्भक्त एतद्वि…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_19",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_20",
+      "citation": "BG 13.20",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.20) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.20 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_18",
+        "bg_13_19",
+        "bg_13_21",
+        "bg_13_22"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: प्रकृतिं पुरुषं चैव विद्ध्यनादी उभावपि। विकारांश्च गुणांश्चै…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_20",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_21",
+      "citation": "BG 13.21",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.21) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "grief",
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.21 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_19",
+        "bg_13_20",
+        "bg_13_22",
+        "bg_13_23"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: कार्यकारणकर्तृत्वे हेतुः प्रकृतिरुच्यते। पुरुषः सुखदुःखानां …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_21",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_22",
+      "citation": "BG 13.22",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.22) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.22 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_20",
+        "bg_13_21",
+        "bg_13_23",
+        "bg_13_24"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: पुरुषः प्रकृतिस्थो हि भुङ्क्ते प्रकृतिजान्गुणान्। कारणं गुणस…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_22",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_23",
+      "citation": "BG 13.23",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.23) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.23 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_21",
+        "bg_13_22",
+        "bg_13_24",
+        "bg_13_25"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: उपद्रष्टाऽनुमन्ता च भर्ता भोक्ता महेश्वरः। परमात्मेति चाप्यु…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_23",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_24",
+      "citation": "BG 13.24",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.24) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.24 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_22",
+        "bg_13_23",
+        "bg_13_25",
+        "bg_13_26"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: य एवं वेत्ति पुरुषं प्रकृतिं च गुणैः सह। सर्वथा वर्तमानोऽपि …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_24",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_25",
+      "citation": "BG 13.25",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.25) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom",
+        "karma"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.25 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_23",
+        "bg_13_24",
+        "bg_13_26",
+        "bg_13_27"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ध्यानेनात्मनि पश्यन्ति केचिदात्मानमात्मना। अन्ये सांख्येन यो…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_25",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_26",
+      "citation": "BG 13.26",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.26) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.26 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_24",
+        "bg_13_25",
+        "bg_13_27",
+        "bg_13_28"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अन्ये त्वेवमजानन्तः श्रुत्वाऽन्येभ्य उपासते। तेऽपि चातितरन्त…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_26",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_27",
+      "citation": "BG 13.27",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.27) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom",
+        "karma"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.27 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_25",
+        "bg_13_26",
+        "bg_13_28",
+        "bg_13_29"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यावत्सञ्जायते किञ्चित्सत्त्वं स्थावरजङ्गमम्। क्षेत्रक्षेत्रज…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_27",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_28",
+      "citation": "BG 13.28",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.28) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.28 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_26",
+        "bg_13_27",
+        "bg_13_29",
+        "bg_13_30"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम्। विनश्यत्स्वविनश्यन्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_28",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_29",
+      "citation": "BG 13.29",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.29) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.29 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_27",
+        "bg_13_28",
+        "bg_13_30",
+        "bg_13_31"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: समं पश्यन्हि सर्वत्र समवस्थितमीश्वरम्। न हिनस्त्यात्मनाऽऽत्म…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_29",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_30",
+      "citation": "BG 13.30",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.30) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom",
+        "karma"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.30 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_28",
+        "bg_13_29",
+        "bg_13_31",
+        "bg_13_32"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: प्रकृत्यैव च कर्माणि क्रियमाणानि सर्वशः। यः पश्यति तथाऽऽत्मा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_30",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_31",
+      "citation": "BG 13.31",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.31) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.31 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_29",
+        "bg_13_30",
+        "bg_13_32",
+        "bg_13_33"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यदा भूतपृथग्भावमेकस्थमनुपश्यति। तत एव च विस्तारं ब्रह्म सम्प…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_31",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_32",
+      "citation": "BG 13.32",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.32) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.32 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_30",
+        "bg_13_31",
+        "bg_13_33",
+        "bg_13_34"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अनादित्वान्निर्गुणत्वात्परमात्मायमव्ययः। शरीरस्थोऽपि कौन्तेय…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_32",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_33",
+      "citation": "BG 13.33",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.33) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.33 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_31",
+        "bg_13_32",
+        "bg_13_34"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यथा सर्वगतं सौक्ष्म्यादाकाशं नोपलिप्यते। सर्वत्रावस्थितो देह…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_33",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_13_34",
+      "citation": "BG 13.34",
+      "status": "generated",
+      "summary": "A teaching from Kshetra-Kshetrajna — Field and Knower (BG 13.34) inviting reflection on knowledge, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 13 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "self",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "non_attachment"
+      ],
+      "practice": [
+        "Sit with BG 13.34 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 13's theme (Kshetra-Kshetrajna — Field and Knower) asking of me through this verse?",
+      "related_verses": [
+        "bg_13_32",
+        "bg_13_33"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यथा प्रकाशयत्येकः कृत्स्नं लोकमिमं रविः। क्षेत्रं क्षेत्री त…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_13_34",
+      "review_notes": []
+    }
+  ]
+}

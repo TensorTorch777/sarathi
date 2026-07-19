@@ -1,0 +1,2356 @@
+{
+  "manifest": {
+    "name": "Sarathi Intelligence",
+    "scripture": "bhagavad_gita",
+    "chapter": 3,
+    "chapter_title": "Karma Yoga — Action",
+    "version": "0.2.0-generated",
+    "status": "generated",
+    "authentic_corpus": "../bhagavad_gita.json",
+    "editorial_workflow": [
+      "generated",
+      "reviewed",
+      "approved",
+      "locked"
+    ],
+    "enrichment_count": 43,
+    "approval_policy": "Never auto-approve. Human review required."
+  },
+  "enrichments": [
+    {
+      "node_id": "bg_3_1",
+      "citation": "BG 3.1",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.1) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.1 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_2",
+        "bg_3_3",
+        "bg_3_4"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अर्जुन उवाच ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन। तत्कि…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_1",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_2",
+      "citation": "BG 3.2",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.2) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.2 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_1",
+        "bg_3_3",
+        "bg_3_4",
+        "bg_3_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे। तदेकं वद निश्िचत्य…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_2",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_3",
+      "citation": "BG 3.3",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.3) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.3 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_1",
+        "bg_3_2",
+        "bg_3_4",
+        "bg_3_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्री भगवानुवाच लोकेऽस्मिन्द्विविधा निष्ठा पुरा प्रोक्ता मयान…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_3",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_4",
+      "citation": "BG 3.4",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.4) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.4 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_2",
+        "bg_3_3",
+        "bg_3_5",
+        "bg_3_6"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते। न च संन्यसनादेव…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_4",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_5",
+      "citation": "BG 3.5",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.5) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.5 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_3",
+        "bg_3_4",
+        "bg_3_6",
+        "bg_3_7"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: न हि कश्िचत्क्षणमपि जातु तिष्ठत्यकर्मकृत्। कार्यते ह्यवशः कर…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_5",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_6",
+      "citation": "BG 3.6",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.6) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.6 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_4",
+        "bg_3_5",
+        "bg_3_7",
+        "bg_3_8"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन्। इन्द्रियार्थान्व…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_6",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_7",
+      "citation": "BG 3.7",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.7) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.7 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_5",
+        "bg_3_6",
+        "bg_3_8",
+        "bg_3_9"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन। कर्मेन्द्रियैः कर्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_7",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_8",
+      "citation": "BG 3.8",
+      "status": "generated",
+      "summary": "Perform prescribed action; action is better than inaction — even bodily maintenance needs action.",
+      "modern_interpretation": "Withdrawal that abandons responsibility is not spirituality; sincere work can be yoga.",
+      "topics": [
+        "karma",
+        "duty",
+        "action"
+      ],
+      "emotions": [
+        "guilt",
+        "confusion",
+        "anxiety"
+      ],
+      "life_domains": [
+        "career",
+        "family",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "perseverance"
+      ],
+      "practice": [
+        "Choose one neglected duty and complete it today without drama."
+      ],
+      "reflection_question": "Where am I calling avoidance 'spiritual'?",
+      "related_verses": [
+        "bg_2_47",
+        "bg_3_19",
+        "bg_3_4"
+      ],
+      "confidence": {
+        "summary": 0.88,
+        "topics": 0.83,
+        "emotions": 0.78,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "High-priority verse override — still requires human review before approval.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_3_8",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_9",
+      "citation": "BG 3.9",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.9) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.9 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_7",
+        "bg_3_8",
+        "bg_3_10",
+        "bg_3_11"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः। तदर्थं कर्म कौन…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_9",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_10",
+      "citation": "BG 3.10",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.10) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action"
+      ],
+      "emotions": [
+        "anger",
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.10 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_8",
+        "bg_3_9",
+        "bg_3_11",
+        "bg_3_12"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः। अनेन प्रसविष्यध्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_10",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_11",
+      "citation": "BG 3.11",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.11) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.11 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_9",
+        "bg_3_10",
+        "bg_3_12",
+        "bg_3_13"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: देवान्भावयतानेन ते देवा भावयन्तु वः। परस्परं भावयन्तः श्रेयः…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_11",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_12",
+      "citation": "BG 3.12",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.12) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.12 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_10",
+        "bg_3_11",
+        "bg_3_13",
+        "bg_3_14"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः। तैर्दत्तानप्र…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_12",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_13",
+      "citation": "BG 3.13",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.13) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.13 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_11",
+        "bg_3_12",
+        "bg_3_14",
+        "bg_3_15"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः। भुञ्जते ते त्व…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_13",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_14",
+      "citation": "BG 3.14",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.14) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.14 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_12",
+        "bg_3_13",
+        "bg_3_15",
+        "bg_3_16"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः। यज्ञाद्भवति पर्जन्य…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_14",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_15",
+      "citation": "BG 3.15",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.15) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.15 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_13",
+        "bg_3_14",
+        "bg_3_16",
+        "bg_3_17"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम्। तस्मात्सर्वगत…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_15",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_16",
+      "citation": "BG 3.16",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.16) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.16 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_14",
+        "bg_3_15",
+        "bg_3_17",
+        "bg_3_18"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः। अघायुरिन्द्रियारामो मो…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_16",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_17",
+      "citation": "BG 3.17",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.17) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.17 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_15",
+        "bg_3_16",
+        "bg_3_18",
+        "bg_3_19"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानवः। आत्मन्येव च सन्तुष…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_17",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_18",
+      "citation": "BG 3.18",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.18) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.18 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_16",
+        "bg_3_17",
+        "bg_3_19",
+        "bg_3_20"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन। न चास्य सर्वभूतेषु कश्ि…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_18",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_19",
+      "citation": "BG 3.19",
+      "status": "generated",
+      "summary": "Therefore, without attachment, always perform necessary action — by acting without attachment one attains the Supreme.",
+      "modern_interpretation": "Keep doing what must be done; freedom grows inside action when clinging drops away.",
+      "topics": [
+        "karma",
+        "duty",
+        "detachment",
+        "action"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_discipline",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Do today's necessary task fully, then consciously release the result."
+      ],
+      "reflection_question": "Which necessary action am I delaying because I am attached to how it must turn out?",
+      "related_verses": [
+        "bg_2_47",
+        "bg_3_8",
+        "bg_3_30"
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.85,
+        "emotions": 0.8,
+        "overall": 0.9
+      },
+      "uncertainty_notes": "High-priority verse override — still requires human review before approval.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_3_19",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_20",
+      "citation": "BG 3.20",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.20) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.20 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_18",
+        "bg_3_19",
+        "bg_3_21",
+        "bg_3_22"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: कर्मणैव हि संसिद्धिमास्थिता जनकादयः। लोकसंग्रहमेवापि संपश्यन…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_20",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_21",
+      "citation": "BG 3.21",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.21) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.21 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_19",
+        "bg_3_20",
+        "bg_3_22",
+        "bg_3_23"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः। स यत्प्रमाणं कुरुते लोक…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_21",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_22",
+      "citation": "BG 3.22",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.22) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.22 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_20",
+        "bg_3_21",
+        "bg_3_23",
+        "bg_3_24"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन। नानवाप्तमवाप्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_22",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_23",
+      "citation": "BG 3.23",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.23) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.23 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_21",
+        "bg_3_22",
+        "bg_3_24",
+        "bg_3_25"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रितः। मम वर्त्मानुवर्तन…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_23",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_24",
+      "citation": "BG 3.24",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.24) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.24 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_22",
+        "bg_3_23",
+        "bg_3_25",
+        "bg_3_26"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम्। सङ्करस्य च कर्ता स…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_24",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_25",
+      "citation": "BG 3.25",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.25) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.25 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_23",
+        "bg_3_24",
+        "bg_3_26",
+        "bg_3_27"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सक्ताः कर्मण्यविद्वांसो यथा कुर्वन्ति भारत। कुर्याद्विद्वांस…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_25",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_26",
+      "citation": "BG 3.26",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.26) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.26 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_24",
+        "bg_3_25",
+        "bg_3_27",
+        "bg_3_28"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम्। जोषयेत्सर्वकर्माणि …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_26",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_27",
+      "citation": "BG 3.27",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.27) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.27 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_25",
+        "bg_3_26",
+        "bg_3_28",
+        "bg_3_29"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः। अहङ्कारविमूढात्मा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_27",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_28",
+      "citation": "BG 3.28",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.28) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.28 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_26",
+        "bg_3_27",
+        "bg_3_29",
+        "bg_3_30"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः। गुणा गुणेषु वर्तन्त इत…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_28",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_29",
+      "citation": "BG 3.29",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.29) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.29 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_27",
+        "bg_3_28",
+        "bg_3_30",
+        "bg_3_31"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: प्रकृतेर्गुणसम्मूढाः सज्जन्ते गुणकर्मसु। तानकृत्स्नविदो मन्द…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_29",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_30",
+      "citation": "BG 3.30",
+      "status": "generated",
+      "summary": "Surrendering all actions to Me, with mind on the Self, free of desire and possessiveness — fight without fever.",
+      "modern_interpretation": "Offer the work beyond ego ownership; then act without the burning anxiety of self-centered striving.",
+      "topics": [
+        "surrender",
+        "karma",
+        "duty",
+        "detachment"
+      ],
+      "emotions": [
+        "anxiety",
+        "fear",
+        "overwhelm"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_courage",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "devotion",
+        "non_attachment",
+        "courage"
+      ],
+      "practice": [
+        "Before work, silently offer it beyond ego; then begin."
+      ],
+      "reflection_question": "What fever of possessiveness is heating my effort?",
+      "related_verses": [
+        "bg_2_48",
+        "bg_3_19",
+        "bg_18_66"
+      ],
+      "confidence": {
+        "summary": 0.88,
+        "topics": 0.83,
+        "emotions": 0.78,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "High-priority verse override — still requires human review before approval.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_3_30",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_31",
+      "citation": "BG 3.31",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.31) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.31 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_29",
+        "bg_3_30",
+        "bg_3_32",
+        "bg_3_33"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः। श्रद्धावन्तोऽनसूयन्तो…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_31",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_32",
+      "citation": "BG 3.32",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.32) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.32 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_30",
+        "bg_3_31",
+        "bg_3_33",
+        "bg_3_34"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम्। सर्वज्ञानविमूढांस…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_32",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_33",
+      "citation": "BG 3.33",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.33) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.33 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_31",
+        "bg_3_32",
+        "bg_3_34",
+        "bg_3_35"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि। प्रकृतिं यान्ति …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_33",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_34",
+      "citation": "BG 3.34",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.34) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.34 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_32",
+        "bg_3_33",
+        "bg_3_35",
+        "bg_3_36"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ। तयोर्न वशम…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_34",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_35",
+      "citation": "BG 3.35",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.35) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.35 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_33",
+        "bg_3_34",
+        "bg_3_36",
+        "bg_3_37"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्। स्वधर्मे निध…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_35",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_36",
+      "citation": "BG 3.36",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.36) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.36 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_34",
+        "bg_3_35",
+        "bg_3_37",
+        "bg_3_38"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अर्जुन उवाच अथ केन प्रयुक्तोऽयं पापं चरति पूरुषः। अनिच्छन्नप…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_36",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_37",
+      "citation": "BG 3.37",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.37) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action"
+      ],
+      "emotions": [
+        "anger",
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.37 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_35",
+        "bg_3_36",
+        "bg_3_38",
+        "bg_3_39"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्री भगवानुवाच काम एष क्रोध एष रजोगुणसमुद्भवः। महाशनो महापाप…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_37",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_38",
+      "citation": "BG 3.38",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.38) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.38 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_36",
+        "bg_3_37",
+        "bg_3_39",
+        "bg_3_40"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: धूमेनाव्रियते वह्निर्यथाऽऽदर्शो मलेन च। यथोल्बेनावृतो गर्भस्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_38",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_39",
+      "citation": "BG 3.39",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.39) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action"
+      ],
+      "emotions": [
+        "anger",
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.39 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_37",
+        "bg_3_38",
+        "bg_3_40",
+        "bg_3_41"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा। कामरूपेण कौन्तेय दुष्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_39",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_40",
+      "citation": "BG 3.40",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.40) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.40 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_38",
+        "bg_3_39",
+        "bg_3_41",
+        "bg_3_42"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते। एतैर्विमोहयत्येष …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_40",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_41",
+      "citation": "BG 3.41",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.41) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.41 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_39",
+        "bg_3_40",
+        "bg_3_42",
+        "bg_3_43"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ। पाप्मानं प्रजहि ह…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_41",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_42",
+      "citation": "BG 3.42",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.42) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.42 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_40",
+        "bg_3_41",
+        "bg_3_43"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः। मनसस्तु परा बुद…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_42",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_3_43",
+      "citation": "BG 3.43",
+      "status": "generated",
+      "summary": "A teaching from Karma Yoga — Action (BG 3.43) inviting reflection on karma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 3 supports clarity around karma when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "karma",
+        "duty",
+        "action"
+      ],
+      "emotions": [
+        "anger",
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "non_attachment",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 3.43 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 3's theme (Karma Yoga — Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_3_41",
+        "bg_3_42"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: एवं बुद्धेः परं बुद्ध्वा संस्तभ्यात्मानमात्मना। जहि शत्रुं म…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_3_43",
+      "review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,2270 @@
+{
+  "manifest": {
+    "name": "Sarathi Intelligence",
+    "scripture": "bhagavad_gita",
+    "chapter": 4,
+    "chapter_title": "Jnana-Karma-Sannyasa — Knowledge in Action",
+    "version": "0.2.0-generated",
+    "status": "generated",
+    "authentic_corpus": "../bhagavad_gita.json",
+    "editorial_workflow": [
+      "generated",
+      "reviewed",
+      "approved",
+      "locked"
+    ],
+    "enrichment_count": 42,
+    "approval_policy": "Never auto-approve. Human review required."
+  },
+  "enrichments": [
+    {
+      "node_id": "bg_4_1",
+      "citation": "BG 4.1",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.1) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.1 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_2",
+        "bg_4_3",
+        "bg_4_4"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्री भगवानुवाच इमं विवस्वते योगं प्रोक्तवानहमव्ययम्। विवस्वा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_1",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_2",
+      "citation": "BG 4.2",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.2) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.2 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_1",
+        "bg_4_3",
+        "bg_4_4",
+        "bg_4_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: एवं परम्पराप्राप्तमिमं राजर्षयो विदुः। स कालेनेह महता योगो न…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_2",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_3",
+      "citation": "BG 4.3",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.3) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.3 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_1",
+        "bg_4_2",
+        "bg_4_4",
+        "bg_4_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: स एवायं मया तेऽद्य योगः प्रोक्तः पुरातनः। भक्तोऽसि मे सखा चे…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_3",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_4",
+      "citation": "BG 4.4",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.4) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.4 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_2",
+        "bg_4_3",
+        "bg_4_5",
+        "bg_4_6"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अर्जुन उवाच अपरं भवतो जन्म परं जन्म विवस्वतः। कथमेतद्विजानीय…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_4",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_5",
+      "citation": "BG 4.5",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.5) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.5 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_3",
+        "bg_4_4",
+        "bg_4_6",
+        "bg_4_7"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्री भगवानुवाच बहूनि मे व्यतीतानि जन्मानि तव चार्जुन। तान्यह…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_5",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_6",
+      "citation": "BG 4.6",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.6) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.6 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_4",
+        "bg_4_5",
+        "bg_4_7",
+        "bg_4_8"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन्। प्रकृतिं स्वामधिष…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_6",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_7",
+      "citation": "BG 4.7",
+      "status": "generated",
+      "summary": "Whenever dharma declines and adharma rises, I manifest Myself.",
+      "modern_interpretation": "Renewal comes when disorder peaks — hope is structural in the moral universe, not naive optimism.",
+      "topics": [
+        "dharma",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "fear",
+        "hopelessness",
+        "peace"
+      ],
+      "life_domains": [
+        "leadership",
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_encouragement",
+        "seeking_courage",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "courage",
+        "devotion",
+        "honesty"
+      ],
+      "practice": [
+        "In a declining situation, ask what small dharmic act you can restore today."
+      ],
+      "reflection_question": "Where is dharma thinning in my life — and what would renewal look like?",
+      "related_verses": [
+        "bg_4_8",
+        "bg_4_1",
+        "bg_18_66"
+      ],
+      "confidence": {
+        "summary": 0.88,
+        "topics": 0.83,
+        "emotions": 0.78,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "High-priority verse override — still requires human review before approval.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_4_7",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_8",
+      "citation": "BG 4.8",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.8) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.8 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_6",
+        "bg_4_7",
+        "bg_4_9",
+        "bg_4_10"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: परित्राणाय साधूनां विनाशाय च दुष्कृताम्। धर्मसंस्थापनार्थाय …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_8",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_9",
+      "citation": "BG 4.9",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.9) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.9 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_7",
+        "bg_4_8",
+        "bg_4_10",
+        "bg_4_11"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: जन्म कर्म च मे दिव्यमेवं यो वेत्ति तत्त्वतः। त्यक्त्वा देहं …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_9",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_10",
+      "citation": "BG 4.10",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.10) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom"
+      ],
+      "emotions": [
+        "anger",
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.10 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_8",
+        "bg_4_9",
+        "bg_4_11",
+        "bg_4_12"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: वीतरागभयक्रोधा मन्मया मामुपाश्रिताः। बहवो ज्ञानतपसा पूता मद्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_10",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_11",
+      "citation": "BG 4.11",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.11) inviting reflection on devotion, knowledge.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "knowledge",
+        "karma",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.11 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_9",
+        "bg_4_10",
+        "bg_4_12",
+        "bg_4_13"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम्। मम वर्त्मानुवर्त…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_11",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_12",
+      "citation": "BG 4.12",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.12) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.12 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_10",
+        "bg_4_11",
+        "bg_4_13",
+        "bg_4_14"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: काङ्क्षन्तः कर्मणां सिद्धिं यजन्त इह देवताः। क्षिप्रं हि मान…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_12",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_13",
+      "citation": "BG 4.13",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.13) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.13 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_11",
+        "bg_4_12",
+        "bg_4_14",
+        "bg_4_15"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः। तस्य कर्तारमपि मां …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_13",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_14",
+      "citation": "BG 4.14",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.14) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.14 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_12",
+        "bg_4_13",
+        "bg_4_15",
+        "bg_4_16"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा। इति मां योऽभिजा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_14",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_15",
+      "citation": "BG 4.15",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.15) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.15 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_13",
+        "bg_4_14",
+        "bg_4_16",
+        "bg_4_17"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: एवं ज्ञात्वा कृतं कर्म पूर्वैरपि मुमुक्षुभिः। कुरु कर्मैव तस…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_15",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_16",
+      "citation": "BG 4.16",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.16) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.16 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_14",
+        "bg_4_15",
+        "bg_4_17",
+        "bg_4_18"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: किं कर्म किमकर्मेति कवयोऽप्यत्र मोहिताः। तत्ते कर्म प्रवक्ष्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_16",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_17",
+      "citation": "BG 4.17",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.17) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.17 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_15",
+        "bg_4_16",
+        "bg_4_18",
+        "bg_4_19"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः। अकर्मणश्च बोद्ध…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_17",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_18",
+      "citation": "BG 4.18",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.18) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.18 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_16",
+        "bg_4_17",
+        "bg_4_19",
+        "bg_4_20"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः। स बुद्धिमान् मनुष्येष…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_18",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_19",
+      "citation": "BG 4.19",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.19) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "anger",
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.19 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_17",
+        "bg_4_18",
+        "bg_4_20",
+        "bg_4_21"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यस्य सर्वे समारम्भाः कामसङ्कल्पवर्जिताः। ज्ञानाग्निदग्धकर्मा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_19",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_20",
+      "citation": "BG 4.20",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.20) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.20 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_18",
+        "bg_4_19",
+        "bg_4_21",
+        "bg_4_22"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः। कर्मण्यभिप्रवृ…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_20",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_21",
+      "citation": "BG 4.21",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.21) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.21 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_19",
+        "bg_4_20",
+        "bg_4_22",
+        "bg_4_23"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: निराशीर्यतचित्तात्मा त्यक्तसर्वपरिग्रहः। शारीरं केवलं कर्म क…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_21",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_22",
+      "citation": "BG 4.22",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.22) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.22 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_20",
+        "bg_4_21",
+        "bg_4_23",
+        "bg_4_24"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यदृच्छालाभसन्तुष्टो द्वन्द्वातीतो विमत्सरः। समः सिद्धावसिद्ध…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_22",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_23",
+      "citation": "BG 4.23",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.23) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.23 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_21",
+        "bg_4_22",
+        "bg_4_24",
+        "bg_4_25"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: गतसङ्गस्य मुक्तस्य ज्ञानावस्थितचेतसः। यज्ञायाचरतः कर्म समग्र…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_23",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_24",
+      "citation": "BG 4.24",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.24) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.24 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_22",
+        "bg_4_23",
+        "bg_4_25",
+        "bg_4_26"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ब्रह्मार्पणं ब्रह्महविर्ब्रह्माग्नौ ब्रह्मणा हुतम्। ब्रह्मैव…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_24",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_25",
+      "citation": "BG 4.25",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.25) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.25 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_23",
+        "bg_4_24",
+        "bg_4_26",
+        "bg_4_27"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: दैवमेवापरे यज्ञं योगिनः पर्युपासते। ब्रह्माग्नावपरे यज्ञं यज…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_25",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_26",
+      "citation": "BG 4.26",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.26) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.26 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_24",
+        "bg_4_25",
+        "bg_4_27",
+        "bg_4_28"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्रोत्रादीनीन्द्रियाण्यन्ये संयमाग्निषु जुह्वति। शब्दादीन्वि…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_26",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_27",
+      "citation": "BG 4.27",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.27) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.27 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_25",
+        "bg_4_26",
+        "bg_4_28",
+        "bg_4_29"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सर्वाणीन्द्रियकर्माणि प्राणकर्माणि चापरे। आत्मसंयमयोगाग्नौ ज…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_27",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_28",
+      "citation": "BG 4.28",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.28) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.28 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_26",
+        "bg_4_27",
+        "bg_4_29",
+        "bg_4_30"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: द्रव्ययज्ञास्तपोयज्ञा योगयज्ञास्तथापरे। स्वाध्यायज्ञानयज्ञाश…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_28",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_29",
+      "citation": "BG 4.29",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.29) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.29 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_27",
+        "bg_4_28",
+        "bg_4_30",
+        "bg_4_31"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अपाने जुह्वति प्राण प्राणेऽपानं तथाऽपरे। प्राणापानगती रुद्ध्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_29",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_30",
+      "citation": "BG 4.30",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.30) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.30 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_28",
+        "bg_4_29",
+        "bg_4_31",
+        "bg_4_32"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अपरे नियताहाराः प्राणान्प्राणेषु जुह्वति। सर्वेऽप्येते यज्ञव…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_30",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_31",
+      "citation": "BG 4.31",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.31) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.31 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_29",
+        "bg_4_30",
+        "bg_4_32",
+        "bg_4_33"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम्। नायं लोकोऽस्त्ययज्ञ…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_31",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_32",
+      "citation": "BG 4.32",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.32) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.32 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_30",
+        "bg_4_31",
+        "bg_4_33",
+        "bg_4_34"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: एवं बहुविधा यज्ञा वितता ब्रह्मणो मुखे। कर्मजान्विद्धि तान्सर…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_32",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_33",
+      "citation": "BG 4.33",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.33) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.33 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_31",
+        "bg_4_32",
+        "bg_4_34",
+        "bg_4_35"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञः परन्तप। सर्वं कर्माखिलं…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_33",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_34",
+      "citation": "BG 4.34",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.34) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.34 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_32",
+        "bg_4_33",
+        "bg_4_35",
+        "bg_4_36"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया। उपदेक्ष्यन्ति ते ज्ञ…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_34",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_35",
+      "citation": "BG 4.35",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.35) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.35 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_33",
+        "bg_4_34",
+        "bg_4_36",
+        "bg_4_37"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यज्ज्ञात्वा न पुनर्मोहमेवं यास्यसि पाण्डव। येन भूतान्यशेषेण …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_35",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_36",
+      "citation": "BG 4.36",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.36) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.36 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_34",
+        "bg_4_35",
+        "bg_4_37",
+        "bg_4_38"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अपि चेदसि पापेभ्यः सर्वेभ्यः पापकृत्तमः। सर्वं ज्ञानप्लवेनैव…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_36",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_37",
+      "citation": "BG 4.37",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.37) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.37 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_35",
+        "bg_4_36",
+        "bg_4_38",
+        "bg_4_39"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यथैधांसि समिद्धोऽग्निर्भस्मसात्कुरुतेऽर्जुन। ज्ञानाग्निः सर्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_37",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_38",
+      "citation": "BG 4.38",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.38) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.38 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_36",
+        "bg_4_37",
+        "bg_4_39",
+        "bg_4_40"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: न हि ज्ञानेन सदृशं पवित्रमिह विद्यते। तत्स्वयं योगसंसिद्धः क…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_38",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_39",
+      "citation": "BG 4.39",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.39) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.39 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_37",
+        "bg_4_38",
+        "bg_4_40",
+        "bg_4_41"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः। ज्ञानं लब्ध्वा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_39",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_40",
+      "citation": "BG 4.40",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.40) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.40 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_38",
+        "bg_4_39",
+        "bg_4_41",
+        "bg_4_42"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति। नायं लोकोऽस्ति न पर…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_40",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_41",
+      "citation": "BG 4.41",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.41) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.41 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_39",
+        "bg_4_40",
+        "bg_4_42"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: योगसंन्यस्तकर्माणं ज्ञानसंछिन्नसंशयम्। आत्मवन्तं न कर्माणि न…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_41",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_4_42",
+      "citation": "BG 4.42",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Karma-Sannyasa — Knowledge in Action (BG 4.42) inviting reflection on knowledge, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 4 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "karma",
+        "wisdom",
+        "yoga"
+      ],
+      "emotions": [
+        "confusion",
+        "peace",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "wisdom",
+        "humility",
+        "discipline"
+      ],
+      "practice": [
+        "Sit with BG 4.42 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 4's theme (Jnana-Karma-Sannyasa — Knowledge in Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_4_40",
+        "bg_4_41"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तस्मादज्ञानसंभूतं हृत्स्थं ज्ञानासिनाऽऽत्मनः। छित्त्वैनं संश…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_4_42",
+      "review_notes": []
+    }
+  ]
+}

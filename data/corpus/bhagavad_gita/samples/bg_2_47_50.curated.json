@@ -1,0 +1,266 @@
+{
+  "manifest": {
+    "scripture": "bhagavad_gita",
+    "edition": "sarathi_canonical_v0",
+    "language": "en",
+    "version": "0.1.0",
+    "description": "Sarathi curated sample (Layer 2): Chapter 2 verses 47–50.",
+    "publisher": "Sarathi AI",
+    "license": "internal-curated",
+    "corpus_layer": "enriched"
+  },
+  "nodes": [
+    {
+      "id": "bg_2_47",
+      "scripture": "bhagavad_gita",
+      "node_type": "VERSE",
+      "locator": {
+        "chapter": 2,
+        "verse": 47
+      },
+      "citation": "BG 2.47",
+      "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥",
+      "transliteration": "karmaṇy-evādhikāras te mā phaleṣu kadācana mā karma-phala-hetur bhūr mā te saṅgo ’stv akarmaṇi",
+      "translations": [
+        {
+          "edition": "sarathi_curated",
+          "translator": "Sarathi editorial",
+          "text": "You have a right to perform your prescribed duty, but you are not entitled to the fruits of action. Never consider yourself the cause of the results of your activities, and never be attached to not doing your duty.",
+          "license": "internal-curated",
+          "is_default": true
+        },
+        {
+          "edition": "easwaran_style_paraphrase",
+          "translator": "Sarathi editorial (study paraphrase)",
+          "text": "You can choose your actions, but you cannot control their results. Do not let craving for outcomes drive you — and do not use detachment as an excuse to avoid responsibility.",
+          "license": "internal-curated",
+          "is_default": false
+        }
+      ],
+      "commentary": "Nishkama karma: act fully, release clinging to results. This steadies performance anxiety without endorsing passivity.",
+      "summary": "Do your work with dedication; do not stake your peace on the outcome — and do not abandon duty.",
+      "topics": [
+        "duty",
+        "karma",
+        "detachment"
+      ],
+      "emotions": [
+        "anxiety",
+        "fear"
+      ],
+      "life_domains": [
+        "career",
+        "placements",
+        "business"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_encouragement",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "perseverance",
+        "non_attachment"
+      ],
+      "practice": [
+        "Focus on today's work.",
+        "Do not obsess over outcomes."
+      ],
+      "reflection_question": "Where am I attaching my happiness to the outcome?",
+      "related_nodes": [
+        "bg_2_48",
+        "bg_2_49",
+        "bg_2_50"
+      ],
+      "corpus_layer": "enriched",
+      "commentaries": [],
+      "source_metadata": {}
+    },
+    {
+      "id": "bg_2_48",
+      "scripture": "bhagavad_gita",
+      "node_type": "VERSE",
+      "locator": {
+        "chapter": 2,
+        "verse": 48
+      },
+      "citation": "BG 2.48",
+      "sanskrit": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय। सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते॥",
+      "transliteration": "yoga-sthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanañjaya siddhy-asiddhyoḥ samo bhūtvā samatvaṁ yoga ucyate",
+      "translations": [
+        {
+          "edition": "sarathi_curated",
+          "translator": "Sarathi editorial",
+          "text": "Perform your duty equipoised, O Arjuna, abandoning all attachment to success or failure. Such equanimity is called yoga.",
+          "license": "internal-curated",
+          "is_default": true
+        }
+      ],
+      "commentary": "Yoga here is evenness of mind in success and failure — the practical twin of 2.47's release from fruit-obsession.",
+      "summary": "Stay steady in action; treat success and failure with the same composure — that balance is yoga.",
+      "topics": [
+        "yoga",
+        "equanimity",
+        "duty",
+        "detachment"
+      ],
+      "emotions": [
+        "anxiety",
+        "fear",
+        "restlessness"
+      ],
+      "life_domains": [
+        "career",
+        "studies",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_discipline",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "equanimity",
+        "discipline",
+        "patience"
+      ],
+      "practice": [
+        "Before a result arrives, name one action still fully in your control.",
+        "When news is good or bad, pause one breath before reacting."
+      ],
+      "reflection_question": "Can I stay kind and clear whether this attempt succeeds or fails?",
+      "related_nodes": [
+        "bg_2_47",
+        "bg_2_50"
+      ],
+      "corpus_layer": "enriched",
+      "commentaries": [],
+      "source_metadata": {}
+    },
+    {
+      "id": "bg_2_49",
+      "scripture": "bhagavad_gita",
+      "node_type": "VERSE",
+      "locator": {
+        "chapter": 2,
+        "verse": 49
+      },
+      "citation": "BG 2.49",
+      "sanskrit": "दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय। बुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः॥",
+      "transliteration": "dūreṇa hy avaraṁ karma buddhi-yogād dhanañjaya buddhau śaraṇam anviccha kṛpaṇāḥ phala-hetavaḥ",
+      "translations": [
+        {
+          "edition": "sarathi_curated",
+          "translator": "Sarathi editorial",
+          "text": "O Dhananjaya, keep far away from degrading action driven only by reward. Take refuge in buddhi-yoga — those who work only for fruits are miserly in spirit.",
+          "license": "internal-curated",
+          "is_default": true
+        }
+      ],
+      "commentary": "Action narrowed to payoff shrinks the heart. Buddhi-yoga widens motive: clarity and dharma over grasping.",
+      "summary": "Don't let reward-seeking shrink your work; take refuge in clear, intelligent action.",
+      "topics": [
+        "karma",
+        "wisdom",
+        "detachment",
+        "action"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "money",
+        "business"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "honesty"
+      ],
+      "practice": [
+        "Write the purpose of your work beyond salary or status.",
+        "Notice one decision today made only to impress or secure praise."
+      ],
+      "reflection_question": "Where has chasing reward made my work smaller than it could be?",
+      "related_nodes": [
+        "bg_2_47",
+        "bg_2_50"
+      ],
+      "corpus_layer": "enriched",
+      "commentaries": [],
+      "source_metadata": {}
+    },
+    {
+      "id": "bg_2_50",
+      "scripture": "bhagavad_gita",
+      "node_type": "VERSE",
+      "locator": {
+        "chapter": 2,
+        "verse": 50
+      },
+      "citation": "BG 2.50",
+      "sanskrit": "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते। तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्॥",
+      "transliteration": "buddhi-yukto jahātīha ubhe sukṛta-duṣkṛte tasmād yogāya yujyasva yogaḥ karmasu kauśalam",
+      "translations": [
+        {
+          "edition": "sarathi_curated",
+          "translator": "Sarathi editorial",
+          "text": "One established in buddhi casts off both good and bad reactions here in this world. Therefore devote yourself to yoga — yoga is skill in action.",
+          "license": "internal-curated",
+          "is_default": true
+        }
+      ],
+      "commentary": "Skill in action is not clever productivity alone; it is action done with steady intelligence, free from the bondage of reactive merit and demerit.",
+      "summary": "With steady intelligence, act skillfully — yoga is excellence in how you work, not obsession with credit.",
+      "topics": [
+        "yoga",
+        "wisdom",
+        "action",
+        "discipline"
+      ],
+      "emotions": [
+        "anxiety",
+        "overwhelm",
+        "peace"
+      ],
+      "life_domains": [
+        "career",
+        "studies",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_courage",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "wisdom",
+        "perseverance"
+      ],
+      "practice": [
+        "Choose one task and do it with full attention for twenty minutes.",
+        "End the day by noting one action done well regardless of outcome."
+      ],
+      "reflection_question": "What would 'skill in action' look like in my hardest task this week?",
+      "related_nodes": [
+        "bg_2_47",
+        "bg_2_48",
+        "bg_2_49"
+      ],
+      "corpus_layer": "enriched",
+      "commentaries": [],
+      "source_metadata": {}
+    }
+  ]
+}

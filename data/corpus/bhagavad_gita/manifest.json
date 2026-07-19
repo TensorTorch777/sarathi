@@ -1,0 +1,150 @@
+{
+  "product": "Sarathi Canonical Corpus",
+  "scripture": "bhagavad_gita",
+  "version": "1.0.0-authentic",
+  "status": "layer1_complete",
+  "master_file": "bhagavad_gita.json",
+  "single_source_of_truth": true,
+  "runtime_depends_on_website": false,
+  "authentic_scripture": {
+    "corpus_layer": "authentic",
+    "verse_count": 700,
+    "target_verse_count": 700,
+    "validation": "ok",
+    "locked": true,
+    "notes": "Layer 1 complete. Classic 700-verse numbering (ch.13 = 34). Do not auto-modify.",
+    "version": "1.0.0"
+  },
+  "sarathi_intelligence": {
+    "terminology": "Sarathi Intelligence",
+    "path": "sarathi_intelligence/",
+    "index": "sarathi_intelligence/ALL.generated.json",
+    "review_queue": "sarathi_intelligence/review_queue.json",
+    "enrichment_count": 700,
+    "status": "v0.3.0_partial_approved",
+    "editorial_workflow": [
+      "generated",
+      "reviewed",
+      "approved",
+      "locked"
+    ],
+    "approval_policy": "Never auto-approve. Review via review_queue.json in batches of 10–20.",
+    "version": "0.3.0",
+    "changelog": "sarathi_intelligence/CHANGELOG.md",
+    "verse_families": "sarathi_intelligence/verse_families.json",
+    "approved_count": 23,
+    "freeze_v0_3_0": "sarathi_intelligence/releases/v0.3.0.freeze.json",
+    "git_tag_status": "pending — workspace has no .git; freeze file is the snapshot"
+  },
+  "coverage": {
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "verse_count": 700
+  },
+  "provenance": {
+    "extraction_source": "gita_supersite",
+    "extraction_mode": "sanskrit_only",
+    "importer": "app.importers.gita_supersite",
+    "license_policy": "SOURCE_LICENSE.md",
+    "translations_included": false,
+    "commentaries_included": false
+  },
+  "quality_gates": {
+    "unique_ids": true,
+    "unique_citations": true,
+    "all_sanskrit_present": true,
+    "validation_zero_errors": true,
+    "intelligence_coverage": "700/700 generated"
+  },
+  "enrichment_roadmap": {
+    "milestone_1": "DONE — 700 authentic verses imported and validated",
+    "milestone_2": "IN PROGRESS — karma-yoga core + Sthitaprajña (2.54–72) reviewed",
+    "milestone_3": "DONE for highest-value Ch.2 units (2.47–50, 2.54–72) approved",
+    "milestone_4": "NEXT — Chapter 6 (start 6.5–6.10)"
+  },
+  "editorial": {
+    "guide": "EDITORIAL_GUIDE.md",
+    "voice": "SARATHI_VOICE.md",
+    "approval_checklist": "7 criteria in EDITORIAL_GUIDE.md",
+    "reviewed_count": 23,
+    "approved_count": 23,
+    "clusters": {
+      "karma_yoga_core": {
+        "verses": [
+          "bg_2_47",
+          "bg_2_48",
+          "bg_2_49",
+          "bg_2_50"
+        ],
+        "status": "reviewed"
+      },
+      "sthitaprajna": {
+        "verses": [
+          "bg_2_54",
+          "bg_2_55",
+          "bg_2_56",
+          "bg_2_57",
+          "bg_2_58",
+          "bg_2_59",
+          "bg_2_60",
+          "bg_2_61",
+          "bg_2_62",
+          "bg_2_63",
+          "bg_2_64",
+          "bg_2_65",
+          "bg_2_66",
+          "bg_2_67",
+          "bg_2_68",
+          "bg_2_69",
+          "bg_2_70",
+          "bg_2_71",
+          "bg_2_72"
+        ],
+        "status": "reviewed"
+      }
+    },
+    "next_recommended": [
+      "chapter_6",
+      "chapter_12",
+      "bg_18_66_cluster"
+    ],
+    "golden_benchmark": "benchmarks/golden_queries.v0.json",
+    "intelligence_version": "0.3.0",
+    "authentic_version": "1.0.0",
+    "progressive_disclosure": true,
+    "next_milestone": "v0.4.0 — approve Self Mastery BG 6.5–6.10 after second pass",
+    "in_review": [
+      "bg_6_5",
+      "bg_6_6",
+      "bg_6_7",
+      "bg_6_8",
+      "bg_6_9",
+      "bg_6_10"
+    ]
+  },
+  "related_paths": {
+    "taxonomies": "taxonomies.json",
+    "samples": "samples/",
+    "offline_source_cache": "sources/ (gitignored; not used at runtime)",
+    "license": "SOURCE_LICENSE.md",
+    "editorial_guide": "EDITORIAL_GUIDE.md"
+  }
+}

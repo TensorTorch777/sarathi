@@ -1,0 +1,235 @@
+@import "tailwindcss";
+
+:root {
+  --bg-deep: #07080c;
+  --bg-elevated: #101218;
+  --bg-panel: rgba(18, 20, 28, 0.72);
+  --glass-border: rgba(212, 175, 55, 0.18);
+  --glass-highlight: rgba(255, 248, 220, 0.06);
+  --gold: #d4af37;
+  --gold-soft: #e6c768;
+  --gold-dim: #8a7020;
+  --ink: #f3efe3;
+  --ink-muted: #a39e90;
+  --ink-faint: #6f6a5e;
+  --danger: #e07a6a;
+  --success: #7cb89a;
+  --radius-lg: 1.25rem;
+  --shadow-glow: 0 0 60px rgba(212, 175, 55, 0.08);
+  --font-display: var(--font-cormorant), "Times New Roman", serif;
+  --font-body: var(--font-sora), system-ui, sans-serif;
+}
+
+@theme inline {
+  --color-background: var(--bg-deep);
+  --color-foreground: var(--ink);
+  --font-sans: var(--font-body);
+  --font-serif: var(--font-display);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  color: var(--ink);
+  font-family: var(--font-body);
+  background:
+    radial-gradient(1200px 600px at 10% -10%, rgba(212, 175, 55, 0.12), transparent 55%),
+    radial-gradient(900px 500px at 90% 0%, rgba(90, 70, 30, 0.18), transparent 50%),
+    radial-gradient(800px 600px at 50% 100%, rgba(212, 175, 55, 0.05), transparent 55%),
+    linear-gradient(180deg, #0b0c11 0%, var(--bg-deep) 45%, #05060a 100%);
+  background-attachment: fixed;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: rgba(212, 175, 55, 0.35);
+  color: #fff8e7;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
+
+.glass {
+  background: var(--bg-panel);
+  border: 1px solid var(--glass-border);
+  backdrop-filter: blur(18px) saturate(1.2);
+  -webkit-backdrop-filter: blur(18px) saturate(1.2);
+  box-shadow: var(--shadow-glow), inset 0 1px 0 var(--glass-highlight);
+}
+
+.gold-text {
+  background: linear-gradient(120deg, #f4e4a6 0%, var(--gold) 45%, #b8922a 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.brand-mark {
+  font-family: var(--font-display);
+  letter-spacing: 0.04em;
+}
+
+.scrollbar-thin {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(212, 175, 55, 0.35) transparent;
+}
+
+.scrollbar-thin::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: rgba(212, 175, 55, 0.28);
+  border-radius: 999px;
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse-gold {
+  0%,
+  100% {
+    opacity: 0.35;
+    transform: scale(0.9);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes caret-blink {
+  0%,
+  49% {
+    opacity: 1;
+  }
+  50%,
+  100% {
+    opacity: 0;
+  }
+}
+
+.animate-fade-up {
+  animation: fade-up 0.45s ease-out both;
+}
+
+.typing-dot {
+  animation: pulse-gold 1.2s ease-in-out infinite;
+}
+
+.typing-dot:nth-child(2) {
+  animation-delay: 0.15s;
+}
+
+.typing-dot:nth-child(3) {
+  animation-delay: 0.3s;
+}
+
+.stream-caret::after {
+  content: "\258C";
+  margin-left: 2px;
+  color: var(--gold-soft);
+  animation: caret-blink 1s step-end infinite;
+}
+
+.prose-sarathi {
+  line-height: 1.7;
+  color: var(--ink);
+}
+
+.prose-sarathi h1,
+.prose-sarathi h2,
+.prose-sarathi h3,
+.prose-sarathi h4 {
+  font-family: var(--font-display);
+  color: var(--gold-soft);
+  font-weight: 500;
+  margin: 1.25em 0 0.5em;
+  letter-spacing: 0.02em;
+}
+
+.prose-sarathi h1 {
+  font-size: 1.6rem;
+}
+
+.prose-sarathi h2 {
+  font-size: 1.35rem;
+}
+
+.prose-sarathi h3 {
+  font-size: 1.15rem;
+}
+
+.prose-sarathi p {
+  margin: 0.75em 0;
+}
+
+.prose-sarathi ul,
+.prose-sarathi ol {
+  margin: 0.75em 0;
+  padding-left: 1.25rem;
+}
+
+.prose-sarathi li {
+  margin: 0.35em 0;
+}
+
+.prose-sarathi strong {
+  color: #fff6d6;
+  font-weight: 600;
+}
+
+.prose-sarathi blockquote {
+  margin: 1em 0;
+  padding: 0.75rem 1rem;
+  border-left: 2px solid var(--gold);
+  background: rgba(212, 175, 55, 0.06);
+  color: var(--ink-muted);
+  border-radius: 0 0.75rem 0.75rem 0;
+}
+
+.prose-sarathi code {
+  font-size: 0.9em;
+  padding: 0.1em 0.35em;
+  border-radius: 0.35rem;
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.prose-sarathi pre {
+  overflow-x: auto;
+  padding: 0.9rem 1rem;
+  border-radius: 0.85rem;
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.prose-sarathi a {
+  color: var(--gold-soft);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}

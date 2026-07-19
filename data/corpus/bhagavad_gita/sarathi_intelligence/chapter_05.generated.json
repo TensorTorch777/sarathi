@@ -1,0 +1,1573 @@
+{
+  "manifest": {
+    "name": "Sarathi Intelligence",
+    "scripture": "bhagavad_gita",
+    "chapter": 5,
+    "chapter_title": "Karma-Sannyasa — Renunciation and Action",
+    "version": "0.2.0-generated",
+    "status": "generated",
+    "authentic_corpus": "../bhagavad_gita.json",
+    "editorial_workflow": [
+      "generated",
+      "reviewed",
+      "approved",
+      "locked"
+    ],
+    "enrichment_count": 29,
+    "approval_policy": "Never auto-approve. Human review required."
+  },
+  "enrichments": [
+    {
+      "node_id": "bg_5_1",
+      "citation": "BG 5.1",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.1) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.1 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_2",
+        "bg_5_3",
+        "bg_5_4"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अर्जुन उवाच संन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि। यच्छ्र…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_1",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_2",
+      "citation": "BG 5.2",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.2) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.2 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_1",
+        "bg_5_3",
+        "bg_5_4",
+        "bg_5_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्री भगवानुवाच संन्यासः कर्मयोगश्च निःश्रेयसकरावुभौ। तयोस्तु…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_2",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_3",
+      "citation": "BG 5.3",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.3) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.3 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_1",
+        "bg_5_2",
+        "bg_5_4",
+        "bg_5_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ज्ञेयः स नित्यसंन्यासी यो न द्वेष्टि न काङ्क्षति। निर्द्वन्द…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_3",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_4",
+      "citation": "BG 5.4",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.4) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.4 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_2",
+        "bg_5_3",
+        "bg_5_5",
+        "bg_5_6"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सांख्ययोगौ पृथग्बालाः प्रवदन्ति न पण्डिताः। एकमप्यास्थितः सम…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_4",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_5",
+      "citation": "BG 5.5",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.5) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.5 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_3",
+        "bg_5_4",
+        "bg_5_6",
+        "bg_5_7"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यत्सांख्यैः प्राप्यते स्थानं तद्योगैरपि गम्यते। एकं सांख्यं …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_5",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_6",
+      "citation": "BG 5.6",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.6) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity",
+        "yoga"
+      ],
+      "emotions": [
+        "grief",
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.6 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_4",
+        "bg_5_5",
+        "bg_5_7",
+        "bg_5_8"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: संन्यासस्तु महाबाहो दुःखमाप्तुमयोगतः। योगयुक्तो मुनिर्ब्रह्म…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_6",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_7",
+      "citation": "BG 5.7",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.7) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.7 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_5",
+        "bg_5_6",
+        "bg_5_8",
+        "bg_5_9"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: योगयुक्तो विशुद्धात्मा विजितात्मा जितेन्द्रियः। सर्वभूतात्मभ…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_7",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_8",
+      "citation": "BG 5.8",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.8) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.8 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_6",
+        "bg_5_7",
+        "bg_5_9",
+        "bg_5_10"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: नैव किंचित्करोमीति युक्तो मन्येत तत्त्ववित्। पश्यञ्शृण्वन्स्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_8",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_9",
+      "citation": "BG 5.9",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.9) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.9 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_7",
+        "bg_5_8",
+        "bg_5_10",
+        "bg_5_11"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: प्रलपन्विसृजन्गृह्णन्नुन्मिषन्निमिषन्नपि। इन्द्रियाणीन्द्रिय…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_9",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_10",
+      "citation": "BG 5.10",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.10) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.10 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_8",
+        "bg_5_9",
+        "bg_5_11",
+        "bg_5_12"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः। लिप्यते न स …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_10",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_11",
+      "citation": "BG 5.11",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.11) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.11 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_9",
+        "bg_5_10",
+        "bg_5_12",
+        "bg_5_13"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: कायेन मनसा बुद्ध्या केवलैरिन्द्रियैरपि। योगिनः कर्म कुर्वन्त…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_11",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_12",
+      "citation": "BG 5.12",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.12) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity",
+        "yoga"
+      ],
+      "emotions": [
+        "anger",
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.12 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_10",
+        "bg_5_11",
+        "bg_5_13",
+        "bg_5_14"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: युक्तः कर्मफलं त्यक्त्वा शान्तिमाप्नोति नैष्ठिकीम्। अयुक्तः …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_12",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_13",
+      "citation": "BG 5.13",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.13) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.13 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_11",
+        "bg_5_12",
+        "bg_5_14",
+        "bg_5_15"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी। नवद्वारे पुरे देही …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_13",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_14",
+      "citation": "BG 5.14",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.14) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.14 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_12",
+        "bg_5_13",
+        "bg_5_15",
+        "bg_5_16"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभुः। न कर्मफलसंयोगं स्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_14",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_15",
+      "citation": "BG 5.15",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.15) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.15 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_13",
+        "bg_5_14",
+        "bg_5_16",
+        "bg_5_17"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: नादत्ते कस्यचित्पापं न चैव सुकृतं विभुः। अज्ञानेनावृतं ज्ञान…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_15",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_16",
+      "citation": "BG 5.16",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.16) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.16 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_14",
+        "bg_5_15",
+        "bg_5_17",
+        "bg_5_18"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ज्ञानेन तु तदज्ञानं येषां नाशितमात्मनः। तेषामादित्यवज्ज्ञानं…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_16",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_17",
+      "citation": "BG 5.17",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.17) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.17 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_15",
+        "bg_5_16",
+        "bg_5_18",
+        "bg_5_19"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणाः। गच्छन्त्यपुनरावृ…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_17",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_18",
+      "citation": "BG 5.18",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.18) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.18 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_16",
+        "bg_5_17",
+        "bg_5_19",
+        "bg_5_20"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: विद्याविनयसंपन्ने ब्राह्मणे गवि हस्तिनि। शुनि चैव श्वपाके च …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_18",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_19",
+      "citation": "BG 5.19",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.19) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.19 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_17",
+        "bg_5_18",
+        "bg_5_20",
+        "bg_5_21"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: इहैव तैर्जितः सर्गो येषां साम्ये स्थितं मनः। निर्दोषं हि समं…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_19",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_20",
+      "citation": "BG 5.20",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.20) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.20 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_18",
+        "bg_5_19",
+        "bg_5_21",
+        "bg_5_22"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: न प्रहृष्येत्प्रियं प्राप्य नोद्विजेत्प्राप्य चाप्रियम्। स्थ…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_20",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_21",
+      "citation": "BG 5.21",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.21) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.21 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_19",
+        "bg_5_20",
+        "bg_5_22",
+        "bg_5_23"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम्। स ब्रह्मयो…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_21",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_22",
+      "citation": "BG 5.22",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.22) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity"
+      ],
+      "emotions": [
+        "grief",
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.22 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_20",
+        "bg_5_21",
+        "bg_5_23",
+        "bg_5_24"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ये हि संस्पर्शजा भोगा दुःखयोनय एव ते। आद्यन्तवन्तः कौन्तेय न…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_22",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_23",
+      "citation": "BG 5.23",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.23) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity"
+      ],
+      "emotions": [
+        "anger",
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.23 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_21",
+        "bg_5_22",
+        "bg_5_24",
+        "bg_5_25"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: शक्नोतीहैव यः सोढुं प्राक्शरीरविमोक्षणात्। कामक्रोधोद्भवं वे…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_23",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_24",
+      "citation": "BG 5.24",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.24) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.24 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_22",
+        "bg_5_23",
+        "bg_5_25",
+        "bg_5_26"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: योऽन्तःसुखोऽन्तरारामस्तथान्तर्ज्योतिरेव यः। स योगी ब्रह्मनिर…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_24",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_25",
+      "citation": "BG 5.25",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.25) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.25 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_23",
+        "bg_5_24",
+        "bg_5_26",
+        "bg_5_27"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: लभन्ते ब्रह्मनिर्वाणमृषयः क्षीणकल्मषाः। छिन्नद्वैधा यतात्मान…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_25",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_26",
+      "citation": "BG 5.26",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.26) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity"
+      ],
+      "emotions": [
+        "anger",
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.26 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_24",
+        "bg_5_25",
+        "bg_5_27",
+        "bg_5_28"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: कामक्रोधवियुक्तानां यतीनां यतचेतसाम्। अभितो ब्रह्मनिर्वाणं व…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_26",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_27",
+      "citation": "BG 5.27",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.27) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.27 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_25",
+        "bg_5_26",
+        "bg_5_28",
+        "bg_5_29"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: स्पर्शान्कृत्वा बहिर्बाह्यांश्चक्षुश्चैवान्तरे भ्रुवोः। प्रा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_27",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_28",
+      "citation": "BG 5.28",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.28) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity"
+      ],
+      "emotions": [
+        "anger",
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.28 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_26",
+        "bg_5_27",
+        "bg_5_29"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायणः। विगतेच्छाभयक्रोधो यः…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_28",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_5_29",
+      "citation": "BG 5.29",
+      "status": "generated",
+      "summary": "A teaching from Karma-Sannyasa — Renunciation and Action (BG 5.29) inviting reflection on renunciation, karma.",
+      "modern_interpretation": "In modern life, this verse from Chapter 5 supports clarity around renunciation when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "renunciation",
+        "karma",
+        "equanimity"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit with BG 5.29 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 5's theme (Karma-Sannyasa — Renunciation and Action) asking of me through this verse?",
+      "related_verses": [
+        "bg_5_27",
+        "bg_5_28"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम्। सुहृदं सर्वभूतानां ज्ञा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_5_29",
+      "review_notes": []
+    }
+  ]
+}

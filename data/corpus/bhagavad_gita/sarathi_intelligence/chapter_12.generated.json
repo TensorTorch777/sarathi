@@ -1,0 +1,1103 @@
+{
+  "manifest": {
+    "name": "Sarathi Intelligence",
+    "scripture": "bhagavad_gita",
+    "chapter": 12,
+    "chapter_title": "Bhakti Yoga — Devotion",
+    "version": "0.2.0-generated",
+    "status": "generated",
+    "authentic_corpus": "../bhagavad_gita.json",
+    "editorial_workflow": [
+      "generated",
+      "reviewed",
+      "approved",
+      "locked"
+    ],
+    "enrichment_count": 20,
+    "approval_policy": "Never auto-approve. Human review required."
+  },
+  "enrichments": [
+    {
+      "node_id": "bg_12_1",
+      "citation": "BG 12.1",
+      "status": "generated",
+      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.1) inviting reflection on devotion, equanimity.",
+      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "equanimity",
+        "compassion",
+        "karma"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "grief"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "relationships",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "compassion",
+        "equanimity",
+        "patience"
+      ],
+      "practice": [
+        "Sit with BG 12.1 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "related_verses": [
+        "bg_12_2",
+        "bg_12_3",
+        "bg_12_4"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अर्जुन उवाच एवं सततयुक्ता ये भक्तास्त्वां पर्युपासते। येचाप्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_12_1",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_12_2",
+      "citation": "BG 12.2",
+      "status": "generated",
+      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.2) inviting reflection on devotion, equanimity.",
+      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "equanimity",
+        "compassion"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "grief"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "relationships",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "compassion",
+        "equanimity",
+        "patience"
+      ],
+      "practice": [
+        "Sit with BG 12.2 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "related_verses": [
+        "bg_12_1",
+        "bg_12_3",
+        "bg_12_4",
+        "bg_12_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्री भगवानुवाच मय्यावेश्य मनो ये मां नित्ययुक्ता उपासते। श्र…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_12_2",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_12_3",
+      "citation": "BG 12.3",
+      "status": "generated",
+      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.3) inviting reflection on devotion, equanimity.",
+      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "equanimity",
+        "compassion"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "grief"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "relationships",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "compassion",
+        "equanimity",
+        "patience"
+      ],
+      "practice": [
+        "Sit with BG 12.3 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "related_verses": [
+        "bg_12_1",
+        "bg_12_2",
+        "bg_12_4",
+        "bg_12_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते। सर्वत्रगमचिन्त्यं च…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_12_3",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_12_4",
+      "citation": "BG 12.4",
+      "status": "generated",
+      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.4) inviting reflection on devotion, equanimity.",
+      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "equanimity",
+        "compassion"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "grief"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "relationships",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "compassion",
+        "equanimity",
+        "patience"
+      ],
+      "practice": [
+        "Sit with BG 12.4 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "related_verses": [
+        "bg_12_2",
+        "bg_12_3",
+        "bg_12_5",
+        "bg_12_6"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: संनियम्येन्द्रियग्रामं सर्वत्र समबुद्धयः। ते प्राप्नुवन्ति म…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_12_4",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_12_5",
+      "citation": "BG 12.5",
+      "status": "generated",
+      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.5) inviting reflection on devotion, equanimity.",
+      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "equanimity",
+        "compassion"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "grief"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "relationships",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "compassion",
+        "equanimity",
+        "patience"
+      ],
+      "practice": [
+        "Sit with BG 12.5 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "related_verses": [
+        "bg_12_3",
+        "bg_12_4",
+        "bg_12_6",
+        "bg_12_7"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम्। अव्यक्ता हि गतिर्दुःख…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_12_5",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_12_6",
+      "citation": "BG 12.6",
+      "status": "generated",
+      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.6) inviting reflection on devotion, equanimity.",
+      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "equanimity",
+        "compassion",
+        "karma"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "grief"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "relationships",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "compassion",
+        "equanimity",
+        "patience"
+      ],
+      "practice": [
+        "Sit with BG 12.6 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "related_verses": [
+        "bg_12_4",
+        "bg_12_5",
+        "bg_12_7",
+        "bg_12_8"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्पराः। अनन्येनैव योगेन …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_12_6",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_12_7",
+      "citation": "BG 12.7",
+      "status": "generated",
+      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.7) inviting reflection on devotion, equanimity.",
+      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "equanimity",
+        "compassion"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "grief"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "relationships",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "compassion",
+        "equanimity",
+        "patience"
+      ],
+      "practice": [
+        "Sit with BG 12.7 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "related_verses": [
+        "bg_12_5",
+        "bg_12_6",
+        "bg_12_8",
+        "bg_12_9"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तेषामहं समुद्धर्ता मृत्युसंसारसागरात्। भवामि नचिरात्पार्थ मय…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_12_7",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_12_8",
+      "citation": "BG 12.8",
+      "status": "generated",
+      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.8) inviting reflection on devotion, equanimity.",
+      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "equanimity",
+        "compassion"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "grief"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "relationships",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "compassion",
+        "equanimity",
+        "patience"
+      ],
+      "practice": [
+        "Sit with BG 12.8 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "related_verses": [
+        "bg_12_6",
+        "bg_12_7",
+        "bg_12_9",
+        "bg_12_10"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: मय्येव मन आधत्स्व मयि बुद्धिं निवेशय। निवसिष्यसि मय्येव अत ऊ…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_12_8",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_12_9",
+      "citation": "BG 12.9",
+      "status": "generated",
+      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.9) inviting reflection on devotion, equanimity.",
+      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "equanimity",
+        "compassion",
+        "karma"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "grief"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "relationships",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "compassion",
+        "equanimity",
+        "patience"
+      ],
+      "practice": [
+        "Sit with BG 12.9 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "related_verses": [
+        "bg_12_7",
+        "bg_12_8",
+        "bg_12_10",
+        "bg_12_11"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम्। अभ्यासयोगेन ततो मा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_12_9",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_12_10",
+      "citation": "BG 12.10",
+      "status": "generated",
+      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.10) inviting reflection on devotion, equanimity.",
+      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "equanimity",
+        "compassion",
+        "karma"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "grief"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "relationships",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "compassion",
+        "equanimity",
+        "patience"
+      ],
+      "practice": [
+        "Sit with BG 12.10 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "related_verses": [
+        "bg_12_8",
+        "bg_12_9",
+        "bg_12_11",
+        "bg_12_12"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव। मदर्थमपि कर्माणि कुर्वन…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_12_10",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_12_11",
+      "citation": "BG 12.11",
+      "status": "generated",
+      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.11) inviting reflection on devotion, equanimity.",
+      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "equanimity",
+        "compassion",
+        "karma"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "grief"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "relationships",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "compassion",
+        "equanimity",
+        "patience"
+      ],
+      "practice": [
+        "Sit with BG 12.11 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "related_verses": [
+        "bg_12_9",
+        "bg_12_10",
+        "bg_12_12",
+        "bg_12_13"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रितः। सर्वकर्मफलत्यागं ततः…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_12_11",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_12_12",
+      "citation": "BG 12.12",
+      "status": "generated",
+      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.12) inviting reflection on devotion, equanimity.",
+      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "equanimity",
+        "compassion",
+        "karma"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "grief"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "relationships",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "compassion",
+        "equanimity",
+        "patience"
+      ],
+      "practice": [
+        "Sit with BG 12.12 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "related_verses": [
+        "bg_12_10",
+        "bg_12_11",
+        "bg_12_13",
+        "bg_12_14"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते। ध्यानात्कर…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_12_12",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_12_13",
+      "citation": "BG 12.13",
+      "status": "generated",
+      "summary": "A devotee is free of hatred, friendly and compassionate, without possessiveness or ego, equal in pain and pleasure, forgiving.",
+      "modern_interpretation": "Devotion shows up as character: warmth without ownership, steadiness without hardness.",
+      "topics": [
+        "devotion",
+        "compassion",
+        "equanimity"
+      ],
+      "emotions": [
+        "anger",
+        "peace",
+        "grief"
+      ],
+      "life_domains": [
+        "relationships",
+        "family",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_forgiveness",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "compassion",
+        "patience",
+        "humility",
+        "equanimity"
+      ],
+      "practice": [
+        "Choose one relationship; practice friendliness without needing to win."
+      ],
+      "reflection_question": "Where is possessiveness or ego blocking my capacity to be a friend?",
+      "related_verses": [
+        "bg_12_14",
+        "bg_12_15",
+        "bg_2_56"
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.85,
+        "emotions": 0.8,
+        "overall": 0.9
+      },
+      "uncertainty_notes": "High-priority verse override — still requires human review before approval.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_12_13",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_12_14",
+      "citation": "BG 12.14",
+      "status": "generated",
+      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.14) inviting reflection on devotion, equanimity.",
+      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "equanimity",
+        "compassion",
+        "karma"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "grief"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "relationships",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "compassion",
+        "equanimity",
+        "patience"
+      ],
+      "practice": [
+        "Sit with BG 12.14 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "related_verses": [
+        "bg_12_12",
+        "bg_12_13",
+        "bg_12_15",
+        "bg_12_16"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः। मय्यर्पितमनोबुद्धिर्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_12_14",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_12_15",
+      "citation": "BG 12.15",
+      "status": "generated",
+      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.15) inviting reflection on devotion, equanimity.",
+      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "equanimity",
+        "compassion"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "grief"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "relationships",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "compassion",
+        "equanimity",
+        "patience"
+      ],
+      "practice": [
+        "Sit with BG 12.15 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "related_verses": [
+        "bg_12_13",
+        "bg_12_14",
+        "bg_12_16",
+        "bg_12_17"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः। हर्षामर्षभयोद्वे…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_12_15",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_12_16",
+      "citation": "BG 12.16",
+      "status": "generated",
+      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.16) inviting reflection on devotion, equanimity.",
+      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "equanimity",
+        "compassion"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "grief"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "relationships",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "compassion",
+        "equanimity",
+        "patience"
+      ],
+      "practice": [
+        "Sit with BG 12.16 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "related_verses": [
+        "bg_12_14",
+        "bg_12_15",
+        "bg_12_17",
+        "bg_12_18"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अनपेक्षः शुचिर्दक्ष उदासीनो गतव्यथः। सर्वारम्भपरित्यागी यो म…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_12_16",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_12_17",
+      "citation": "BG 12.17",
+      "status": "generated",
+      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.17) inviting reflection on devotion, equanimity.",
+      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "equanimity",
+        "compassion"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "grief"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "relationships",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "compassion",
+        "equanimity",
+        "patience"
+      ],
+      "practice": [
+        "Sit with BG 12.17 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "related_verses": [
+        "bg_12_15",
+        "bg_12_16",
+        "bg_12_18",
+        "bg_12_19"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति। शुभाशुभपरित्याग…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_12_17",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_12_18",
+      "citation": "BG 12.18",
+      "status": "generated",
+      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.18) inviting reflection on devotion, equanimity.",
+      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "equanimity",
+        "compassion"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "grief"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "relationships",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "compassion",
+        "equanimity",
+        "patience"
+      ],
+      "practice": [
+        "Sit with BG 12.18 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "related_verses": [
+        "bg_12_16",
+        "bg_12_17",
+        "bg_12_19",
+        "bg_12_20"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: समः शत्रौ च मित्रे च तथा मानापमानयोः। शीतोष्णसुखदुःखेषु समः …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_12_18",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_12_19",
+      "citation": "BG 12.19",
+      "status": "generated",
+      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.19) inviting reflection on devotion, equanimity.",
+      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "equanimity",
+        "compassion"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "grief"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "relationships",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "compassion",
+        "equanimity",
+        "patience"
+      ],
+      "practice": [
+        "Sit with BG 12.19 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "related_verses": [
+        "bg_12_17",
+        "bg_12_18",
+        "bg_12_20"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येनकेनचित्। अनिकेतः स्थिरम…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_12_19",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_12_20",
+      "citation": "BG 12.20",
+      "status": "generated",
+      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.20) inviting reflection on devotion, equanimity.",
+      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "equanimity",
+        "compassion"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "grief"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "relationships",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "devotion",
+        "compassion",
+        "equanimity",
+        "patience"
+      ],
+      "practice": [
+        "Sit with BG 12.20 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "related_verses": [
+        "bg_12_18",
+        "bg_12_19"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ये तु धर्म्यामृतमिदं यथोक्तं पर्युपासते। श्रद्दधाना मत्परमा …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_12_20",
+      "review_notes": []
+    }
+  ]
+}

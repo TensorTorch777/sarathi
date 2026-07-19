@@ -1,0 +1,11 @@
+total_verses: 700 (expected 700)
+missing_locator_slots: 0
+missing_sanskrit: 0
+missing_transliterations: 700
+missing_translations: 700
+missing_commentaries: 700
+parser_warnings: 1
+schema_errors: 0
+schema_warnings: 700
+  warn: bg_11_17: sanskrit recovered via verse marker (no मूल श्लोक header)
+status: OK

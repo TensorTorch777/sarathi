@@ -1,0 +1,51 @@
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+apps/api/.pytest_cache/
+apps/api/.ruff_cache/
+.coverage
+htmlcov/
+poetry.toml
+poetry.lock.bak
+
+# Node / Next.js
+node_modules/
+apps/web/.next/
+apps/web/out/
+npm-debug.log*
+yarn-error.log*
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+.cursor/
+
+# Docker / local data
+*.log
+.docker/
+
+# Offline scripture source caches / Layer-1 extracts (may include copyrighted text)
+data/corpus/**/sources/
+
+# Local voice / model caches
+**/.cache/
+**/piper/
+*.onnx
+*.onnx.json

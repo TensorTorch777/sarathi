@@ -1,0 +1,4275 @@
+{
+  "manifest": {
+    "name": "Sarathi Intelligence",
+    "scripture": "bhagavad_gita",
+    "chapter": 18,
+    "chapter_title": "Moksha-Sannyasa — Liberation and Surrender",
+    "version": "0.2.0-generated",
+    "status": "generated",
+    "authentic_corpus": "../bhagavad_gita.json",
+    "editorial_workflow": [
+      "generated",
+      "reviewed",
+      "approved",
+      "locked"
+    ],
+    "enrichment_count": 78,
+    "approval_policy": "Never auto-approve. Human review required."
+  },
+  "enrichments": [
+    {
+      "node_id": "bg_18_1",
+      "citation": "BG 18.1",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.1) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.1 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_2",
+        "bg_18_3",
+        "bg_18_4"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अर्जुन उवाच संन्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम्। त्या…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_1",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_2",
+      "citation": "BG 18.2",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.2) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "anger",
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.2 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_1",
+        "bg_18_3",
+        "bg_18_4",
+        "bg_18_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्री भगवानुवाच काम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः।…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_2",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_3",
+      "citation": "BG 18.3",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.3) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.3 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_1",
+        "bg_18_2",
+        "bg_18_4",
+        "bg_18_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: त्याज्यं दोषवदित्येके कर्म प्राहुर्मनीषिणः। यज्ञदानतपःकर्म न…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_3",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_4",
+      "citation": "BG 18.4",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.4) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.4 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_2",
+        "bg_18_3",
+        "bg_18_5",
+        "bg_18_6"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: निश्चयं श्रृणु मे तत्र त्यागे भरतसत्तम। त्यागो हि पुरुषव्याघ…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_4",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_5",
+      "citation": "BG 18.5",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.5) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.5 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_3",
+        "bg_18_4",
+        "bg_18_6",
+        "bg_18_7"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत्। यज्ञो दानं तपश्चैव प…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_5",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_6",
+      "citation": "BG 18.6",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.6) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.6 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_4",
+        "bg_18_5",
+        "bg_18_7",
+        "bg_18_8"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: एतान्यपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च। कर्तव्यानीति मे…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_6",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_7",
+      "citation": "BG 18.7",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.7) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.7 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_5",
+        "bg_18_6",
+        "bg_18_8",
+        "bg_18_9"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: नियतस्य तु संन्यासः कर्मणो नोपपद्यते। मोहात्तस्य परित्यागस्त…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_7",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_8",
+      "citation": "BG 18.8",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.8) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.8 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_6",
+        "bg_18_7",
+        "bg_18_9",
+        "bg_18_10"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: दुःखमित्येव यत्कर्म कायक्लेशभयात्त्यजेत्। स कृत्वा राजसं त्य…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_8",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_9",
+      "citation": "BG 18.9",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.9) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.9 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_7",
+        "bg_18_8",
+        "bg_18_10",
+        "bg_18_11"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: कार्यमित्येव यत्कर्म नियतं क्रियतेऽर्जुन। सङ्गं त्यक्त्वा फल…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_9",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_10",
+      "citation": "BG 18.10",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.10) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.10 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_8",
+        "bg_18_9",
+        "bg_18_11",
+        "bg_18_12"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: न द्वेष्ट्यकुशलं कर्म कुशले नानुषज्जते। त्यागी सत्त्वसमाविष्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_10",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_11",
+      "citation": "BG 18.11",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.11) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.11 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_9",
+        "bg_18_10",
+        "bg_18_12",
+        "bg_18_13"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः। यस्तु कर्मफलत्याग…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_11",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_12",
+      "citation": "BG 18.12",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.12) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.12 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_10",
+        "bg_18_11",
+        "bg_18_13",
+        "bg_18_14"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम्। भवत्यत्यागिनां प…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_12",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_13",
+      "citation": "BG 18.13",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.13) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.13 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_11",
+        "bg_18_12",
+        "bg_18_14",
+        "bg_18_15"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: पञ्चैतानि महाबाहो कारणानि निबोध मे। सांख्ये कृतान्ते प्रोक्त…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_13",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_14",
+      "citation": "BG 18.14",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.14) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.14 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_12",
+        "bg_18_13",
+        "bg_18_15",
+        "bg_18_16"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अधिष्ठानं तथा कर्ता करणं च पृथग्विधम्। विविधाश्च पृथक्चेष्टा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_14",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_15",
+      "citation": "BG 18.15",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.15) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.15 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_13",
+        "bg_18_14",
+        "bg_18_16",
+        "bg_18_17"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: शरीरवाङ्मनोभिर्यत्कर्म प्रारभते नरः। न्याय्यं वा विपरीतं वा …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_15",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_16",
+      "citation": "BG 18.16",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.16) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.16 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_14",
+        "bg_18_15",
+        "bg_18_17",
+        "bg_18_18"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तत्रैवं सति कर्तारमात्मानं केवलं तु यः। पश्यत्यकृतबुद्धित्वा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_16",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_17",
+      "citation": "BG 18.17",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.17) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.17 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_15",
+        "bg_18_16",
+        "bg_18_18",
+        "bg_18_19"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यस्य नाहंकृतो भावो बुद्धिर्यस्य न लिप्यते। हत्वापि स इमाँल्ल…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_17",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_18",
+      "citation": "BG 18.18",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.18) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.18 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_16",
+        "bg_18_17",
+        "bg_18_19",
+        "bg_18_20"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना। करणं कर्म कर्तेत…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_18",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_19",
+      "citation": "BG 18.19",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.19) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.19 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_17",
+        "bg_18_18",
+        "bg_18_20",
+        "bg_18_21"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ज्ञानं कर्म च कर्ता च त्रिधैव गुणभेदतः। प्रोच्यते गुणसंख्यान…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_19",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_20",
+      "citation": "BG 18.20",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.20) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.20 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_18",
+        "bg_18_19",
+        "bg_18_21",
+        "bg_18_22"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सर्वभूतेषु येनैकं भावमव्ययमीक्षते। अविभक्तं विभक्तेषु तज्ज्ञ…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_20",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_21",
+      "citation": "BG 18.21",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.21) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.21 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_19",
+        "bg_18_20",
+        "bg_18_22",
+        "bg_18_23"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान्। वेत्ति सर्वेष…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_21",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_22",
+      "citation": "BG 18.22",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.22) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.22 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_20",
+        "bg_18_21",
+        "bg_18_23",
+        "bg_18_24"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम्। अतत्त्वार्थवदल्प…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_22",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_23",
+      "citation": "BG 18.23",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.23) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.23 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_21",
+        "bg_18_22",
+        "bg_18_24",
+        "bg_18_25"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: नियतं सङ्गरहितमरागद्वेषतः कृतम्। अफलप्रेप्सुना कर्म यत्तत्सा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_23",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_24",
+      "citation": "BG 18.24",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.24) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "anger",
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.24 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_22",
+        "bg_18_23",
+        "bg_18_25",
+        "bg_18_26"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यत्तु कामेप्सुना कर्म साहङ्कारेण वा पुनः। क्रियते बहुलायासं …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_24",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_25",
+      "citation": "BG 18.25",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.25) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.25 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_23",
+        "bg_18_24",
+        "bg_18_26",
+        "bg_18_27"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अनुबन्धं क्षयं हिंसामनपेक्ष्य च पौरुषम्। मोहादारभ्यते कर्म य…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_25",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_26",
+      "citation": "BG 18.26",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.26) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.26 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_24",
+        "bg_18_25",
+        "bg_18_27",
+        "bg_18_28"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: मुक्तसङ्गोऽनहंवादी धृत्युत्साहसमन्वितः। सिद्ध्यसिद्ध्योर्निर…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_26",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_27",
+      "citation": "BG 18.27",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.27) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.27 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_25",
+        "bg_18_26",
+        "bg_18_28",
+        "bg_18_29"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: रागी कर्मफलप्रेप्सुर्लुब्धो हिंसात्मकोऽशुचिः। हर्षशोकान्वितः…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_27",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_28",
+      "citation": "BG 18.28",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.28) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.28 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_26",
+        "bg_18_27",
+        "bg_18_29",
+        "bg_18_30"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः। विषादी दीर्घसूत…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_28",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_29",
+      "citation": "BG 18.29",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.29) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.29 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_27",
+        "bg_18_28",
+        "bg_18_30",
+        "bg_18_31"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं श्रृणु। प्रोच्यमानमशेष…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_29",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_30",
+      "citation": "BG 18.30",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.30) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.30 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_28",
+        "bg_18_29",
+        "bg_18_31",
+        "bg_18_32"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये। बन्धं मोक्षं च…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_30",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_31",
+      "citation": "BG 18.31",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.31) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.31 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_29",
+        "bg_18_30",
+        "bg_18_32",
+        "bg_18_33"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यया धर्ममधर्मं च कार्यं चाकार्यमेव च। अयथावत्प्रजानाति बुद्ध…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_31",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_32",
+      "citation": "BG 18.32",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.32) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.32 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_30",
+        "bg_18_31",
+        "bg_18_33",
+        "bg_18_34"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अधर्मं धर्ममिति या मन्यते तमसाऽऽवृता। सर्वार्थान्विपरीतांश्च…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_32",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_33",
+      "citation": "BG 18.33",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.33) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.33 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_31",
+        "bg_18_32",
+        "bg_18_34",
+        "bg_18_35"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: धृत्या यया धारयते मनःप्राणेन्द्रियक्रियाः। योगेनाव्यभिचारिण्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_33",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_34",
+      "citation": "BG 18.34",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.34) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "anger",
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.34 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_32",
+        "bg_18_33",
+        "bg_18_35",
+        "bg_18_36"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यया तु धर्मकामार्थान् धृत्या धारयतेऽर्जुन। प्रसङ्गेन फलाकाङ्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_34",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_35",
+      "citation": "BG 18.35",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.35) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.35 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_33",
+        "bg_18_34",
+        "bg_18_36",
+        "bg_18_37"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यया स्वप्नं भयं शोकं विषादं मदमेव च। न विमुञ्चति दुर्मेधा धृ…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_35",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_36",
+      "citation": "BG 18.36",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.36) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.36 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_34",
+        "bg_18_35",
+        "bg_18_37",
+        "bg_18_38"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सुखं त्विदानीं त्रिविधं श्रृणु मे भरतर्षभ। अभ्यासाद्रमते यत्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_36",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_37",
+      "citation": "BG 18.37",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.37) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.37 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_35",
+        "bg_18_36",
+        "bg_18_38",
+        "bg_18_39"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यत्तदग्रे विषमिव परिणामेऽमृतोपमम्। तत्सुखं सात्त्विकं प्रोक्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_37",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_38",
+      "citation": "BG 18.38",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.38) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.38 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_36",
+        "bg_18_37",
+        "bg_18_39",
+        "bg_18_40"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम्। परिणामे विषमिव तत्सु…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_38",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_39",
+      "citation": "BG 18.39",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.39) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.39 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_37",
+        "bg_18_38",
+        "bg_18_40",
+        "bg_18_41"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यदग्रे चानुबन्धे च सुखं मोहनमात्मनः। निद्रालस्यप्रमादोत्थं त…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_39",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_40",
+      "citation": "BG 18.40",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.40) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.40 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_38",
+        "bg_18_39",
+        "bg_18_41",
+        "bg_18_42"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः। सत्त्वं प्रकृतिजै…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_40",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_41",
+      "citation": "BG 18.41",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.41) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.41 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_39",
+        "bg_18_40",
+        "bg_18_42",
+        "bg_18_43"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ब्राह्मणक्षत्रियविशां शूद्राणां च परंतप। कर्माणि प्रविभक्तान…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_41",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_42",
+      "citation": "BG 18.42",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.42) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.42 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_40",
+        "bg_18_41",
+        "bg_18_43",
+        "bg_18_44"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च। ज्ञानं विज्ञानमास्तिक्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_42",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_43",
+      "citation": "BG 18.43",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.43) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.43 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_41",
+        "bg_18_42",
+        "bg_18_44",
+        "bg_18_45"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम्। दानमीश्वरभाव…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_43",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_44",
+      "citation": "BG 18.44",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.44) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.44 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_42",
+        "bg_18_43",
+        "bg_18_45",
+        "bg_18_46"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम्। परिचर्यात्मकं कर्म…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_44",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_45",
+      "citation": "BG 18.45",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.45) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.45 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_43",
+        "bg_18_44",
+        "bg_18_46",
+        "bg_18_47"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः। स्वकर्मनिरतः सिद्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_45",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_46",
+      "citation": "BG 18.46",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.46) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.46 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_44",
+        "bg_18_45",
+        "bg_18_47",
+        "bg_18_48"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम्। स्वकर्मणा तमभ्यर्च…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_46",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_47",
+      "citation": "BG 18.47",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.47) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.47 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_45",
+        "bg_18_46",
+        "bg_18_48",
+        "bg_18_49"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्। स्वभावनियतं …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_47",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_48",
+      "citation": "BG 18.48",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.48) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.48 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_46",
+        "bg_18_47",
+        "bg_18_49",
+        "bg_18_50"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सहजं कर्म कौन्तेय सदोषमपि न त्यजेत्। सर्वारम्भा हि दोषेण धूम…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_48",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_49",
+      "citation": "BG 18.49",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.49) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.49 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_47",
+        "bg_18_48",
+        "bg_18_50",
+        "bg_18_51"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः। नैष्कर्म्यसिद्धिं …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_49",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_50",
+      "citation": "BG 18.50",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.50) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.50 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_48",
+        "bg_18_49",
+        "bg_18_51",
+        "bg_18_52"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सिद्धिं प्राप्तो यथा ब्रह्म तथाप्नोति निबोध मे। समासेनैव कौन…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_50",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_51",
+      "citation": "BG 18.51",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.51) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.51 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_49",
+        "bg_18_50",
+        "bg_18_52",
+        "bg_18_53"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: बुद्ध्या विशुद्धया युक्तो धृत्याऽऽत्मानं नियम्य च। शब्दादीन्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_51",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_52",
+      "citation": "BG 18.52",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.52) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.52 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_50",
+        "bg_18_51",
+        "bg_18_53",
+        "bg_18_54"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: विविक्तसेवी लघ्वाशी यतवाक्कायमानसः। ध्यानयोगपरो नित्यं वैराग…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_52",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_53",
+      "citation": "BG 18.53",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.53) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "anger",
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.53 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_51",
+        "bg_18_52",
+        "bg_18_54",
+        "bg_18_55"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अहङ्कारं बलं दर्पं कामं क्रोधं परिग्रहम्। विमुच्य निर्ममः शा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_53",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_54",
+      "citation": "BG 18.54",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.54) inviting reflection on devotion, surrender.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around devotion when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.54 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_52",
+        "bg_18_53",
+        "bg_18_55",
+        "bg_18_56"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति। समः सर्वेषु भूत…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_54",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_55",
+      "citation": "BG 18.55",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.55) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.55 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_53",
+        "bg_18_54",
+        "bg_18_56",
+        "bg_18_57"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वतः। ततो मां तत्त्व…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_55",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_56",
+      "citation": "BG 18.56",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.56) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.56 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_54",
+        "bg_18_55",
+        "bg_18_57",
+        "bg_18_58"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सर्वकर्माण्यपि सदा कुर्वाणो मद्व्यपाश्रयः। मत्प्रसादादवाप्नो…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_56",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_57",
+      "citation": "BG 18.57",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.57) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.57 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_55",
+        "bg_18_56",
+        "bg_18_58",
+        "bg_18_59"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: चेतसा सर्वकर्माणि मयि संन्यस्य मत्परः। बुद्धियोगमुपाश्रित्य …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_57",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_58",
+      "citation": "BG 18.58",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.58) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.58 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_56",
+        "bg_18_57",
+        "bg_18_59",
+        "bg_18_60"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि। अथ चेत्त्वमहङ्क…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_58",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_59",
+      "citation": "BG 18.59",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.59) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.59 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_57",
+        "bg_18_58",
+        "bg_18_60",
+        "bg_18_61"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यदहङ्कारमाश्रित्य न योत्स्य इति मन्यसे। मिथ्यैष व्यवसायस्ते …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_59",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_60",
+      "citation": "BG 18.60",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.60) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.60 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_58",
+        "bg_18_59",
+        "bg_18_61",
+        "bg_18_62"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: स्वभावजेन कौन्तेय निबद्धः स्वेन कर्मणा। कर्तुं नेच्छसि यन्मो…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_60",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_61",
+      "citation": "BG 18.61",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.61) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.61 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_59",
+        "bg_18_60",
+        "bg_18_62",
+        "bg_18_63"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति। भ्रामयन्सर्वभूतान…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_61",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_62",
+      "citation": "BG 18.62",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.62) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.62 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_60",
+        "bg_18_61",
+        "bg_18_63",
+        "bg_18_64"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तमेव शरणं गच्छ सर्वभावेन भारत। तत्प्रसादात्परां शान्तिं स्था…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_62",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_63",
+      "citation": "BG 18.63",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.63) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.63 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_61",
+        "bg_18_62",
+        "bg_18_64",
+        "bg_18_65"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया। विमृश्यैतदशेषेण य…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_63",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_64",
+      "citation": "BG 18.64",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.64) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.64 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_62",
+        "bg_18_63",
+        "bg_18_65",
+        "bg_18_66"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सर्वगुह्यतमं भूयः श्रृणु मे परमं वचः। इष्टोऽसि मे दृढमिति तत…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_64",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_65",
+      "citation": "BG 18.65",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.65) inviting reflection on devotion, surrender.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around devotion when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.65 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_63",
+        "bg_18_64",
+        "bg_18_66",
+        "bg_18_67"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु। मामेवैष्यसि सत्यं त…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_65",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_66",
+      "citation": "BG 18.66",
+      "status": "generated",
+      "summary": "Abandon all varieties of dharma and take refuge in Me alone; I will liberate you from all sin — do not grieve.",
+      "modern_interpretation": "When systems of self-saving exhaust you, sincere surrender can reopen trust and release terror.",
+      "topics": [
+        "surrender",
+        "devotion",
+        "liberation"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "grief",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "grief_loss"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_courage",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "humility"
+      ],
+      "practice": [
+        "In overwhelm, stop strategizing for two minutes and offer the burden beyond yourself."
+      ],
+      "reflection_question": "What am I still trying to save alone that I could entrust more deeply?",
+      "related_verses": [
+        "bg_18_65",
+        "bg_2_7",
+        "bg_9_22"
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.85,
+        "emotions": 0.8,
+        "overall": 0.9
+      },
+      "uncertainty_notes": "Handle with pastoral care; not an excuse to abandon ethical responsibility lightly.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_18_66",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_67",
+      "citation": "BG 18.67",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.67) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.67 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_65",
+        "bg_18_66",
+        "bg_18_68",
+        "bg_18_69"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: इदं ते नातपस्काय नाभक्ताय कदाचन। न चाशुश्रूषवे वाच्यं न च मा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_67",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_68",
+      "citation": "BG 18.68",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.68) inviting reflection on devotion, surrender.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around devotion when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.68 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_66",
+        "bg_18_67",
+        "bg_18_69",
+        "bg_18_70"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: य इमं परमं गुह्यं मद्भक्तेष्वभिधास्यति। भक्ितं मयि परां कृत्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_68",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_69",
+      "citation": "BG 18.69",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.69) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.69 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_67",
+        "bg_18_68",
+        "bg_18_70",
+        "bg_18_71"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: न च तस्मान्मनुष्येषु कश्िचन्मे प्रियकृत्तमः। भविता न च मे तस…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_69",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_70",
+      "citation": "BG 18.70",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.70) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.70 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_68",
+        "bg_18_69",
+        "bg_18_71",
+        "bg_18_72"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अध्येष्यते च य इमं धर्म्यं संवादमावयोः। ज्ञानयज्ञेन तेनाहमिष…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_70",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_71",
+      "citation": "BG 18.71",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.71) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.71 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_69",
+        "bg_18_70",
+        "bg_18_72",
+        "bg_18_73"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्रद्धावाननसूयश्च श्रृणुयादपि यो नरः। सोऽपि मुक्तः शुभाँल्लो…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_71",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_72",
+      "citation": "BG 18.72",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.72) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.72 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_70",
+        "bg_18_71",
+        "bg_18_73",
+        "bg_18_74"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: कच्चिदेतच्छ्रुतं पार्थ त्वयैकाग्रेण चेतसा। कच्चिदज्ञानसंमोहः…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_72",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_73",
+      "citation": "BG 18.73",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.73) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.73 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_71",
+        "bg_18_72",
+        "bg_18_74",
+        "bg_18_75"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अर्जुन उवाच नष्टो मोहः स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत।…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_73",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_74",
+      "citation": "BG 18.74",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.74) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.74 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_72",
+        "bg_18_73",
+        "bg_18_75",
+        "bg_18_76"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सञ्जय उवाच इत्यहं वासुदेवस्य पार्थस्य च महात्मनः। संवादमिममश…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_74",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_75",
+      "citation": "BG 18.75",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.75) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.75 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_73",
+        "bg_18_74",
+        "bg_18_76",
+        "bg_18_77"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम्। योगं योगेश्वरात्कृष…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_75",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_76",
+      "citation": "BG 18.76",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.76) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.76 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_74",
+        "bg_18_75",
+        "bg_18_77",
+        "bg_18_78"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: राजन्संस्मृत्य संस्मृत्य संवादमिममद्भुतम्। केशवार्जुनयोः पुण…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_76",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_77",
+      "citation": "BG 18.77",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.77) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.77 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_75",
+        "bg_18_76",
+        "bg_18_78"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तच्च संस्मृत्य संस्मृत्य रूपमत्यद्भुतं हरेः। विस्मयो मे महान…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_77",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_18_78",
+      "citation": "BG 18.78",
+      "status": "generated",
+      "summary": "A teaching from Moksha-Sannyasa — Liberation and Surrender (BG 18.78) inviting reflection on surrender, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 18 supports clarity around surrender when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "surrender",
+        "liberation",
+        "duty",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "courage",
+        "non_attachment",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 18.78 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 18's theme (Moksha-Sannyasa — Liberation and Surrender) asking of me through this verse?",
+      "related_verses": [
+        "bg_18_76",
+        "bg_18_77"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः। तत्र श्रीर्विजयो…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_18_78",
+      "review_notes": []
+    }
+  ]
+}

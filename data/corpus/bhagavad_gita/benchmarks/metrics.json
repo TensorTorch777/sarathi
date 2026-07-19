@@ -1,0 +1,23 @@
+{
+  "description": "Track golden-benchmark and editorial metrics per Intelligence release.",
+  "releases": {
+    "0.3.0": {
+      "approved_verses": 23,
+      "golden_query_hit_rate": null,
+      "correct_top1_verse": null,
+      "avg_editorial_confidence": 0.9,
+      "avg_retrieval_confidence": null,
+      "user_satisfaction": null,
+      "notes": "Baseline after first approved clusters. Retrieval metrics TBD once wired to eval harness."
+    },
+    "0.4.0": {
+      "approved_verses": null,
+      "golden_query_hit_rate": null,
+      "correct_top1_verse": null,
+      "avg_editorial_confidence": null,
+      "avg_retrieval_confidence": null,
+      "user_satisfaction": null,
+      "notes": "Target: Self Mastery (6.5–6.10) approved."
+    }
+  }
+}

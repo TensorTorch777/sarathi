@@ -1,0 +1,1457 @@
+{
+  "manifest": {
+    "name": "Sarathi Intelligence",
+    "scripture": "bhagavad_gita",
+    "chapter": 14,
+    "chapter_title": "Gunatraya — The Three Gunas",
+    "version": "0.2.0-generated",
+    "status": "generated",
+    "authentic_corpus": "../bhagavad_gita.json",
+    "editorial_workflow": [
+      "generated",
+      "reviewed",
+      "approved",
+      "locked"
+    ],
+    "enrichment_count": 27,
+    "approval_policy": "Never auto-approve. Human review required."
+  },
+  "enrichments": [
+    {
+      "node_id": "bg_14_1",
+      "citation": "BG 14.1",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.1) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.1 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_2",
+        "bg_14_3",
+        "bg_14_4"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्री भगवानुवाच परं भूयः प्रवक्ष्यामि ज्ञानानां ज्ञानमुत्तमम्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_1",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_2",
+      "citation": "BG 14.2",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.2) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.2 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_1",
+        "bg_14_3",
+        "bg_14_4",
+        "bg_14_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागताः। सर्गेऽपि नोपजायन्ते …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_2",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_3",
+      "citation": "BG 14.3",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.3) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.3 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_1",
+        "bg_14_2",
+        "bg_14_4",
+        "bg_14_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: मम योनिर्महद्ब्रह्म तस्मिन् गर्भं दधाम्यहम्। संभवः सर्वभूतान…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_3",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_4",
+      "citation": "BG 14.4",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.4) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.4 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_2",
+        "bg_14_3",
+        "bg_14_5",
+        "bg_14_6"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सर्वयोनिषु कौन्तेय मूर्तयः सम्भवन्ति याः। तासां ब्रह्म महद्य…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_4",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_5",
+      "citation": "BG 14.5",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.5) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.5 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_3",
+        "bg_14_4",
+        "bg_14_6",
+        "bg_14_7"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सत्त्वं रजस्तम इति गुणाः प्रकृतिसंभवाः। निबध्नन्ति महाबाहो द…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_5",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_6",
+      "citation": "BG 14.6",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.6) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.6 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_4",
+        "bg_14_5",
+        "bg_14_7",
+        "bg_14_8"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तत्र सत्त्वं निर्मलत्वात्प्रकाशकमनामयम्। सुखसङ्गेन बध्नाति ज…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_6",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_7",
+      "citation": "BG 14.7",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.7) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.7 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_5",
+        "bg_14_6",
+        "bg_14_8",
+        "bg_14_9"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: रजो रागात्मकं विद्धि तृष्णासङ्गसमुद्भवम्। तन्निबध्नाति कौन्त…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_7",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_8",
+      "citation": "BG 14.8",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.8) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.8 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_6",
+        "bg_14_7",
+        "bg_14_9",
+        "bg_14_10"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तमस्त्वज्ञानजं विद्धि मोहनं सर्वदेहिनाम्। प्रमादालस्यनिद्राभ…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_8",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_9",
+      "citation": "BG 14.9",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.9) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.9 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_7",
+        "bg_14_8",
+        "bg_14_10",
+        "bg_14_11"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सत्त्वं सुखे सञ्जयति रजः कर्मणि भारत। ज्ञानमावृत्य तु तमः प्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_9",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_10",
+      "citation": "BG 14.10",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.10) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.10 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_8",
+        "bg_14_9",
+        "bg_14_11",
+        "bg_14_12"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: रजस्तमश्चाभिभूय सत्त्वं भवति भारत। रजः सत्त्वं तमश्चैव तमः स…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_10",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_11",
+      "citation": "BG 14.11",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.11) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.11 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_9",
+        "bg_14_10",
+        "bg_14_12",
+        "bg_14_13"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सर्वद्वारेषु देहेऽस्मिन्प्रकाश उपजायते। ज्ञानं यदा तदा विद्य…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_11",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_12",
+      "citation": "BG 14.12",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.12) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.12 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_10",
+        "bg_14_11",
+        "bg_14_13",
+        "bg_14_14"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: लोभः प्रवृत्तिरारम्भः कर्मणामशमः स्पृहा। रजस्येतानि जायन्ते …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_12",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_13",
+      "citation": "BG 14.13",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.13) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.13 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_11",
+        "bg_14_12",
+        "bg_14_14",
+        "bg_14_15"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अप्रकाशोऽप्रवृत्तिश्च प्रमादो मोह एव च। तमस्येतानि जायन्ते व…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_13",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_14",
+      "citation": "BG 14.14",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.14) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.14 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_12",
+        "bg_14_13",
+        "bg_14_15",
+        "bg_14_16"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यदा सत्त्वे प्रवृद्धे तु प्रलयं याति देहभृत्। तदोत्तमविदां ल…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_14",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_15",
+      "citation": "BG 14.15",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.15) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.15 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_13",
+        "bg_14_14",
+        "bg_14_16",
+        "bg_14_17"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: रजसि प्रलयं गत्वा कर्मसङ्गिषु जायते। तथा प्रलीनस्तमसि मूढयोन…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_15",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_16",
+      "citation": "BG 14.16",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.16) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline",
+        "karma"
+      ],
+      "emotions": [
+        "grief",
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.16 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_14",
+        "bg_14_15",
+        "bg_14_17",
+        "bg_14_18"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: कर्मणः सुकृतस्याहुः सात्त्विकं निर्मलं फलम्। रजसस्तु फलं दुः…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_16",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_17",
+      "citation": "BG 14.17",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.17) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.17 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_15",
+        "bg_14_16",
+        "bg_14_18",
+        "bg_14_19"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सत्त्वात्सञ्जायते ज्ञानं रजसो लोभ एव च। प्रमादमोहौ तमसो भवतो…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_17",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_18",
+      "citation": "BG 14.18",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.18) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.18 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_16",
+        "bg_14_17",
+        "bg_14_19",
+        "bg_14_20"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ऊर्ध्वं गच्छन्ति सत्त्वस्था मध्ये तिष्ठन्ति राजसाः। जघन्यगुण…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_18",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_19",
+      "citation": "BG 14.19",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.19) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.19 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_17",
+        "bg_14_18",
+        "bg_14_20",
+        "bg_14_21"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: नान्यं गुणेभ्यः कर्तारं यदा द्रष्टानुपश्यति। गुणेभ्यश्च परं …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_19",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_20",
+      "citation": "BG 14.20",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.20) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline"
+      ],
+      "emotions": [
+        "grief",
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.20 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_18",
+        "bg_14_19",
+        "bg_14_21",
+        "bg_14_22"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: गुणानेतानतीत्य त्रीन्देही देहसमुद्भवान्। जन्ममृत्युजरादुःखैर…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_20",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_21",
+      "citation": "BG 14.21",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.21) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.21 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_19",
+        "bg_14_20",
+        "bg_14_22",
+        "bg_14_23"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अर्जुन उवाच कैर्लिंगैस्त्रीन्गुणानेतानतीतो भवति प्रभो। किमाच…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_21",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_22",
+      "citation": "BG 14.22",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.22) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.22 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_20",
+        "bg_14_21",
+        "bg_14_23",
+        "bg_14_24"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्री भगवानुवाच प्रकाशं च प्रवृत्तिं च मोहमेव च पाण्डव। न द्व…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_22",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_23",
+      "citation": "BG 14.23",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.23) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.23 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_21",
+        "bg_14_22",
+        "bg_14_24",
+        "bg_14_25"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: उदासीनवदासीनो गुणैर्यो न विचाल्यते। गुणा वर्तन्त इत्येव योऽव…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_23",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_24",
+      "citation": "BG 14.24",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.24) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline"
+      ],
+      "emotions": [
+        "grief",
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.24 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_22",
+        "bg_14_23",
+        "bg_14_25",
+        "bg_14_26"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: समदुःखसुखः स्वस्थः समलोष्टाश्मकाञ्चनः। तुल्यप्रियाप्रियो धीर…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_24",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_25",
+      "citation": "BG 14.25",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.25) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.25 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_23",
+        "bg_14_24",
+        "bg_14_26",
+        "bg_14_27"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: मानापमानयोस्तुल्यस्तुल्यो मित्रारिपक्षयोः। सर्वारम्भपरित्याग…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_25",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_26",
+      "citation": "BG 14.26",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.26) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.26 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_24",
+        "bg_14_25",
+        "bg_14_27"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: मां च योऽव्यभिचारेण भक्ितयोगेन सेवते। स गुणान्समतीत्यैतान् ब…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_26",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_14_27",
+      "citation": "BG 14.27",
+      "status": "generated",
+      "summary": "A teaching from Gunatraya — The Three Gunas (BG 14.27) inviting reflection on mind, wisdom.",
+      "modern_interpretation": "In modern life, this verse from Chapter 14 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "wisdom",
+        "discipline"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Sit with BG 14.27 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 14's theme (Gunatraya — The Three Gunas) asking of me through this verse?",
+      "related_verses": [
+        "bg_14_25",
+        "bg_14_26"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ब्रह्मणो हि प्रतिष्ठाऽहममृतस्याव्ययस्य च। शाश्वतस्य च धर्मस्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_14_27",
+      "review_notes": []
+    }
+  ]
+}

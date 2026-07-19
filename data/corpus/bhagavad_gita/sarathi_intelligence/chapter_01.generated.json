@@ -1,0 +1,2511 @@
+{
+  "manifest": {
+    "name": "Sarathi Intelligence",
+    "scripture": "bhagavad_gita",
+    "chapter": 1,
+    "chapter_title": "Arjuna's Despair",
+    "version": "0.2.0-generated",
+    "status": "generated",
+    "authentic_corpus": "../bhagavad_gita.json",
+    "editorial_workflow": [
+      "generated",
+      "reviewed",
+      "approved",
+      "locked"
+    ],
+    "enrichment_count": 47,
+    "approval_policy": "Never auto-approve. Human review required."
+  },
+  "enrichments": [
+    {
+      "node_id": "bg_1_1",
+      "citation": "BG 1.1",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.1) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.1 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_2",
+        "bg_1_3",
+        "bg_1_4"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: धृतराष्ट्र उवाच धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः। …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_1",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_2",
+      "citation": "BG 1.2",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.2) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.2 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_1",
+        "bg_1_3",
+        "bg_1_4",
+        "bg_1_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सञ्जय उवाच दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा। आचा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_2",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_3",
+      "citation": "BG 1.3",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.3) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.3 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_1",
+        "bg_1_2",
+        "bg_1_4",
+        "bg_1_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम्। व्यूढां द्रुपदपु…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_3",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_4",
+      "citation": "BG 1.4",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.4) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.4 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_2",
+        "bg_1_3",
+        "bg_1_5",
+        "bg_1_6"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अत्र शूरा महेष्वासा भीमार्जुनसमा युधि। युयुधानो विराटश्च द्र…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_4",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_5",
+      "citation": "BG 1.5",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.5) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.5 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_3",
+        "bg_1_4",
+        "bg_1_6",
+        "bg_1_7"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान्। पुरुजित्कुन्तिभोजश…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_5",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_6",
+      "citation": "BG 1.6",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.6) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.6 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_4",
+        "bg_1_5",
+        "bg_1_7",
+        "bg_1_8"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान्। सौभद्रो द्रौपद…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_6",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_7",
+      "citation": "BG 1.7",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.7) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.7 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_5",
+        "bg_1_6",
+        "bg_1_8",
+        "bg_1_9"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम। नायका मम सैन्यस…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_7",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_8",
+      "citation": "BG 1.8",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.8) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.8 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_6",
+        "bg_1_7",
+        "bg_1_9",
+        "bg_1_10"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः। अश्वत्थामा विकर्णश्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_8",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_9",
+      "citation": "BG 1.9",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.9) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.9 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_7",
+        "bg_1_8",
+        "bg_1_10",
+        "bg_1_11"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः। नानाशस्त्रप्रहरणाः स…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_9",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_10",
+      "citation": "BG 1.10",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.10) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.10 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_8",
+        "bg_1_9",
+        "bg_1_11",
+        "bg_1_12"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम्। पर्याप्तं त्विदमेत…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_10",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_11",
+      "citation": "BG 1.11",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.11) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.11 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_9",
+        "bg_1_10",
+        "bg_1_12",
+        "bg_1_13"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अयनेषु च सर्वेषु यथाभागमवस्थिताः। भीष्ममेवाभिरक्षन्तु भवन्तः…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_11",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_12",
+      "citation": "BG 1.12",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.12) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.12 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_10",
+        "bg_1_11",
+        "bg_1_13",
+        "bg_1_14"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तस्य संजनयन्हर्षं कुरुवृद्धः पितामहः। सिंहनादं विनद्योच्चैः …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_12",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_13",
+      "citation": "BG 1.13",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.13) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.13 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_11",
+        "bg_1_12",
+        "bg_1_14",
+        "bg_1_15"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः। सहसैवाभ्यहन्यन्त स शब्द…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_13",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_14",
+      "citation": "BG 1.14",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.14) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.14 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_12",
+        "bg_1_13",
+        "bg_1_15",
+        "bg_1_16"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ। माधवः पाण्डवश्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_14",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_15",
+      "citation": "BG 1.15",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.15) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind",
+        "karma"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.15 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_13",
+        "bg_1_14",
+        "bg_1_16",
+        "bg_1_17"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: पाञ्चजन्यं हृषीकेशो देवदत्तं धनंजयः। पौण्ड्रं दध्मौ महाशङ्खं…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_15",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_16",
+      "citation": "BG 1.16",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.16) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.16 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_14",
+        "bg_1_15",
+        "bg_1_17",
+        "bg_1_18"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः। नकुलः सहदेवश्च सुघो…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_16",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_17",
+      "citation": "BG 1.17",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.17) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.17 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_15",
+        "bg_1_16",
+        "bg_1_18",
+        "bg_1_19"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: काश्यश्च परमेष्वासः शिखण्डी च महारथः। धृष्टद्युम्नो विराटश्च…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_17",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_18",
+      "citation": "BG 1.18",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.18) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.18 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_16",
+        "bg_1_17",
+        "bg_1_19",
+        "bg_1_20"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते। सौभद्रश्च महाबाहुः शङ…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_18",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_19",
+      "citation": "BG 1.19",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.19) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.19 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_17",
+        "bg_1_18",
+        "bg_1_20",
+        "bg_1_21"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत्। नभश्च पृथिवीं चैव…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_19",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_20",
+      "citation": "BG 1.20",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.20) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.20 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_18",
+        "bg_1_19",
+        "bg_1_21",
+        "bg_1_22"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अथ व्यवस्थितान् दृष्ट्वा धार्तराष्ट्रान्कपिध्वजः। प्रवृत्ते …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_20",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_21",
+      "citation": "BG 1.21",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.21) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.21 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_19",
+        "bg_1_20",
+        "bg_1_22",
+        "bg_1_23"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अर्जुन उवाच हृषीकेशं तदा वाक्यमिदमाह महीपते। सेनयोरुभयोर्मध्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_21",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_22",
+      "citation": "BG 1.22",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.22) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "anger",
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.22 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_20",
+        "bg_1_21",
+        "bg_1_23",
+        "bg_1_24"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान्। कैर्मया सह योद्धव…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_22",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_23",
+      "citation": "BG 1.23",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.23) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.23 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_21",
+        "bg_1_22",
+        "bg_1_24",
+        "bg_1_25"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः। धार्तराष्ट्रस्य दुर…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_23",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_24",
+      "citation": "BG 1.24",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.24) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.24 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_22",
+        "bg_1_23",
+        "bg_1_25",
+        "bg_1_26"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: संजय उवाच एवमुक्तो हृषीकेशो गुडाकेशेन भारत। सेनयोरुभयोर्मध्य…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_24",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_25",
+      "citation": "BG 1.25",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.25) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.25 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_23",
+        "bg_1_24",
+        "bg_1_26",
+        "bg_1_27"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम्। उवाच पार्थ पश्यैत…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_25",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_26",
+      "citation": "BG 1.26",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.26) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.26 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_24",
+        "bg_1_25",
+        "bg_1_27",
+        "bg_1_28"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तत्रापश्यत्स्थितान्पार्थः पितृ़नथ पितामहान्। आचार्यान्मातुला…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_26",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_27",
+      "citation": "BG 1.27",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.27) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.27 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_25",
+        "bg_1_26",
+        "bg_1_28",
+        "bg_1_29"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि। तान्समीक्ष्य स कौन्तेयः स…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_27",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_28",
+      "citation": "BG 1.28",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.28) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.28 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_26",
+        "bg_1_27",
+        "bg_1_29",
+        "bg_1_30"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अर्जुन उवाच कृपया परयाऽऽविष्टो विषीदन्निदमब्रवीत्। दृष्ट्वेम…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_28",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_29",
+      "citation": "BG 1.29",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.29) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.29 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_27",
+        "bg_1_28",
+        "bg_1_30",
+        "bg_1_31"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सीदन्ति मम गात्राणि मुखं च परिशुष्यति। वेपथुश्च शरीरे मे रोम…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_29",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_30",
+      "citation": "BG 1.30",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.30) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.30 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_28",
+        "bg_1_29",
+        "bg_1_31",
+        "bg_1_32"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते। न च शक्नोम्यवस्थ…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_30",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_31",
+      "citation": "BG 1.31",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.31) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.31 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_29",
+        "bg_1_30",
+        "bg_1_32",
+        "bg_1_33"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: निमित्तानि च पश्यामि विपरीतानि केशव। न च श्रेयोऽनुपश्यामि हत…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_31",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_32",
+      "citation": "BG 1.32",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.32) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.32 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_30",
+        "bg_1_31",
+        "bg_1_33",
+        "bg_1_34"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च। किं नो राज्येन ग…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_32",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_33",
+      "citation": "BG 1.33",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.33) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.33 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_31",
+        "bg_1_32",
+        "bg_1_34",
+        "bg_1_35"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च। त इमेऽवस्थिता…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_33",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_34",
+      "citation": "BG 1.34",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.34) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.34 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_32",
+        "bg_1_33",
+        "bg_1_35",
+        "bg_1_36"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: आचार्याः पितरः पुत्रास्तथैव च पितामहाः। मातुलाः श्वशुराः पौत…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_34",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_35",
+      "citation": "BG 1.35",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.35) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.35 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_33",
+        "bg_1_34",
+        "bg_1_36",
+        "bg_1_37"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन। अपि त्रैलोक्यराज्यस्य…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_35",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_36",
+      "citation": "BG 1.36",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.36) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.36 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_34",
+        "bg_1_35",
+        "bg_1_37",
+        "bg_1_38"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन। पापमेवाश्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_36",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_37",
+      "citation": "BG 1.37",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.37) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.37 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_35",
+        "bg_1_36",
+        "bg_1_38",
+        "bg_1_39"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान्। स्वजनं…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_37",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_38",
+      "citation": "BG 1.38",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.38) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.38 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_36",
+        "bg_1_37",
+        "bg_1_39",
+        "bg_1_40"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यद्यप्येते न पश्यन्ति लोभोपहतचेतसः। कुलक्षयकृतं दोषं मित्रद्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_38",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_39",
+      "citation": "BG 1.39",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.39) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.39 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_37",
+        "bg_1_38",
+        "bg_1_40",
+        "bg_1_41"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम्। कुलक्षयकृतं दोषं…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_39",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_40",
+      "citation": "BG 1.40",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.40) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.40 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_38",
+        "bg_1_39",
+        "bg_1_41",
+        "bg_1_42"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः। धर्मे नष्टे कुलं कृत…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_40",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_41",
+      "citation": "BG 1.41",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.41) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.41 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_39",
+        "bg_1_40",
+        "bg_1_42",
+        "bg_1_43"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः। स्त्रीषु दुष्टा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_41",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_42",
+      "citation": "BG 1.42",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.42) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.42 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_40",
+        "bg_1_41",
+        "bg_1_43",
+        "bg_1_44"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सङ्करो नरकायैव कुलघ्नानां कुलस्य च। पतन्ति पितरो ह्येषां लुप…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_42",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_43",
+      "citation": "BG 1.43",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.43) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.43 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_41",
+        "bg_1_42",
+        "bg_1_44",
+        "bg_1_45"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः। उत्साद्यन्ते जातिधर्मा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_43",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_44",
+      "citation": "BG 1.44",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.44) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.44 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_42",
+        "bg_1_43",
+        "bg_1_45",
+        "bg_1_46"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन। नरकेऽनियतं वासो भवतीत…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_44",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_45",
+      "citation": "BG 1.45",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.45) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.45 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_43",
+        "bg_1_44",
+        "bg_1_46",
+        "bg_1_47"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अहो बत महत्पापं कर्तुं व्यवसिता वयम्। यद्राज्यसुखलोभेन हन्तु…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_45",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_46",
+      "citation": "BG 1.46",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.46) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.46 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_44",
+        "bg_1_45",
+        "bg_1_47"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः। धार्तराष्ट्रा रणे हन्यु…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_46",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_1_47",
+      "citation": "BG 1.47",
+      "status": "generated",
+      "summary": "A teaching from Arjuna's Despair (BG 1.47) inviting reflection on dharma, duty.",
+      "modern_interpretation": "In modern life, this verse from Chapter 1 supports clarity around dharma when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "anxiety",
+        "grief",
+        "fear",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "identity",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 1.47 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 1's theme (Arjuna's Despair) asking of me through this verse?",
+      "related_verses": [
+        "bg_1_45",
+        "bg_1_46"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सञ्जय उवाच एवमुक्त्वाऽर्जुनः संख्ये रथोपस्थ उपाविशत्। विसृज्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_1_47",
+      "review_notes": []
+    }
+  ]
+}

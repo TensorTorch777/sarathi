@@ -1,0 +1,1350 @@
+{
+  "manifest": {
+    "name": "Sarathi Intelligence",
+    "scripture": "bhagavad_gita",
+    "chapter": 16,
+    "chapter_title": "Daivasura — Divine and Demonic Qualities",
+    "version": "0.2.0-generated",
+    "status": "generated",
+    "authentic_corpus": "../bhagavad_gita.json",
+    "editorial_workflow": [
+      "generated",
+      "reviewed",
+      "approved",
+      "locked"
+    ],
+    "enrichment_count": 24,
+    "approval_policy": "Never auto-approve. Human review required."
+  },
+  "enrichments": [
+    {
+      "node_id": "bg_16_1",
+      "citation": "BG 16.1",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.1) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire",
+        "karma"
+      ],
+      "emotions": [
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.1 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_2",
+        "bg_16_3",
+        "bg_16_4"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्री भगवानुवाच अभयं सत्त्वसंशुद्धिः ज्ञानयोगव्यवस्थितिः। दान…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_1",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_16_2",
+      "citation": "BG 16.2",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.2) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire"
+      ],
+      "emotions": [
+        "restlessness",
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.2 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_1",
+        "bg_16_3",
+        "bg_16_4",
+        "bg_16_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम्। दया भूतेष्वलोलुप्त…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_2",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_16_3",
+      "citation": "BG 16.3",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.3) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire"
+      ],
+      "emotions": [
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.3 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_1",
+        "bg_16_2",
+        "bg_16_4",
+        "bg_16_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तेजः क्षमा धृतिः शौचमद्रोहो नातिमानिता। भवन्ति सम्पदं दैवीमभ…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_3",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_16_4",
+      "citation": "BG 16.4",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.4) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire"
+      ],
+      "emotions": [
+        "restlessness",
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.4 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_2",
+        "bg_16_3",
+        "bg_16_5",
+        "bg_16_6"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च। अज्ञानं चाभिजातस्य…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_4",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_16_5",
+      "citation": "BG 16.5",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.5) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire"
+      ],
+      "emotions": [
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.5 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_3",
+        "bg_16_4",
+        "bg_16_6",
+        "bg_16_7"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता। मा शुचः सम्पदं दैवीम…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_5",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_16_6",
+      "citation": "BG 16.6",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.6) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire"
+      ],
+      "emotions": [
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.6 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_4",
+        "bg_16_5",
+        "bg_16_7",
+        "bg_16_8"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: द्वौ भूतसर्गौ लोकेऽस्मिन् दैव आसुर एव च। दैवो विस्तरशः प्रोक…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_6",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_16_7",
+      "citation": "BG 16.7",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.7) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire"
+      ],
+      "emotions": [
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.7 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_5",
+        "bg_16_6",
+        "bg_16_8",
+        "bg_16_9"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: प्रवृत्तिं च निवृत्तिं च जना न विदुरासुराः। न शौचं नापि चाचा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_7",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_16_8",
+      "citation": "BG 16.8",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.8) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire"
+      ],
+      "emotions": [
+        "restlessness",
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.8 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_6",
+        "bg_16_7",
+        "bg_16_9",
+        "bg_16_10"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम्। अपरस्परसम्भूतं किमन्यत्क…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_8",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_16_9",
+      "citation": "BG 16.9",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.9) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire",
+        "karma"
+      ],
+      "emotions": [
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.9 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_7",
+        "bg_16_8",
+        "bg_16_10",
+        "bg_16_11"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: एतां दृष्टिमवष्टभ्य नष्टात्मानोऽल्पबुद्धयः। प्रभवन्त्युग्रकर…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_9",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_16_10",
+      "citation": "BG 16.10",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.10) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire"
+      ],
+      "emotions": [
+        "restlessness",
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.10 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_8",
+        "bg_16_9",
+        "bg_16_11",
+        "bg_16_12"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: काममाश्रित्य दुष्पूरं दम्भमानमदान्विताः। मोहाद्गृहीत्वासद्ग्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_10",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_16_11",
+      "citation": "BG 16.11",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.11) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire"
+      ],
+      "emotions": [
+        "restlessness",
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.11 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_9",
+        "bg_16_10",
+        "bg_16_12",
+        "bg_16_13"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: चिन्तामपरिमेयां च प्रलयान्तामुपाश्रिताः। कामोपभोगपरमा एतावदि…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_11",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_16_12",
+      "citation": "BG 16.12",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.12) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire"
+      ],
+      "emotions": [
+        "restlessness",
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.12 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_10",
+        "bg_16_11",
+        "bg_16_13",
+        "bg_16_14"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: आशापाशशतैर्बद्धाः कामक्रोधपरायणाः। ईहन्ते कामभोगार्थमन्यायेन…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_12",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_16_13",
+      "citation": "BG 16.13",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.13) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire"
+      ],
+      "emotions": [
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.13 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_11",
+        "bg_16_12",
+        "bg_16_14",
+        "bg_16_15"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम्। इदमस्तीदमपि मे भविष्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_13",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_16_14",
+      "citation": "BG 16.14",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.14) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire"
+      ],
+      "emotions": [
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.14 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_12",
+        "bg_16_13",
+        "bg_16_15",
+        "bg_16_16"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: असौ मया हतः शत्रुर्हनिष्ये चापरानपि। ईश्वरोऽहमहं भोगी सिद्धो…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_14",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_16_15",
+      "citation": "BG 16.15",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.15) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire"
+      ],
+      "emotions": [
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.15 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_13",
+        "bg_16_14",
+        "bg_16_16",
+        "bg_16_17"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: आढ्योऽभिजनवानस्मि कोऽन्योऽस्ति सदृशो मया। यक्ष्ये दास्यामि म…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_15",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_16_16",
+      "citation": "BG 16.16",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.16) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire"
+      ],
+      "emotions": [
+        "restlessness",
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.16 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_14",
+        "bg_16_15",
+        "bg_16_17",
+        "bg_16_18"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अनेकचित्तविभ्रान्ता मोहजालसमावृताः। प्रसक्ताः कामभोगेषु पतन्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_16",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_16_17",
+      "citation": "BG 16.17",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.17) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire"
+      ],
+      "emotions": [
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.17 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_15",
+        "bg_16_16",
+        "bg_16_18",
+        "bg_16_19"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: आत्मसम्भाविताः स्तब्धा धनमानमदान्विताः। यजन्ते नामयज्ञैस्ते …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_17",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_16_18",
+      "citation": "BG 16.18",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.18) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire"
+      ],
+      "emotions": [
+        "restlessness",
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.18 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_16",
+        "bg_16_17",
+        "bg_16_19",
+        "bg_16_20"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अहङ्कारं बलं दर्पं कामं क्रोधं च संश्रिताः। मामात्मपरदेहेषु …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_18",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_16_19",
+      "citation": "BG 16.19",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.19) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire"
+      ],
+      "emotions": [
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.19 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_17",
+        "bg_16_18",
+        "bg_16_20",
+        "bg_16_21"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तानहं द्विषतः क्रूरान्संसारेषु नराधमान्। क्षिपाम्यजस्रमशुभान…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_19",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_16_20",
+      "citation": "BG 16.20",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.20) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire"
+      ],
+      "emotions": [
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.20 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_18",
+        "bg_16_19",
+        "bg_16_21",
+        "bg_16_22"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: आसुरीं योनिमापन्ना मूढा जन्मनि जन्मनि। मामप्राप्यैव कौन्तेय …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_20",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_16_21",
+      "citation": "BG 16.21",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.21) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire"
+      ],
+      "emotions": [
+        "restlessness",
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.21 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_19",
+        "bg_16_20",
+        "bg_16_22",
+        "bg_16_23"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः। कामः क्रोधस्तथा लोभस्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_21",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_16_22",
+      "citation": "BG 16.22",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.22) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire"
+      ],
+      "emotions": [
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.22 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_20",
+        "bg_16_21",
+        "bg_16_23",
+        "bg_16_24"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: एतैर्विमुक्तः कौन्तेय तमोद्वारैस्त्रिभिर्नरः। आचरत्यात्मनः श…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_22",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_16_23",
+      "citation": "BG 16.23",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.23) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire"
+      ],
+      "emotions": [
+        "restlessness",
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.23 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_21",
+        "bg_16_22",
+        "bg_16_24"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यः शास्त्रविधिमुत्सृज्य वर्तते कामकारतः। न स सिद्धिमवाप्नोति…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_23",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_16_24",
+      "citation": "BG 16.24",
+      "status": "generated",
+      "summary": "A teaching from Daivasura — Divine and Demonic Qualities (BG 16.24) inviting reflection on dharma, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 16 supports clarity around dharma when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "dharma",
+        "discipline",
+        "desire",
+        "karma"
+      ],
+      "emotions": [
+        "anger",
+        "fear",
+        "guilt"
+      ],
+      "life_domains": [
+        "identity",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "honesty",
+        "compassion",
+        "self_control",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 16.24 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 16's theme (Daivasura — Divine and Demonic Qualities) asking of me through this verse?",
+      "related_verses": [
+        "bg_16_22",
+        "bg_16_23"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ। ज्ञात्वा श…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_16_24",
+      "review_notes": []
+    }
+  ]
+}

@@ -1,0 +1,2587 @@
+{
+  "manifest": {
+    "name": "Sarathi Intelligence",
+    "scripture": "bhagavad_gita",
+    "chapter": 6,
+    "chapter_title": "Dhyana Yoga — Meditation",
+    "version": "0.3.1-wip",
+    "status": "generated",
+    "authentic_corpus": "../bhagavad_gita.json",
+    "editorial_workflow": [
+      "generated",
+      "reviewed",
+      "approved",
+      "locked"
+    ],
+    "enrichment_count": 47,
+    "approval_policy": "Never auto-approve. Human review required."
+  },
+  "enrichments": [
+    {
+      "node_id": "bg_6_1",
+      "citation": "BG 6.1",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.1) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.1 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_2",
+        "bg_6_3",
+        "bg_6_4"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्री भगवानुवाच अनाश्रितः कर्मफलं कार्यं कर्म करोति यः। स संन…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_1",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_2",
+      "citation": "BG 6.2",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.2) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.2 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_1",
+        "bg_6_3",
+        "bg_6_4",
+        "bg_6_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव। न ह्यसंन्यस्तस…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_2",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_3",
+      "citation": "BG 6.3",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.3) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.3 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_1",
+        "bg_6_2",
+        "bg_6_4",
+        "bg_6_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते। योगारूढस्य तस्यैव शम…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_3",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_4",
+      "citation": "BG 6.4",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.4) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.4 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_2",
+        "bg_6_3",
+        "bg_6_5",
+        "bg_6_6"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यदा हि नेन्द्रियार्थेषु न कर्मस्वनुषज्जते। सर्वसङ्कल्पसंन्या…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_4",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_5",
+      "citation": "BG 6.5",
+      "status": "reviewed",
+      "summary": "Lift yourself by your own mind; do not degrade yourself. The self can be your friend — or your enemy.",
+      "modern_interpretation": "Self-mastery is an inside job. The same mind that sabotages you can become the ally that steadies you. This verse names the choice without blaming you for struggling.",
+      "topics": [
+        "mind",
+        "self",
+        "discipline"
+      ],
+      "emotions": [
+        "hopelessness",
+        "anxiety",
+        "shame"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_encouragement",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "perseverance"
+      ],
+      "practice": [
+        "Interrupt one self-degrading habit today with one concrete uplifting replacement.",
+        "Speak to yourself once today as you would speak to a friend you respect."
+      ],
+      "reflection_question": "In what way is my own mind currently acting as my enemy — and what would friendship with myself look like?",
+      "related_verses": [
+        "bg_6_6",
+        "bg_2_60",
+        "bg_6_26"
+      ],
+      "misconceptions": [
+        "This verse is not blaming you for suffering; it is inviting responsibility without shame.",
+        "Self-elevation is not ego inflation; it is refusing to abandon yourself."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Self Mastery unit (6.5–6.10) first editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as Self Mastery family unit (BG 6.5–6.10).",
+        "Aligned terminology: mind as friend/enemy, dualities, equal regard, meditation conditions.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": null,
+      "authentic_node_id": "bg_6_5",
+      "verse_family": "self_mastery"
+    },
+    {
+      "node_id": "bg_6_6",
+      "citation": "BG 6.6",
+      "status": "reviewed",
+      "summary": "For one who has mastered the mind, the mind becomes a friend; for one who has not, the mind remains like an enemy.",
+      "modern_interpretation": "An untrained mind argues against your wellbeing. Training does not mean domination — it means befriending attention so it stops working against you.",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "anger"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "discipline",
+        "patience"
+      ],
+      "practice": [
+        "When the mind attacks, answer with one firm kind instruction — then take one aligned action."
+      ],
+      "reflection_question": "Is my mind currently friend or foe in this season of life?",
+      "related_verses": [
+        "bg_6_5",
+        "bg_6_26",
+        "bg_2_67"
+      ],
+      "misconceptions": [
+        "Conquering the mind does not mean hating your thoughts; it means not being ruled by them."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Self Mastery unit (6.5–6.10) first editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as Self Mastery family unit (BG 6.5–6.10).",
+        "Aligned terminology: mind as friend/enemy, dualities, equal regard, meditation conditions.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": null,
+      "authentic_node_id": "bg_6_6",
+      "verse_family": "self_mastery"
+    },
+    {
+      "node_id": "bg_6_7",
+      "citation": "BG 6.7",
+      "status": "reviewed",
+      "summary": "One who has conquered the self and grown peaceful is absorbed in the Supreme — steady through heat and cold, pleasure and pain, honor and dishonor.",
+      "modern_interpretation": "Inner mastery shows up as steadiness across dualities: comfort and discomfort, praise and blame. Peace here is not passivity; it is composure under changing conditions.",
+      "topics": [
+        "equanimity",
+        "mind",
+        "yoga",
+        "self"
+      ],
+      "emotions": [
+        "anxiety",
+        "shame",
+        "restlessness"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity",
+        "relationships"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_discipline",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "equanimity",
+        "self_control",
+        "patience"
+      ],
+      "practice": [
+        "Notice one praise or criticism today; keep your next action steady either way."
+      ],
+      "reflection_question": "Where do honor and dishonor still pull my peace off center?",
+      "related_verses": [
+        "bg_6_6",
+        "bg_2_56",
+        "bg_2_38"
+      ],
+      "misconceptions": [
+        "Steadiness in honor and dishonor is not indifference to ethics or feedback; it is freedom from ego-whiplash."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Self Mastery unit (6.5–6.10) first editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as Self Mastery family unit (BG 6.5–6.10).",
+        "Aligned terminology: mind as friend/enemy, dualities, equal regard, meditation conditions.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": null,
+      "authentic_node_id": "bg_6_7",
+      "verse_family": "self_mastery"
+    },
+    {
+      "node_id": "bg_6_8",
+      "citation": "BG 6.8",
+      "status": "reviewed",
+      "summary": "A yogi satisfied in knowledge and realization, unwavering, sense-mastered, seeing a clod, stone, and gold as equal — is said to be united.",
+      "modern_interpretation": "Equality here is about not letting status-objects own your mind. It is clarity about value, not pretending all choices are identical in practical life.",
+      "topics": [
+        "wisdom",
+        "equanimity",
+        "discipline",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "restlessness"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "money",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "equanimity",
+        "wisdom",
+        "non_attachment"
+      ],
+      "practice": [
+        "Catch one moment of status-comparison today; name what you were measuring yourself against."
+      ],
+      "reflection_question": "What “gold” am I treating as more real than my own steadiness?",
+      "related_verses": [
+        "bg_6_7",
+        "bg_6_9",
+        "bg_2_57"
+      ],
+      "misconceptions": [
+        "Seeing gold and a clod as equal does not mean abandoning practical discernment; it means not worshipping status-objects."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Self Mastery unit (6.5–6.10) first editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as Self Mastery family unit (BG 6.5–6.10).",
+        "Aligned terminology: mind as friend/enemy, dualities, equal regard, meditation conditions.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": null,
+      "authentic_node_id": "bg_6_8",
+      "verse_family": "self_mastery"
+    },
+    {
+      "node_id": "bg_6_9",
+      "citation": "BG 6.9",
+      "status": "reviewed",
+      "summary": "One is especially distinguished who regards with equal mind friends, allies, enemies, neutrals, mediators, the hateful, relatives, the good, and even the harmful.",
+      "modern_interpretation": "Equal regard is freedom from partisan emotional capture — not fake niceness, and not moral confusion about harm. It is steadiness of heart while still acting wisely.",
+      "topics": [
+        "equanimity",
+        "compassion",
+        "wisdom"
+      ],
+      "emotions": [
+        "anger",
+        "anxiety",
+        "shame"
+      ],
+      "life_domains": [
+        "relationships",
+        "family",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_forgiveness",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "equanimity",
+        "compassion",
+        "patience"
+      ],
+      "practice": [
+        "Choose one difficult person; wish them basic wellbeing once, without forcing liking."
+      ],
+      "reflection_question": "Whose presence still decides whether I remain steady or reactive?",
+      "related_verses": [
+        "bg_6_8",
+        "bg_12_13",
+        "bg_2_57"
+      ],
+      "misconceptions": [
+        "Equal-mindedness is not approving harm; it is refusing to let hostility own your inner state.",
+        "This is not a demand to stay in unsafe relationships."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Self Mastery unit (6.5–6.10) first editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as Self Mastery family unit (BG 6.5–6.10).",
+        "Aligned terminology: mind as friend/enemy, dualities, equal regard, meditation conditions.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": null,
+      "authentic_node_id": "bg_6_9",
+      "verse_family": "self_mastery"
+    },
+    {
+      "node_id": "bg_6_10",
+      "citation": "BG 6.10",
+      "status": "reviewed",
+      "summary": "A yogi should continually unite the mind in solitude, alone, with thought and self restrained, free of craving and possessiveness.",
+      "modern_interpretation": "Meditation needs conditions: quiet, consistency, reduced grasping. Solitude here is training space — not permanent withdrawal from responsibility.",
+      "topics": [
+        "yoga",
+        "discipline",
+        "mind",
+        "detachment"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "overwhelm"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit alone for five quiet minutes today — phone away — returning once each time the mind wanders."
+      ],
+      "reflection_question": "What small solitude can I protect so my mind can train?",
+      "related_verses": [
+        "bg_6_5",
+        "bg_6_26",
+        "bg_2_58"
+      ],
+      "misconceptions": [
+        "Yogic solitude is practice space, not abandonment of family or duty.",
+        "Meditation begins with small consistency, not perfect stillness."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Self Mastery unit (6.5–6.10) first editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as Self Mastery family unit (BG 6.5–6.10).",
+        "Aligned terminology: mind as friend/enemy, dualities, equal regard, meditation conditions.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": null,
+      "authentic_node_id": "bg_6_10",
+      "verse_family": "self_mastery"
+    },
+    {
+      "node_id": "bg_6_11",
+      "citation": "BG 6.11",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.11) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.11 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_9",
+        "bg_6_10",
+        "bg_6_12",
+        "bg_6_13"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मनः। नात्युच्छ्रितं नाति…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_11",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_12",
+      "citation": "BG 6.12",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.12) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.12 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_10",
+        "bg_6_11",
+        "bg_6_13",
+        "bg_6_14"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तत्रैकाग्रं मनः कृत्वा यतचित्तेन्द्रियक्रियः। उपविश्यासने यु…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_12",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_13",
+      "citation": "BG 6.13",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.13) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.13 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_11",
+        "bg_6_12",
+        "bg_6_14",
+        "bg_6_15"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: समं कायशिरोग्रीवं धारयन्नचलं स्थिरः। संप्रेक्ष्य नासिकाग्रं …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_13",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_14",
+      "citation": "BG 6.14",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.14) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.14 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_12",
+        "bg_6_13",
+        "bg_6_15",
+        "bg_6_16"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थितः। मनः संयम्य मच्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_14",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_15",
+      "citation": "BG 6.15",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.15) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.15 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_13",
+        "bg_6_14",
+        "bg_6_16",
+        "bg_6_17"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: युञ्जन्नेवं सदाऽऽत्मानं योगी नियतमानसः। शान्तिं निर्वाणपरमां…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_15",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_16",
+      "citation": "BG 6.16",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.16) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.16 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_14",
+        "bg_6_15",
+        "bg_6_17",
+        "bg_6_18"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः। न चातिस्वप्नशीलस्य…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_16",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_17",
+      "citation": "BG 6.17",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.17) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "grief",
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.17 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_15",
+        "bg_6_16",
+        "bg_6_18",
+        "bg_6_19"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु। युक्तस्वप्नावबोधस्य …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_17",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_18",
+      "citation": "BG 6.18",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.18) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga"
+      ],
+      "emotions": [
+        "anger",
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.18 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_16",
+        "bg_6_17",
+        "bg_6_19",
+        "bg_6_20"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यदा विनियतं चित्तमात्मन्येवावतिष्ठते। निःस्पृहः सर्वकामेभ्यो…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_18",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_19",
+      "citation": "BG 6.19",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.19) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.19 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_17",
+        "bg_6_18",
+        "bg_6_20",
+        "bg_6_21"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता। योगिनो यतचित्तस्य य…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_19",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_20",
+      "citation": "BG 6.20",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.20) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.20 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_18",
+        "bg_6_19",
+        "bg_6_21",
+        "bg_6_22"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यत्रोपरमते चित्तं निरुद्धं योगसेवया। यत्र चैवात्मनाऽऽत्मानं …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_20",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_21",
+      "citation": "BG 6.21",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.21) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.21 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_19",
+        "bg_6_20",
+        "bg_6_22",
+        "bg_6_23"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सुखमात्यन्तिकं यत्तद्बुद्धिग्राह्यमतीन्द्रियम्। वेत्ति यत्र …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_21",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_22",
+      "citation": "BG 6.22",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.22) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga"
+      ],
+      "emotions": [
+        "grief",
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.22 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_20",
+        "bg_6_21",
+        "bg_6_23",
+        "bg_6_24"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः। यस्मिन्स्थितो न दुः…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_22",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_23",
+      "citation": "BG 6.23",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.23) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "grief",
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.23 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_21",
+        "bg_6_22",
+        "bg_6_24",
+        "bg_6_25"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तं विद्याद् दुःखसंयोगवियोगं योगसंज्ञितम्। स निश्चयेन योक्तव्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_23",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_24",
+      "citation": "BG 6.24",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.24) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga"
+      ],
+      "emotions": [
+        "anger",
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.24 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_22",
+        "bg_6_23",
+        "bg_6_25",
+        "bg_6_26"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषतः। मनसैवेन्द्रियग्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_24",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_25",
+      "citation": "BG 6.25",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.25) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.25 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_23",
+        "bg_6_24",
+        "bg_6_26",
+        "bg_6_27"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: शनैः शनैरुपरमेद् बुद्ध्या धृतिगृहीतया। आत्मसंस्थं मनः कृत्वा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_25",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_26",
+      "citation": "BG 6.26",
+      "status": "generated",
+      "summary": "Wherever the restless, unsteady mind wanders, restrain it and bring it under the control of the Self.",
+      "modern_interpretation": "Meditation is repeated gentle return — not never wandering.",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "overwhelm"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "studies",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "patience",
+        "perseverance",
+        "self_control"
+      ],
+      "practice": [
+        "Each time attention wanders, note 'wandering' and return once — count returns, not perfection."
+      ],
+      "reflection_question": "Can I treat mind-wandering as training data rather than failure?",
+      "related_verses": [
+        "bg_6_5",
+        "bg_6_35",
+        "bg_2_58"
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.85,
+        "emotions": 0.8,
+        "overall": 0.9
+      },
+      "uncertainty_notes": "High-priority verse override — still requires human review before approval.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_6_26",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_27",
+      "citation": "BG 6.27",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.27) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.27 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_25",
+        "bg_6_26",
+        "bg_6_28",
+        "bg_6_29"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम्। उपैति शान्तरजसं ब्रह…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_27",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_28",
+      "citation": "BG 6.28",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.28) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.28 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_26",
+        "bg_6_27",
+        "bg_6_29",
+        "bg_6_30"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: युञ्जन्नेवं सदाऽऽत्मानं योगी विगतकल्मषः। सुखेन ब्रह्मसंस्पर्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_28",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_29",
+      "citation": "BG 6.29",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.29) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.29 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_27",
+        "bg_6_28",
+        "bg_6_30",
+        "bg_6_31"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि। ईक्षते योगयुक्तात्मा …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_29",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_30",
+      "citation": "BG 6.30",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.30) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.30 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_28",
+        "bg_6_29",
+        "bg_6_31",
+        "bg_6_32"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति। तस्याहं न प्रणश्या…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_30",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_31",
+      "citation": "BG 6.31",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.31) inviting reflection on devotion, mind.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around devotion when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "mind",
+        "discipline",
+        "yoga"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.31 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_29",
+        "bg_6_30",
+        "bg_6_32",
+        "bg_6_33"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः। सर्वथा वर्तमानोऽपि …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_31",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_32",
+      "citation": "BG 6.32",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.32) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "grief",
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.32 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_30",
+        "bg_6_31",
+        "bg_6_33",
+        "bg_6_34"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन। सुखं वा यदि वा दुःख…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_32",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_33",
+      "citation": "BG 6.33",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.33) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.33 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_31",
+        "bg_6_32",
+        "bg_6_34",
+        "bg_6_35"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अर्जुन उवाच योऽयं योगस्त्वया प्रोक्तः साम्येन मधुसूदन। एतस्य…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_33",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_34",
+      "citation": "BG 6.34",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.34) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.34 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_32",
+        "bg_6_33",
+        "bg_6_35",
+        "bg_6_36"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: चञ्चलं हि मनः कृष्ण प्रमाथि बलवद्दृढम्। तस्याहं निग्रहं मन्य…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_34",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_35",
+      "citation": "BG 6.35",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.35) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.35 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_33",
+        "bg_6_34",
+        "bg_6_36",
+        "bg_6_37"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्री भगवानुवाच असंशयं महाबाहो मनो दुर्निग्रहं चलं। अभ्यासेन …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_35",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_36",
+      "citation": "BG 6.36",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.36) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.36 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_34",
+        "bg_6_35",
+        "bg_6_37",
+        "bg_6_38"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: असंयतात्मना योगो दुष्प्राप इति मे मतिः। वश्यात्मना तु यतता श…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_36",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_37",
+      "citation": "BG 6.37",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.37) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.37 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_35",
+        "bg_6_36",
+        "bg_6_38",
+        "bg_6_39"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अर्जुन उवाच अयतिः श्रद्धयोपेतो योगाच्चलितमानसः। अप्राप्य योग…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_37",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_38",
+      "citation": "BG 6.38",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.38) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.38 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_36",
+        "bg_6_37",
+        "bg_6_39",
+        "bg_6_40"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति। अप्रतिष्ठो महाबाहो…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_38",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_39",
+      "citation": "BG 6.39",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.39) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.39 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_37",
+        "bg_6_38",
+        "bg_6_40",
+        "bg_6_41"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: एतन्मे संशयं कृष्ण छेत्तुमर्हस्यशेषतः। त्वदन्यः संशयस्यास्य …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_39",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_40",
+      "citation": "BG 6.40",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.40) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.40 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_38",
+        "bg_6_39",
+        "bg_6_41",
+        "bg_6_42"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्री भगवानुवाच पार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते। नहि …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_40",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_41",
+      "citation": "BG 6.41",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.41) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.41 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_39",
+        "bg_6_40",
+        "bg_6_42",
+        "bg_6_43"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: प्राप्य पुण्यकृतां लोकानुषित्वा शाश्वतीः समाः। शुचीनां श्रीम…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_41",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_42",
+      "citation": "BG 6.42",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.42) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.42 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_40",
+        "bg_6_41",
+        "bg_6_43",
+        "bg_6_44"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अथवा योगिनामेव कुले भवति धीमताम्। एतद्धि दुर्लभतरं लोके जन्म…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_42",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_43",
+      "citation": "BG 6.43",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.43) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.43 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_41",
+        "bg_6_42",
+        "bg_6_44",
+        "bg_6_45"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम्। यतते च ततो भूयः संसि…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_43",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_44",
+      "citation": "BG 6.44",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.44) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.44 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_42",
+        "bg_6_43",
+        "bg_6_45",
+        "bg_6_46"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि सः। जिज्ञासुरपि योगस्य…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_44",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_45",
+      "citation": "BG 6.45",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.45) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.45 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_43",
+        "bg_6_44",
+        "bg_6_46",
+        "bg_6_47"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: प्रयत्नाद्यतमानस्तु योगी संशुद्धकिल्बिषः। अनेकजन्मसंसिद्धस्त…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_45",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_46",
+      "citation": "BG 6.46",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.46) inviting reflection on mind, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around mind when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.46 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_44",
+        "bg_6_45",
+        "bg_6_47"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तपस्विभ्योऽधिको योगी ज्ञानिभ्योऽपि मतोऽधिकः। कर्मिभ्यश्चाधिक…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_46",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_6_47",
+      "citation": "BG 6.47",
+      "status": "generated",
+      "summary": "A teaching from Dhyana Yoga — Meditation (BG 6.47) inviting reflection on devotion, mind.",
+      "modern_interpretation": "In modern life, this verse from Chapter 6 supports clarity around devotion when facing restlessness. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "mind",
+        "discipline",
+        "yoga"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit with BG 6.47 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 6's theme (Dhyana Yoga — Meditation) asking of me through this verse?",
+      "related_verses": [
+        "bg_6_45",
+        "bg_6_46"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: योगिनामपि सर्वेषां मद्गतेनान्तरात्मना। श्रद्धावान्भजते यो मा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_6_47",
+      "review_notes": []
+    }
+  ]
+}

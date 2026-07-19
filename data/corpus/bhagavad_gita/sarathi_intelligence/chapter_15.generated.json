@@ -1,0 +1,1061 @@
+{
+  "manifest": {
+    "name": "Sarathi Intelligence",
+    "scripture": "bhagavad_gita",
+    "chapter": 15,
+    "chapter_title": "Purushottama — The Supreme Person",
+    "version": "0.2.0-generated",
+    "status": "generated",
+    "authentic_corpus": "../bhagavad_gita.json",
+    "editorial_workflow": [
+      "generated",
+      "reviewed",
+      "approved",
+      "locked"
+    ],
+    "enrichment_count": 20,
+    "approval_policy": "Never auto-approve. Human review required."
+  },
+  "enrichments": [
+    {
+      "node_id": "bg_15_1",
+      "citation": "BG 15.1",
+      "status": "generated",
+      "summary": "A teaching from Purushottama — The Supreme Person (BG 15.1) inviting reflection on self, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 15 supports clarity around self when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "self",
+        "liberation",
+        "wisdom"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 15.1 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 15's theme (Purushottama — The Supreme Person) asking of me through this verse?",
+      "related_verses": [
+        "bg_15_2",
+        "bg_15_3",
+        "bg_15_4"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्री भगवानुवाच ऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम्। छन्दां…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_15_1",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_15_2",
+      "citation": "BG 15.2",
+      "status": "generated",
+      "summary": "A teaching from Purushottama — The Supreme Person (BG 15.2) inviting reflection on self, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 15 supports clarity around self when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "self",
+        "liberation",
+        "wisdom",
+        "karma"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 15.2 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 15's theme (Purushottama — The Supreme Person) asking of me through this verse?",
+      "related_verses": [
+        "bg_15_1",
+        "bg_15_3",
+        "bg_15_4",
+        "bg_15_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अधश्चोर्ध्वं प्रसृतास्तस्य शाखा गुणप्रवृद्धा विषयप्रवालाः। अ…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_15_2",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_15_3",
+      "citation": "BG 15.3",
+      "status": "generated",
+      "summary": "A teaching from Purushottama — The Supreme Person (BG 15.3) inviting reflection on self, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 15 supports clarity around self when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "self",
+        "liberation",
+        "wisdom"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 15.3 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 15's theme (Purushottama — The Supreme Person) asking of me through this verse?",
+      "related_verses": [
+        "bg_15_1",
+        "bg_15_2",
+        "bg_15_4",
+        "bg_15_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: न रूपमस्येह तथोपलभ्यते नान्तो न चादिर्न च संप्रतिष्ठा। अश्वत…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_15_3",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_15_4",
+      "citation": "BG 15.4",
+      "status": "generated",
+      "summary": "A teaching from Purushottama — The Supreme Person (BG 15.4) inviting reflection on self, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 15 supports clarity around self when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "self",
+        "liberation",
+        "wisdom"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 15.4 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 15's theme (Purushottama — The Supreme Person) asking of me through this verse?",
+      "related_verses": [
+        "bg_15_2",
+        "bg_15_3",
+        "bg_15_5",
+        "bg_15_6"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ततः पदं तत्परिमार्गितव्यम् यस्मिन्गता न निवर्तन्ति भूयः। तमे…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_15_4",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_15_5",
+      "citation": "BG 15.5",
+      "status": "generated",
+      "summary": "A teaching from Purushottama — The Supreme Person (BG 15.5) inviting reflection on self, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 15 supports clarity around self when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "self",
+        "liberation",
+        "wisdom"
+      ],
+      "emotions": [
+        "anger",
+        "grief",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 15.5 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 15's theme (Purushottama — The Supreme Person) asking of me through this verse?",
+      "related_verses": [
+        "bg_15_3",
+        "bg_15_4",
+        "bg_15_6",
+        "bg_15_7"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: निर्मानमोहा जितसङ्गदोषा अध्यात्मनित्या विनिवृत्तकामाः। द्वन्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_15_5",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_15_6",
+      "citation": "BG 15.6",
+      "status": "generated",
+      "summary": "A teaching from Purushottama — The Supreme Person (BG 15.6) inviting reflection on self, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 15 supports clarity around self when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "self",
+        "liberation",
+        "wisdom"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 15.6 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 15's theme (Purushottama — The Supreme Person) asking of me through this verse?",
+      "related_verses": [
+        "bg_15_4",
+        "bg_15_5",
+        "bg_15_7",
+        "bg_15_8"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: न तद्भासयते सूर्यो न शशाङ्को न पावकः। यद्गत्वा न निवर्तन्ते …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_15_6",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_15_7",
+      "citation": "BG 15.7",
+      "status": "generated",
+      "summary": "A teaching from Purushottama — The Supreme Person (BG 15.7) inviting reflection on self, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 15 supports clarity around self when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "self",
+        "liberation",
+        "wisdom"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 15.7 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 15's theme (Purushottama — The Supreme Person) asking of me through this verse?",
+      "related_verses": [
+        "bg_15_5",
+        "bg_15_6",
+        "bg_15_8",
+        "bg_15_9"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ममैवांशो जीवलोके जीवभूतः सनातनः। मनःषष्ठानीन्द्रियाणि प्रकृत…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_15_7",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_15_8",
+      "citation": "BG 15.8",
+      "status": "generated",
+      "summary": "A teaching from Purushottama — The Supreme Person (BG 15.8) inviting reflection on self, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 15 supports clarity around self when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "self",
+        "liberation",
+        "wisdom"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 15.8 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 15's theme (Purushottama — The Supreme Person) asking of me through this verse?",
+      "related_verses": [
+        "bg_15_6",
+        "bg_15_7",
+        "bg_15_9",
+        "bg_15_10"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः। गृहीत्वैतानि संयात…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_15_8",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_15_9",
+      "citation": "BG 15.9",
+      "status": "generated",
+      "summary": "A teaching from Purushottama — The Supreme Person (BG 15.9) inviting reflection on self, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 15 supports clarity around self when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "self",
+        "liberation",
+        "wisdom"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 15.9 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 15's theme (Purushottama — The Supreme Person) asking of me through this verse?",
+      "related_verses": [
+        "bg_15_7",
+        "bg_15_8",
+        "bg_15_10",
+        "bg_15_11"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्रोत्रं चक्षुः स्पर्शनं च रसनं घ्राणमेव च। अधिष्ठाय मनश्चाय…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_15_9",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_15_10",
+      "citation": "BG 15.10",
+      "status": "generated",
+      "summary": "A teaching from Purushottama — The Supreme Person (BG 15.10) inviting reflection on self, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 15 supports clarity around self when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "self",
+        "liberation",
+        "wisdom"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 15.10 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 15's theme (Purushottama — The Supreme Person) asking of me through this verse?",
+      "related_verses": [
+        "bg_15_8",
+        "bg_15_9",
+        "bg_15_11",
+        "bg_15_12"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: उत्क्रामन्तं स्थितं वापि भुञ्जानं वा गुणान्वितम्। विमूढा नान…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_15_10",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_15_11",
+      "citation": "BG 15.11",
+      "status": "generated",
+      "summary": "A teaching from Purushottama — The Supreme Person (BG 15.11) inviting reflection on self, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 15 supports clarity around self when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "self",
+        "liberation",
+        "wisdom",
+        "karma"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 15.11 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 15's theme (Purushottama — The Supreme Person) asking of me through this verse?",
+      "related_verses": [
+        "bg_15_9",
+        "bg_15_10",
+        "bg_15_12",
+        "bg_15_13"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम्। यतन्तोऽप्यकृतात…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_15_11",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_15_12",
+      "citation": "BG 15.12",
+      "status": "generated",
+      "summary": "A teaching from Purushottama — The Supreme Person (BG 15.12) inviting reflection on self, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 15 supports clarity around self when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "self",
+        "liberation",
+        "wisdom"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 15.12 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 15's theme (Purushottama — The Supreme Person) asking of me through this verse?",
+      "related_verses": [
+        "bg_15_10",
+        "bg_15_11",
+        "bg_15_13",
+        "bg_15_14"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यदादित्यगतं तेजो जगद्भासयतेऽखिलम्। यच्चन्द्रमसि यच्चाग्नौ तत…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_15_12",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_15_13",
+      "citation": "BG 15.13",
+      "status": "generated",
+      "summary": "A teaching from Purushottama — The Supreme Person (BG 15.13) inviting reflection on self, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 15 supports clarity around self when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "self",
+        "liberation",
+        "wisdom"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 15.13 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 15's theme (Purushottama — The Supreme Person) asking of me through this verse?",
+      "related_verses": [
+        "bg_15_11",
+        "bg_15_12",
+        "bg_15_14",
+        "bg_15_15"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: गामाविश्य च भूतानि धारयाम्यहमोजसा। पुष्णामि चौषधीः सर्वाः सो…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_15_13",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_15_14",
+      "citation": "BG 15.14",
+      "status": "generated",
+      "summary": "A teaching from Purushottama — The Supreme Person (BG 15.14) inviting reflection on self, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 15 supports clarity around self when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "self",
+        "liberation",
+        "wisdom"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 15.14 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 15's theme (Purushottama — The Supreme Person) asking of me through this verse?",
+      "related_verses": [
+        "bg_15_12",
+        "bg_15_13",
+        "bg_15_15",
+        "bg_15_16"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः। प्राणापानसमायुक्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_15_14",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_15_15",
+      "citation": "BG 15.15",
+      "status": "generated",
+      "summary": "A teaching from Purushottama — The Supreme Person (BG 15.15) inviting reflection on self, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 15 supports clarity around self when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "self",
+        "liberation",
+        "wisdom"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 15.15 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 15's theme (Purushottama — The Supreme Person) asking of me through this verse?",
+      "related_verses": [
+        "bg_15_13",
+        "bg_15_14",
+        "bg_15_16",
+        "bg_15_17"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सर्वस्य चाहं हृदि सन्निविष्टो मत्तः स्मृतिर्ज्ञानमपोहनं च। व…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_15_15",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_15_16",
+      "citation": "BG 15.16",
+      "status": "generated",
+      "summary": "A teaching from Purushottama — The Supreme Person (BG 15.16) inviting reflection on self, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 15 supports clarity around self when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "self",
+        "liberation",
+        "wisdom"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 15.16 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 15's theme (Purushottama — The Supreme Person) asking of me through this verse?",
+      "related_verses": [
+        "bg_15_14",
+        "bg_15_15",
+        "bg_15_17",
+        "bg_15_18"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च। क्षरः सर्वाणि भूतानि…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_15_16",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_15_17",
+      "citation": "BG 15.17",
+      "status": "generated",
+      "summary": "A teaching from Purushottama — The Supreme Person (BG 15.17) inviting reflection on self, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 15 supports clarity around self when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "self",
+        "liberation",
+        "wisdom"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 15.17 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 15's theme (Purushottama — The Supreme Person) asking of me through this verse?",
+      "related_verses": [
+        "bg_15_15",
+        "bg_15_16",
+        "bg_15_18",
+        "bg_15_19"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: उत्तमः पुरुषस्त्वन्यः परमात्मेत्युदाहृतः। यो लोकत्रयमाविश्य …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_15_17",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_15_18",
+      "citation": "BG 15.18",
+      "status": "generated",
+      "summary": "A teaching from Purushottama — The Supreme Person (BG 15.18) inviting reflection on self, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 15 supports clarity around self when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "self",
+        "liberation",
+        "wisdom"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 15.18 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 15's theme (Purushottama — The Supreme Person) asking of me through this verse?",
+      "related_verses": [
+        "bg_15_16",
+        "bg_15_17",
+        "bg_15_19",
+        "bg_15_20"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः। अतोऽस्मि लोके वेदे च प्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_15_18",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_15_19",
+      "citation": "BG 15.19",
+      "status": "generated",
+      "summary": "A teaching from Purushottama — The Supreme Person (BG 15.19) inviting reflection on devotion, self.",
+      "modern_interpretation": "In modern life, this verse from Chapter 15 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "self",
+        "liberation",
+        "wisdom"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 15.19 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 15's theme (Purushottama — The Supreme Person) asking of me through this verse?",
+      "related_verses": [
+        "bg_15_17",
+        "bg_15_18",
+        "bg_15_20"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यो मामेवमसम्मूढो जानाति पुरुषोत्तमम्। स सर्वविद्भजति मां सर्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_15_19",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_15_20",
+      "citation": "BG 15.20",
+      "status": "generated",
+      "summary": "A teaching from Purushottama — The Supreme Person (BG 15.20) inviting reflection on self, liberation.",
+      "modern_interpretation": "In modern life, this verse from Chapter 15 supports clarity around self when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "self",
+        "liberation",
+        "wisdom"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 15.20 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 15's theme (Purushottama — The Supreme Person) asking of me through this verse?",
+      "related_verses": [
+        "bg_15_18",
+        "bg_15_19"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: इति गुह्यतमं शास्त्रमिदमुक्तं मयाऽनघ। एतद्बुद्ध्वा बुद्धिमान…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_15_20",
+      "review_notes": []
+    }
+  ]
+}

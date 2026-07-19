@@ -1,0 +1,1554 @@
+{
+  "manifest": {
+    "name": "Sarathi Intelligence",
+    "scripture": "bhagavad_gita",
+    "chapter": 7,
+    "chapter_title": "Jnana-Vijnana — Knowing the Divine",
+    "version": "0.2.0-generated",
+    "status": "generated",
+    "authentic_corpus": "../bhagavad_gita.json",
+    "editorial_workflow": [
+      "generated",
+      "reviewed",
+      "approved",
+      "locked"
+    ],
+    "enrichment_count": 30,
+    "approval_policy": "Never auto-approve. Human review required."
+  },
+  "enrichments": [
+    {
+      "node_id": "bg_7_1",
+      "citation": "BG 7.1",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.1) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom",
+        "karma"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.1 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_2",
+        "bg_7_3",
+        "bg_7_4"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्री भगवानुवाच मय्यासक्तमनाः पार्थ योगं युञ्जन्मदाश्रयः। असं…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_1",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_2",
+      "citation": "BG 7.2",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.2) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.2 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_1",
+        "bg_7_3",
+        "bg_7_4",
+        "bg_7_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषतः। यज्ज्ञात्वा नेह भ…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_2",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_3",
+      "citation": "BG 7.3",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.3) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.3 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_1",
+        "bg_7_2",
+        "bg_7_4",
+        "bg_7_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: मनुष्याणां सहस्रेषु कश्चिद्यतति सिद्धये। यततामपि सिद्धानां क…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_3",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_4",
+      "citation": "BG 7.4",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.4) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.4 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_2",
+        "bg_7_3",
+        "bg_7_5",
+        "bg_7_6"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: भूमिरापोऽनलो वायुः खं मनो बुद्धिरेव च। अहङ्कार इतीयं मे भिन्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_4",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_5",
+      "citation": "BG 7.5",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.5) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.5 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_3",
+        "bg_7_4",
+        "bg_7_6",
+        "bg_7_7"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अपरेयमितस्त्वन्यां प्रकृतिं विद्धि मे पराम्। जीवभूतां महाबाह…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_5",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_6",
+      "citation": "BG 7.6",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.6) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.6 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_4",
+        "bg_7_5",
+        "bg_7_7",
+        "bg_7_8"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: एतद्योनीनि भूतानि सर्वाणीत्युपधारय। अहं कृत्स्नस्य जगतः प्रभ…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_6",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_7",
+      "citation": "BG 7.7",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.7) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.7 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_5",
+        "bg_7_6",
+        "bg_7_8",
+        "bg_7_9"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: मत्तः परतरं नान्यत्किञ्चिदस्ति धनञ्जय। मयि सर्वमिदं प्रोतं स…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_7",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_8",
+      "citation": "BG 7.8",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.8) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.8 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_6",
+        "bg_7_7",
+        "bg_7_9",
+        "bg_7_10"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययोः। प्रणवः सर्ववेदेषु …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_8",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_9",
+      "citation": "BG 7.9",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.9) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.9 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_7",
+        "bg_7_8",
+        "bg_7_10",
+        "bg_7_11"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: पुण्यो गन्धः पृथिव्यां च तेजश्चास्मि विभावसौ। जीवनं सर्वभूते…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_9",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_10",
+      "citation": "BG 7.10",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.10) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.10 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_8",
+        "bg_7_9",
+        "bg_7_11",
+        "bg_7_12"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम्। बुद्धिर्बुद्धिमता…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_10",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_11",
+      "citation": "BG 7.11",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.11) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "anger",
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.11 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_9",
+        "bg_7_10",
+        "bg_7_12",
+        "bg_7_13"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: बलं बलवतां चाहं कामरागविवर्जितम्। धर्माविरुद्धो भूतेषु कामोऽ…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_11",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_12",
+      "citation": "BG 7.12",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.12) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.12 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_10",
+        "bg_7_11",
+        "bg_7_13",
+        "bg_7_14"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ये चैव सात्त्विका भावा राजसास्तामसाश्च ये। मत्त एवेति तान्वि…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_12",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_13",
+      "citation": "BG 7.13",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.13) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.13 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_11",
+        "bg_7_12",
+        "bg_7_14",
+        "bg_7_15"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: त्रिभिर्गुणमयैर्भावैरेभिः सर्वमिदं जगत्। मोहितं नाभिजानाति म…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_13",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_14",
+      "citation": "BG 7.14",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.14) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.14 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_12",
+        "bg_7_13",
+        "bg_7_15",
+        "bg_7_16"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: दैवी ह्येषा गुणमयी मम माया दुरत्यया। मामेव ये प्रपद्यन्ते मा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_14",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_15",
+      "citation": "BG 7.15",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.15) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.15 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_13",
+        "bg_7_14",
+        "bg_7_16",
+        "bg_7_17"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: न मां दुष्कृतिनो मूढाः प्रपद्यन्ते नराधमाः। माययापहृतज्ञाना …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_15",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_16",
+      "citation": "BG 7.16",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.16) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.16 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_14",
+        "bg_7_15",
+        "bg_7_17",
+        "bg_7_18"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन। आर्तो जिज्ञासुरर्थ…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_16",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_17",
+      "citation": "BG 7.17",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.17) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.17 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_15",
+        "bg_7_16",
+        "bg_7_18",
+        "bg_7_19"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तेषां ज्ञानी नित्ययुक्त एकभक्ितर्विशिष्यते। प्रियो हि ज्ञानि…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_17",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_18",
+      "citation": "BG 7.18",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.18) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.18 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_16",
+        "bg_7_17",
+        "bg_7_19",
+        "bg_7_20"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: उदाराः सर्व एवैते ज्ञानी त्वात्मैव मे मतम्। आस्थितः स हि युक…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_18",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_19",
+      "citation": "BG 7.19",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.19) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.19 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_17",
+        "bg_7_18",
+        "bg_7_20",
+        "bg_7_21"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते। वासुदेवः सर्वमिति…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_19",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_20",
+      "citation": "BG 7.20",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.20) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "anger",
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.20 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_18",
+        "bg_7_19",
+        "bg_7_21",
+        "bg_7_22"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: कामैस्तैस्तैर्हृतज्ञानाः प्रपद्यन्तेऽन्यदेवताः। तं तं नियममा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_20",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_21",
+      "citation": "BG 7.21",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.21) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.21 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_19",
+        "bg_7_20",
+        "bg_7_22",
+        "bg_7_23"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यो यो यां यां तनुं भक्तः श्रद्धयार्चितुमिच्छति। तस्य तस्याचल…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_21",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_22",
+      "citation": "BG 7.22",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.22) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "anger",
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.22 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_20",
+        "bg_7_21",
+        "bg_7_23",
+        "bg_7_24"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: स तया श्रद्धया युक्तस्तस्याराधनमीहते। लभते च ततः कामान्मयैव …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_22",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_23",
+      "citation": "BG 7.23",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.23) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.23 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_21",
+        "bg_7_22",
+        "bg_7_24",
+        "bg_7_25"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अन्तवत्तु फलं तेषां तद्भवत्यल्पमेधसाम्। देवान्देवयजो यान्ति …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_23",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_24",
+      "citation": "BG 7.24",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.24) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.24 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_22",
+        "bg_7_23",
+        "bg_7_25",
+        "bg_7_26"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अव्यक्तं व्यक्ितमापन्नं मन्यन्ते मामबुद्धयः। परं भावमजानन्तो…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_24",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_25",
+      "citation": "BG 7.25",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.25) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom",
+        "karma"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.25 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_23",
+        "bg_7_24",
+        "bg_7_26",
+        "bg_7_27"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: नाहं प्रकाशः सर्वस्य योगमायासमावृतः। मूढोऽयं नाभिजानाति लोको…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_25",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_26",
+      "citation": "BG 7.26",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.26) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.26 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_24",
+        "bg_7_25",
+        "bg_7_27",
+        "bg_7_28"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: वेदाहं समतीतानि वर्तमानानि चार्जुन। भविष्याणि च भूतानि मां त…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_26",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_27",
+      "citation": "BG 7.27",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.27) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.27 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_25",
+        "bg_7_26",
+        "bg_7_28",
+        "bg_7_29"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: इच्छाद्वेषसमुत्थेन द्वन्द्वमोहेन भारत। सर्वभूतानि संमोहं सर्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_27",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_28",
+      "citation": "BG 7.28",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.28) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom",
+        "karma"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.28 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_26",
+        "bg_7_27",
+        "bg_7_29",
+        "bg_7_30"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: येषां त्वन्तगतं पापं जनानां पुण्यकर्मणाम्। ते द्वन्द्वमोहनिर…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_28",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_29",
+      "citation": "BG 7.29",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.29) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom",
+        "karma"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.29 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_27",
+        "bg_7_28",
+        "bg_7_30"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: जरामरणमोक्षाय मामाश्रित्य यतन्ति ये। ते ब्रह्म तद्विदुः कृत्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_29",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_7_30",
+      "citation": "BG 7.30",
+      "status": "generated",
+      "summary": "A teaching from Jnana-Vijnana — Knowing the Divine (BG 7.30) inviting reflection on knowledge, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 7 supports clarity around knowledge when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "knowledge",
+        "devotion",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "humility"
+      ],
+      "practice": [
+        "Sit with BG 7.30 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 7's theme (Jnana-Vijnana — Knowing the Divine) asking of me through this verse?",
+      "related_verses": [
+        "bg_7_28",
+        "bg_7_29"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: साधिभूताधिदैवं मां साधियज्ञं च ये विदुः। प्रयाणकालेऽपि च मां…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_7_30",
+      "review_notes": []
+    }
+  ]
+}

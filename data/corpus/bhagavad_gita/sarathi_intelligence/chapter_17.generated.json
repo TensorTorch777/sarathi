@@ -1,0 +1,1505 @@
+{
+  "manifest": {
+    "name": "Sarathi Intelligence",
+    "scripture": "bhagavad_gita",
+    "chapter": 17,
+    "chapter_title": "Shraddhatraya — Three Kinds of Faith",
+    "version": "0.2.0-generated",
+    "status": "generated",
+    "authentic_corpus": "../bhagavad_gita.json",
+    "editorial_workflow": [
+      "generated",
+      "reviewed",
+      "approved",
+      "locked"
+    ],
+    "enrichment_count": 28,
+    "approval_policy": "Never auto-approve. Human review required."
+  },
+  "enrichments": [
+    {
+      "node_id": "bg_17_1",
+      "citation": "BG 17.1",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.1) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.1 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_2",
+        "bg_17_3",
+        "bg_17_4"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अर्जुन उवाच ये शास्त्रविधिमुत्सृज्य यजन्ते श्रद्धयाऽन्विताः।…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_1",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_2",
+      "citation": "BG 17.2",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.2) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.2 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_1",
+        "bg_17_3",
+        "bg_17_4",
+        "bg_17_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्री भगवानुवाच त्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा। सा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_2",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_3",
+      "citation": "BG 17.3",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.3) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.3 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_1",
+        "bg_17_2",
+        "bg_17_4",
+        "bg_17_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत। श्रद्धामयोऽयं पुरुष…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_3",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_4",
+      "citation": "BG 17.4",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.4) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.4 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_2",
+        "bg_17_3",
+        "bg_17_5",
+        "bg_17_6"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यजन्ते सात्त्विका देवान्यक्षरक्षांसि राजसाः। प्रेतान्भूतगणां…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_4",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_5",
+      "citation": "BG 17.5",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.5) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "anger",
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.5 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_3",
+        "bg_17_4",
+        "bg_17_6",
+        "bg_17_7"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अशास्त्रविहितं घोरं तप्यन्ते ये तपो जनाः। दम्भाहङ्कारसंयुक्त…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_5",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_6",
+      "citation": "BG 17.6",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.6) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.6 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_4",
+        "bg_17_5",
+        "bg_17_7",
+        "bg_17_8"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: कर्षयन्तः शरीरस्थं भूतग्राममचेतसः। मां चैवान्तःशरीरस्थं तान्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_6",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_7",
+      "citation": "BG 17.7",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.7) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.7 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_5",
+        "bg_17_6",
+        "bg_17_8",
+        "bg_17_9"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रियः। यज्ञस्तपस्तथा दानं…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_7",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_8",
+      "citation": "BG 17.8",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.8) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.8 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_6",
+        "bg_17_7",
+        "bg_17_9",
+        "bg_17_10"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः। रस्याः स्निग्धाः स्थिर…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_8",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_9",
+      "citation": "BG 17.9",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.9) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing anger. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "anger",
+        "grief",
+        "confusion",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.9 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_7",
+        "bg_17_8",
+        "bg_17_10",
+        "bg_17_11"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः। आहारा राजसस्येष्टा द…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_9",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_10",
+      "citation": "BG 17.10",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.10) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.10 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_8",
+        "bg_17_9",
+        "bg_17_11",
+        "bg_17_12"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यातयामं गतरसं पूति पर्युषितं च यत्। उच्छिष्टमपि चामेध्यं भोज…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_10",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_11",
+      "citation": "BG 17.11",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.11) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.11 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_9",
+        "bg_17_10",
+        "bg_17_12",
+        "bg_17_13"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अफलाकाङ्क्षिभिर्यज्ञो विधिदृष्टो य इज्यते। यष्टव्यमेवेति मनः…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_11",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_12",
+      "citation": "BG 17.12",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.12) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.12 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_10",
+        "bg_17_11",
+        "bg_17_13",
+        "bg_17_14"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अभिसंधाय तु फलं दम्भार्थमपि चैव यत्। इज्यते भरतश्रेष्ठ तं यज…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_12",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_13",
+      "citation": "BG 17.13",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.13) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.13 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_11",
+        "bg_17_12",
+        "bg_17_14",
+        "bg_17_15"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: विधिहीनमसृष्टान्नं मन्त्रहीनमदक्षिणम्। श्रद्धाविरहितं यज्ञं …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_13",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_14",
+      "citation": "BG 17.14",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.14) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.14 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_12",
+        "bg_17_13",
+        "bg_17_15",
+        "bg_17_16"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: देवद्विजगुरुप्राज्ञपूजनं शौचमार्जवम्। ब्रह्मचर्यमहिंसा च शार…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_14",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_15",
+      "citation": "BG 17.15",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.15) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.15 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_13",
+        "bg_17_14",
+        "bg_17_16",
+        "bg_17_17"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत्। स्वाध्यायाभ्यसनं च…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_15",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_16",
+      "citation": "BG 17.16",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.16) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.16 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_14",
+        "bg_17_15",
+        "bg_17_17",
+        "bg_17_18"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: मनःप्रसादः सौम्यत्वं मौनमात्मविनिग्रहः। भावसंशुद्धिरित्येतत्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_16",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_17",
+      "citation": "BG 17.17",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.17) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.17 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_15",
+        "bg_17_16",
+        "bg_17_18",
+        "bg_17_19"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्रद्धया परया तप्तं तपस्तत्ित्रविधं नरैः। अफलाकाङ्क्षिभिर्यु…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_17",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_18",
+      "citation": "BG 17.18",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.18) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.18 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_16",
+        "bg_17_17",
+        "bg_17_19",
+        "bg_17_20"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सत्कारमानपूजार्थं तपो दम्भेन चैव यत्। क्रियते तदिह प्रोक्तं …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_18",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_19",
+      "citation": "BG 17.19",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.19) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.19 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_17",
+        "bg_17_18",
+        "bg_17_20",
+        "bg_17_21"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: मूढग्राहेणात्मनो यत्पीडया क्रियते तपः। परस्योत्सादनार्थं वा …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_19",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_20",
+      "citation": "BG 17.20",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.20) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.20 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_18",
+        "bg_17_19",
+        "bg_17_21",
+        "bg_17_22"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: दातव्यमिति यद्दानं दीयतेऽनुपकारिणे। देशे काले च पात्रे च तद्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_20",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_21",
+      "citation": "BG 17.21",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.21) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.21 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_19",
+        "bg_17_20",
+        "bg_17_22",
+        "bg_17_23"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यत्तु प्रत्युपकारार्थं फलमुद्दिश्य वा पुनः। दीयते च परिक्लिष…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_21",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_22",
+      "citation": "BG 17.22",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.22) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.22 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_20",
+        "bg_17_21",
+        "bg_17_23",
+        "bg_17_24"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अदेशकाले यद्दानमपात्रेभ्यश्च दीयते। असत्कृतमवज्ञातं तत्तामसम…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_22",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_23",
+      "citation": "BG 17.23",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.23) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.23 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_21",
+        "bg_17_22",
+        "bg_17_24",
+        "bg_17_25"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ॐ तत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः। ब्राह्मणास्तेन…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_23",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_24",
+      "citation": "BG 17.24",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.24) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.24 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_22",
+        "bg_17_23",
+        "bg_17_25",
+        "bg_17_26"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तस्मादोमित्युदाहृत्य यज्ञदानतपःक्रियाः। प्रवर्तन्ते विधानोक्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_24",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_25",
+      "citation": "BG 17.25",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.25) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.25 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_23",
+        "bg_17_24",
+        "bg_17_26",
+        "bg_17_27"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तदित्यनभिसन्धाय फलं यज्ञतपःक्रियाः। दानक्रियाश्च विविधाः क्र…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_25",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_26",
+      "citation": "BG 17.26",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.26) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma",
+        "karma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.26 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_24",
+        "bg_17_25",
+        "bg_17_27",
+        "bg_17_28"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सद्भावे साधुभावे च सदित्येतत्प्रयुज्यते। प्रशस्ते कर्मणि तथा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_26",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_27",
+      "citation": "BG 17.27",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.27) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma",
+        "karma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.27 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_25",
+        "bg_17_26",
+        "bg_17_28"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यज्ञे तपसि दाने च स्थितिः सदिति चोच्यते। कर्म चैव तदर्थीयं स…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_27",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_17_28",
+      "citation": "BG 17.28",
+      "status": "generated",
+      "summary": "A teaching from Shraddhatraya — Three Kinds of Faith (BG 17.28) inviting reflection on devotion, discipline.",
+      "modern_interpretation": "In modern life, this verse from Chapter 17 supports clarity around devotion when facing confusion. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "devotion",
+        "discipline",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Sit with BG 17.28 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 17's theme (Shraddhatraya — Three Kinds of Faith) asking of me through this verse?",
+      "related_verses": [
+        "bg_17_26",
+        "bg_17_27"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अश्रद्धया हुतं दत्तं तपस्तप्तं कृतं च यत्। असदित्युच्यते पार…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_17_28",
+      "review_notes": []
+    }
+  ]
+}

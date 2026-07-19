@@ -1,0 +1,4099 @@
+{
+  "manifest": {
+    "name": "Sarathi Intelligence",
+    "scripture": "bhagavad_gita",
+    "chapter": 2,
+    "chapter_title": "Sankhya Yoga — Wisdom and Equanimity",
+    "version": "0.3.0",
+    "status": "partial_approved",
+    "authentic_corpus": "../bhagavad_gita.json",
+    "editorial_workflow": [
+      "generated",
+      "reviewed",
+      "approved",
+      "locked"
+    ],
+    "enrichment_count": 72,
+    "approval_policy": "Never auto-approve. Human review required.",
+    "approved_count": 23
+  },
+  "enrichments": [
+    {
+      "node_id": "bg_2_1",
+      "citation": "BG 2.1",
+      "status": "generated",
+      "summary": "Sanjaya describes Arjuna overwhelmed by compassion and tears before Krishna speaks.",
+      "modern_interpretation": "When grief floods the body, wise counsel often begins with simply naming the collapse — not rushing to fix it.",
+      "topics": [
+        "compassion",
+        "mind"
+      ],
+      "emotions": [
+        "grief",
+        "overwhelm"
+      ],
+      "life_domains": [
+        "family",
+        "relationships",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "compassion",
+        "patience"
+      ],
+      "practice": [
+        "Name what you feel in one honest sentence before deciding anything."
+      ],
+      "reflection_question": "Where am I so flooded that I cannot yet hear guidance?",
+      "related_verses": [
+        "bg_2_2",
+        "bg_2_7",
+        "bg_2_11"
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.75,
+        "emotions": 0.85,
+        "overall": 0.85
+      },
+      "uncertainty_notes": "Emotion tags lean pastoral; battlefield context is also political/dharma conflict.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_1",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_2",
+      "citation": "BG 2.2",
+      "status": "generated",
+      "summary": "Krishna challenges Arjuna: this despair in crisis is unworthy and self-diminishing.",
+      "modern_interpretation": "Compassion is noble; paralysis dressed as virtue can still shrink you when action is required.",
+      "topics": [
+        "duty",
+        "dharma"
+      ],
+      "emotions": [
+        "confusion",
+        "fear",
+        "shame"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_courage",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "courage",
+        "honesty"
+      ],
+      "practice": [
+        "Ask: is this pause wisdom, or am I avoiding a hard duty?"
+      ],
+      "reflection_question": "What weakness am I currently calling 'kindness'?",
+      "related_verses": [
+        "bg_2_3",
+        "bg_2_31",
+        "bg_2_37"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.8,
+        "emotions": 0.7,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Tone is sharp; Sarathi should deliver with care, never shaming. Topic courage mapped to duty + virtue courage.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_2",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_3",
+      "citation": "BG 2.3",
+      "status": "generated",
+      "summary": "Reject small-heartedness; stand up — this frailty does not fit you.",
+      "modern_interpretation": "Sometimes the most compassionate word is: you are stronger than this collapse.",
+      "topics": [
+        "duty",
+        "self"
+      ],
+      "emotions": [
+        "fear",
+        "hopelessness",
+        "shame"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_courage",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "courage",
+        "discipline"
+      ],
+      "practice": [
+        "Stand up — literally — and take one concrete next step."
+      ],
+      "reflection_question": "What would 'standing up' look like in my situation today?",
+      "related_verses": [
+        "bg_2_2",
+        "bg_2_37",
+        "bg_2_38"
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.85,
+        "emotions": 0.8,
+        "overall": 0.85
+      },
+      "uncertainty_notes": "Topic courage mapped to duty + virtue courage.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_3",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_4",
+      "citation": "BG 2.4",
+      "status": "generated",
+      "summary": "Arjuna asks how he can fight revered teachers Bhishma and Drona.",
+      "modern_interpretation": "Conflict hurts most when duty seems to demand opposing people we love and respect.",
+      "topics": [
+        "dharma",
+        "duty"
+      ],
+      "emotions": [
+        "grief",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "family",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "humility",
+        "honesty"
+      ],
+      "practice": [
+        "Write the names of people you fear disappointing; separate love from agreement."
+      ],
+      "reflection_question": "Where does loyalty to people collide with loyalty to truth?",
+      "related_verses": [
+        "bg_2_5",
+        "bg_2_6",
+        "bg_2_7"
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.8,
+        "emotions": 0.85,
+        "overall": 0.85
+      },
+      "uncertainty_notes": "family is not in topics taxonomy — mapped via life_domains. family kept in life_domains, not topics.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_4",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_5",
+      "citation": "BG 2.5",
+      "status": "generated",
+      "summary": "Arjuna would rather live by begging than enjoy gains won by killing elders.",
+      "modern_interpretation": "When success would require betraying your conscience, even 'winning' can feel like spiritual poverty.",
+      "topics": [
+        "dharma",
+        "renunciation",
+        "duty"
+      ],
+      "emotions": [
+        "guilt",
+        "grief",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "money",
+        "family"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "honesty",
+        "humility"
+      ],
+      "practice": [
+        "Name one success you would refuse if it cost your integrity."
+      ],
+      "reflection_question": "What am I unwilling to gain if the price is becoming someone I cannot respect?",
+      "related_verses": [
+        "bg_2_4",
+        "bg_2_6",
+        "bg_2_33"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.75,
+        "emotions": 0.8,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Modern mapping to career ethics is interpretive.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_5",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_6",
+      "citation": "BG 2.6",
+      "status": "generated",
+      "summary": "Arjuna cannot tell which is better — victory or defeat — when either costs unbearable loss.",
+      "modern_interpretation": "Some decisions feel lose-lose; clarity begins by admitting you truly do not know yet.",
+      "topics": [
+        "dharma",
+        "wisdom",
+        "mind"
+      ],
+      "emotions": [
+        "confusion",
+        "overwhelm",
+        "fear"
+      ],
+      "life_domains": [
+        "family",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "humility",
+        "patience"
+      ],
+      "practice": [
+        "Say out loud: 'I do not know yet' — then seek counsel, not noise."
+      ],
+      "reflection_question": "Where am I forcing a binary when I am still confused?",
+      "related_verses": [
+        "bg_2_7",
+        "bg_2_8",
+        "bg_2_11"
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.8,
+        "emotions": 0.85,
+        "overall": 0.85
+      },
+      "uncertainty_notes": null,
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_6",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_7",
+      "citation": "BG 2.7",
+      "status": "generated",
+      "summary": "Broken by softness of heart and confused about dharma, Arjuna asks as a student for what is truly good.",
+      "modern_interpretation": "The turning point of wisdom is not clever argument — it is surrendering confusion and asking for what is truly wholesome.",
+      "topics": [
+        "dharma",
+        "wisdom",
+        "surrender"
+      ],
+      "emotions": [
+        "confusion",
+        "grief",
+        "hopelessness"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "family"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "humility",
+        "honesty",
+        "devotion"
+      ],
+      "practice": [
+        "Ask one trusted guide a single clear question: what is truly good for me to do?"
+      ],
+      "reflection_question": "Am I arguing to win, or am I ready to be taught?",
+      "related_verses": [
+        "bg_2_8",
+        "bg_2_11",
+        "bg_2_39"
+      ],
+      "confidence": {
+        "summary": 0.95,
+        "topics": 0.9,
+        "emotions": 0.85,
+        "overall": 0.9
+      },
+      "uncertainty_notes": null,
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_7",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_8",
+      "citation": "BG 2.8",
+      "status": "generated",
+      "summary": "No worldly success can remove the grief drying up Arjuna's senses.",
+      "modern_interpretation": "Achievement cannot anesthetize grief; some pain needs meaning, not more trophies.",
+      "topics": [
+        "mind",
+        "wisdom",
+        "detachment"
+      ],
+      "emotions": [
+        "grief",
+        "hopelessness",
+        "overwhelm"
+      ],
+      "life_domains": [
+        "career",
+        "money",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "honesty",
+        "patience"
+      ],
+      "practice": [
+        "List what you hoped success would heal — then admit what it cannot."
+      ],
+      "reflection_question": "What am I trying to buy or win to silence a sorrow that needs facing?",
+      "related_verses": [
+        "bg_2_7",
+        "bg_2_11",
+        "bg_2_14"
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.8,
+        "emotions": 0.9,
+        "overall": 0.85
+      },
+      "uncertainty_notes": null,
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_8",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_9",
+      "citation": "BG 2.9",
+      "status": "generated",
+      "summary": "Arjuna refuses to fight and falls silent before Krishna.",
+      "modern_interpretation": "Sometimes collapse ends in silence — not as peace, but as the moment before a deeper teaching can begin.",
+      "topics": [
+        "mind",
+        "duty",
+        "surrender"
+      ],
+      "emotions": [
+        "hopelessness",
+        "overwhelm",
+        "fear"
+      ],
+      "life_domains": [
+        "identity",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "honesty",
+        "humility"
+      ],
+      "practice": [
+        "If you are stuck, stop performing answers; sit quietly for two minutes first."
+      ],
+      "reflection_question": "Is my silence receptivity — or shutdown?",
+      "related_verses": [
+        "bg_2_7",
+        "bg_2_10",
+        "bg_2_11"
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.7,
+        "emotions": 0.8,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Silence can mean many things; tagged as overwhelm with medium confidence.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_9",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_10",
+      "citation": "BG 2.10",
+      "status": "generated",
+      "summary": "Between the two armies, Krishna begins to address the grieving Arjuna.",
+      "modern_interpretation": "Guidance often arrives in the middle of the conflict — not after life becomes tidy.",
+      "topics": [
+        "wisdom",
+        "dharma",
+        "compassion"
+      ],
+      "emotions": [
+        "grief",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "compassion",
+        "patience"
+      ],
+      "practice": [
+        "Seek wisdom while still in the difficulty, not only after it ends."
+      ],
+      "reflection_question": "Am I waiting for perfect calm before I am willing to learn?",
+      "related_verses": [
+        "bg_2_1",
+        "bg_2_11",
+        "bg_2_39"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.7,
+        "emotions": 0.7,
+        "overall": 0.75
+      },
+      "uncertainty_notes": "Transitional narrative verse; enrichment is lighter by design.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_10",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_11",
+      "citation": "BG 2.11",
+      "status": "generated",
+      "summary": "The wise do not grieve for the living or the dead as the confused do.",
+      "modern_interpretation": "Grief is human; wisdom does not forbid feeling — it refuses despair that treats change as final annihilation.",
+      "topics": [
+        "wisdom",
+        "equanimity",
+        "liberation"
+      ],
+      "emotions": [
+        "grief",
+        "confusion"
+      ],
+      "life_domains": [
+        "grief_loss",
+        "family",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "wisdom",
+        "equanimity",
+        "patience"
+      ],
+      "practice": [
+        "When grief rises, add one true sentence: 'This changes form; love is not erased.'"
+      ],
+      "reflection_question": "What am I grieving as if it were absolute disappearance?",
+      "related_verses": [
+        "bg_2_13",
+        "bg_2_20",
+        "bg_2_27"
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.85,
+        "emotions": 0.8,
+        "overall": 0.85
+      },
+      "uncertainty_notes": "Must not be used to invalidate healthy mourning.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_11",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_12",
+      "citation": "BG 2.12",
+      "status": "generated",
+      "summary": "There was never a time when we did not exist; nor shall we cease to be.",
+      "modern_interpretation": "Your deepest identity is not a temporary role — existence itself is more continuous than fear claims.",
+      "topics": [
+        "self",
+        "wisdom",
+        "liberation"
+      ],
+      "emotions": [
+        "fear",
+        "grief",
+        "anxiety"
+      ],
+      "life_domains": [
+        "identity",
+        "grief_loss",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Quietly affirm: I am more than this temporary role or crisis."
+      ],
+      "reflection_question": "What temporary identity am I mistaking for my whole self?",
+      "related_verses": [
+        "bg_2_13",
+        "bg_2_20",
+        "bg_2_22"
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.9,
+        "emotions": 0.75,
+        "overall": 0.85
+      },
+      "uncertainty_notes": null,
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_12",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_13",
+      "citation": "BG 2.13",
+      "status": "generated",
+      "summary": "As the embodied self passes childhood, youth, and age, so it passes to another body — the wise are not bewildered.",
+      "modern_interpretation": "Life is a sequence of forms; clinging to one stage as permanent creates unnecessary panic.",
+      "topics": [
+        "self",
+        "wisdom",
+        "equanimity"
+      ],
+      "emotions": [
+        "fear",
+        "grief",
+        "anxiety"
+      ],
+      "life_domains": [
+        "health",
+        "identity",
+        "grief_loss"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "wisdom",
+        "equanimity",
+        "patience"
+      ],
+      "practice": [
+        "Notice one life stage you are resisting; name what is ending and what continues."
+      ],
+      "reflection_question": "Which change am I treating as annihilation rather than transition?",
+      "related_verses": [
+        "bg_2_12",
+        "bg_2_22",
+        "bg_2_27"
+      ],
+      "confidence": {
+        "summary": 0.95,
+        "topics": 0.9,
+        "emotions": 0.8,
+        "overall": 0.9
+      },
+      "uncertainty_notes": null,
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_13",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_14",
+      "citation": "BG 2.14",
+      "status": "generated",
+      "summary": "Sensations of heat and cold, pleasure and pain come and go — endure them.",
+      "modern_interpretation": "Moods and sensory storms are temporary weather; you can feel them without crowning them as identity.",
+      "topics": [
+        "equanimity",
+        "mind",
+        "discipline"
+      ],
+      "emotions": [
+        "anxiety",
+        "grief",
+        "anger"
+      ],
+      "life_domains": [
+        "health",
+        "career",
+        "relationships"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "patience",
+        "equanimity",
+        "self_control"
+      ],
+      "practice": [
+        "When discomfort spikes, label it: 'temporary contact' — breathe for one minute."
+      ],
+      "reflection_question": "Which passing sensation am I currently obeying as if it were permanent truth?",
+      "related_verses": [
+        "bg_2_15",
+        "bg_2_38",
+        "bg_2_56"
+      ],
+      "confidence": {
+        "summary": 0.95,
+        "topics": 0.9,
+        "emotions": 0.85,
+        "overall": 0.9
+      },
+      "uncertainty_notes": null,
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_14",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_15",
+      "citation": "BG 2.15",
+      "status": "generated",
+      "summary": "The person whom these dualities do not torment becomes fit for immortality.",
+      "modern_interpretation": "Emotional steadiness is not numbness; it is resilience that can hold joy and pain without collapse.",
+      "topics": [
+        "equanimity",
+        "liberation",
+        "wisdom"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "equanimity",
+        "courage",
+        "patience"
+      ],
+      "practice": [
+        "In the next difficult hour, aim for steadiness rather than positivity."
+      ],
+      "reflection_question": "Can I let pleasure and pain move through me without becoming either?",
+      "related_verses": [
+        "bg_2_14",
+        "bg_2_38",
+        "bg_2_56"
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.85,
+        "emotions": 0.7,
+        "overall": 0.85
+      },
+      "uncertainty_notes": null,
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_15",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_16",
+      "citation": "BG 2.16",
+      "status": "generated",
+      "summary": "The unreal has no lasting being; the real never ceases — seers know this boundary.",
+      "modern_interpretation": "Separate what is fleeting from what is enduring; much anxiety comes from treating the temporary as absolute.",
+      "topics": [
+        "wisdom",
+        "knowledge",
+        "liberation"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "fear"
+      ],
+      "life_domains": [
+        "identity",
+        "spiritual_practice",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "wisdom",
+        "honesty"
+      ],
+      "practice": [
+        "Sort today's worries into 'passing' vs 'enduring' — act only on what is truly yours."
+      ],
+      "reflection_question": "What unreal thing am I treating as ultimate?",
+      "related_verses": [
+        "bg_2_17",
+        "bg_2_20",
+        "bg_2_45"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.85,
+        "emotions": 0.65,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Metaphysical verse; modern mapping is necessarily interpretive.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_16",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_17",
+      "citation": "BG 2.17",
+      "status": "generated",
+      "summary": "Know that by which all this is pervaded as indestructible — none can destroy it.",
+      "modern_interpretation": "There is a ground of being that fear cannot erase; remembering it softens panic about loss.",
+      "topics": [
+        "self",
+        "wisdom",
+        "liberation"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "In fear, place a hand on your chest and remember: something essential remains."
+      ],
+      "reflection_question": "What in me cannot be taken by this loss?",
+      "related_verses": [
+        "bg_2_16",
+        "bg_2_20",
+        "bg_2_24"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.85,
+        "emotions": 0.75,
+        "overall": 0.8
+      },
+      "uncertainty_notes": null,
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_17",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_18",
+      "citation": "BG 2.18",
+      "status": "generated",
+      "summary": "Bodies are perishable; the embodied self is said to be eternal — therefore fulfill your duty.",
+      "modern_interpretation": "Mortality of form does not cancel responsibility; it clarifies what courage is for.",
+      "topics": [
+        "duty",
+        "self",
+        "dharma"
+      ],
+      "emotions": [
+        "fear",
+        "grief"
+      ],
+      "life_domains": [
+        "leadership",
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_courage",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "courage",
+        "discipline",
+        "wisdom"
+      ],
+      "practice": [
+        "Do the next right action even while acknowledging impermanence."
+      ],
+      "reflection_question": "Am I using mortality as an excuse to freeze — or as a reason to act cleanly?",
+      "related_verses": [
+        "bg_2_17",
+        "bg_2_30",
+        "bg_2_31"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.8,
+        "emotions": 0.75,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Battlefield 'fight' maps carefully to modern 'fulfill duty' — avoid martial glorification.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_18",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_19",
+      "citation": "BG 2.19",
+      "status": "generated",
+      "summary": "One who thinks the Self kills or is killed understands neither — it neither kills nor is killed.",
+      "modern_interpretation": "The deepest self is not reduced to the drama of harm and victory that the ego obsesses over.",
+      "topics": [
+        "self",
+        "wisdom",
+        "liberation"
+      ],
+      "emotions": [
+        "fear",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment"
+      ],
+      "practice": [
+        "When guilt spirals, ask: am I confusing role-action with my deepest being?"
+      ],
+      "reflection_question": "Where am I over-identifying with a temporary role of 'doer' or 'victim'?",
+      "related_verses": [
+        "bg_2_20",
+        "bg_2_21",
+        "bg_2_30"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.85,
+        "emotions": 0.7,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Do not misuse to dismiss real ethical responsibility.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_19",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_20",
+      "citation": "BG 2.20",
+      "status": "generated",
+      "summary": "The Self is unborn, eternal, ancient; it is not slain when the body is slain.",
+      "modern_interpretation": "Fear of total erasure softens when you remember that consciousness is not identical with a fragile body-story.",
+      "topics": [
+        "self",
+        "liberation",
+        "wisdom"
+      ],
+      "emotions": [
+        "fear",
+        "grief",
+        "peace"
+      ],
+      "life_domains": [
+        "grief_loss",
+        "spiritual_practice",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "wisdom",
+        "courage",
+        "equanimity"
+      ],
+      "practice": [
+        "In mortality anxiety, recite quietly: unborn, eternal — then return to kindness here."
+      ],
+      "reflection_question": "What would change if I trusted that my being is deeper than this body-fear?",
+      "related_verses": [
+        "bg_2_12",
+        "bg_2_17",
+        "bg_2_22"
+      ],
+      "confidence": {
+        "summary": 0.95,
+        "topics": 0.9,
+        "emotions": 0.8,
+        "overall": 0.9
+      },
+      "uncertainty_notes": null,
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_20",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_21",
+      "citation": "BG 2.21",
+      "status": "generated",
+      "summary": "Knowing the Self as indestructible, how can one cause killing or be killed in truth?",
+      "modern_interpretation": "Insight into the Self reorients violence and fear — not by apathy, but by seeing beyond ego-drama.",
+      "topics": [
+        "self",
+        "wisdom",
+        "detachment"
+      ],
+      "emotions": [
+        "fear",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment"
+      ],
+      "practice": [
+        "Before a harsh judgment, pause: what is temporary role, what is deeper being?"
+      ],
+      "reflection_question": "Where does ego-drama exaggerate my power to destroy or be destroyed?",
+      "related_verses": [
+        "bg_2_19",
+        "bg_2_20",
+        "bg_2_30"
+      ],
+      "confidence": {
+        "summary": 0.8,
+        "topics": 0.8,
+        "emotions": 0.65,
+        "overall": 0.75
+      },
+      "uncertainty_notes": "Ethically sensitive; keep away from justifying harm.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_21",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_22",
+      "citation": "BG 2.22",
+      "status": "generated",
+      "summary": "As one discards worn clothes for new, the embodied self discards worn bodies.",
+      "modern_interpretation": "Change of form can be dignified rather than catastrophic — endings make space for continuation.",
+      "topics": [
+        "self",
+        "wisdom",
+        "equanimity"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "peace"
+      ],
+      "life_domains": [
+        "grief_loss",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "wisdom",
+        "equanimity",
+        "patience"
+      ],
+      "practice": [
+        "Ritualize a small ending today: thank what is worn out before releasing it."
+      ],
+      "reflection_question": "What 'worn garment' in my life am I refusing to set down?",
+      "related_verses": [
+        "bg_2_13",
+        "bg_2_20",
+        "bg_2_27"
+      ],
+      "confidence": {
+        "summary": 0.95,
+        "topics": 0.9,
+        "emotions": 0.85,
+        "overall": 0.9
+      },
+      "uncertainty_notes": null,
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_22",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_23",
+      "citation": "BG 2.23",
+      "status": "generated",
+      "summary": "Weapons cannot cut the Self, fire cannot burn it, water cannot wet it, wind cannot dry it.",
+      "modern_interpretation": "Your deepest awareness is not as fragile as circumstance insists — this can stabilize panic without denying pain.",
+      "topics": [
+        "self",
+        "liberation",
+        "wisdom"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_courage",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "courage",
+        "wisdom"
+      ],
+      "practice": [
+        "In panic, name four threats — then remember what they cannot touch in you."
+      ],
+      "reflection_question": "What am I protecting as if my whole being could be destroyed by it?",
+      "related_verses": [
+        "bg_2_20",
+        "bg_2_24",
+        "bg_2_25"
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.9,
+        "emotions": 0.8,
+        "overall": 0.85
+      },
+      "uncertainty_notes": null,
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_23",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_24",
+      "citation": "BG 2.24",
+      "status": "generated",
+      "summary": "The Self is uncleavable, unburnable, eternal, all-pervading, immovable, everlasting.",
+      "modern_interpretation": "Stability is not stubbornness of ego; it is resting in what does not depend on today's outcome.",
+      "topics": [
+        "self",
+        "liberation",
+        "equanimity"
+      ],
+      "emotions": [
+        "anxiety",
+        "fear",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Sit unmoving for three minutes; watch thoughts pass without chasing them."
+      ],
+      "reflection_question": "Where am I seeking permanence in the wrong place?",
+      "related_verses": [
+        "bg_2_23",
+        "bg_2_25",
+        "bg_2_17"
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.85,
+        "emotions": 0.75,
+        "overall": 0.85
+      },
+      "uncertainty_notes": null,
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_24",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_25",
+      "citation": "BG 2.25",
+      "status": "generated",
+      "summary": "The Self is unmanifest, inconceivable, unchanging — therefore do not grieve.",
+      "modern_interpretation": "Not everything real is graspable by anxious thinking; peace can come from releasing the need to fully conceptualize.",
+      "topics": [
+        "self",
+        "wisdom",
+        "equanimity"
+      ],
+      "emotions": [
+        "grief",
+        "anxiety",
+        "confusion"
+      ],
+      "life_domains": [
+        "grief_loss",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "wisdom",
+        "patience",
+        "equanimity"
+      ],
+      "practice": [
+        "When analysis spirals, stop and rest in not-knowing for one breath cycle."
+      ],
+      "reflection_question": "Am I grieving a mystery I am trying to force into a small explanation?",
+      "related_verses": [
+        "bg_2_24",
+        "bg_2_11",
+        "bg_2_30"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.8,
+        "emotions": 0.75,
+        "overall": 0.8
+      },
+      "uncertainty_notes": null,
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_25",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_26",
+      "citation": "BG 2.26",
+      "status": "generated",
+      "summary": "Even if you believe the Self is always born and dies, you still should not grieve this way.",
+      "modern_interpretation": "Krishna meets you even in alternate worldviews — despair is unnecessary under more than one philosophy of life.",
+      "topics": [
+        "wisdom",
+        "equanimity"
+      ],
+      "emotions": [
+        "grief",
+        "confusion"
+      ],
+      "life_domains": [
+        "grief_loss",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "patience",
+        "wisdom"
+      ],
+      "practice": [
+        "Grant that your metaphysics may be incomplete — still choose steadiness today."
+      ],
+      "reflection_question": "Am I using philosophical uncertainty as permission to stay collapsed?",
+      "related_verses": [
+        "bg_2_27",
+        "bg_2_28",
+        "bg_2_11"
+      ],
+      "confidence": {
+        "summary": 0.8,
+        "topics": 0.7,
+        "emotions": 0.75,
+        "overall": 0.75
+      },
+      "uncertainty_notes": "grief is emotion not topic — removed from topics if invalid; using wisdom/equanimity only.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_26",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_27",
+      "citation": "BG 2.27",
+      "status": "generated",
+      "summary": "Death is certain for the born, and birth for the dead — do not grieve the inevitable.",
+      "modern_interpretation": "Facing life's inevitabilities can free energy for love and duty instead of endless bargaining.",
+      "topics": [
+        "wisdom",
+        "equanimity",
+        "liberation"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "anxiety"
+      ],
+      "life_domains": [
+        "grief_loss",
+        "health",
+        "family"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "courage",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Write one inevitability you resist; practice one gentle acceptance sentence."
+      ],
+      "reflection_question": "What inevitable truth am I exhausting myself by refusing?",
+      "related_verses": [
+        "bg_2_22",
+        "bg_2_28",
+        "bg_2_30"
+      ],
+      "confidence": {
+        "summary": 0.95,
+        "topics": 0.9,
+        "emotions": 0.85,
+        "overall": 0.9
+      },
+      "uncertainty_notes": null,
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_27",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_28",
+      "citation": "BG 2.28",
+      "status": "generated",
+      "summary": "Beings are unmanifest in beginning and end, manifest in the middle — why lament?",
+      "modern_interpretation": "Much of life is a brief appearance between mysteries; clinging to the middle chapter as forever creates suffering.",
+      "topics": [
+        "wisdom",
+        "equanimity",
+        "detachment"
+      ],
+      "emotions": [
+        "grief",
+        "anxiety"
+      ],
+      "life_domains": [
+        "grief_loss",
+        "identity",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "patience"
+      ],
+      "practice": [
+        "Look at a photo from years ago; feel how forms change while care can continue."
+      ],
+      "reflection_question": "Where am I demanding permanence from a middle chapter?",
+      "related_verses": [
+        "bg_2_27",
+        "bg_2_16",
+        "bg_2_22"
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.85,
+        "emotions": 0.8,
+        "overall": 0.85
+      },
+      "uncertainty_notes": null,
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_28",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_29",
+      "citation": "BG 2.29",
+      "status": "generated",
+      "summary": "Some see the Self as wondrous, some speak of it as wondrous, some hear and never understand.",
+      "modern_interpretation": "Deep truth is rare and easily missed — humility beats pretending you already get it.",
+      "topics": [
+        "wisdom",
+        "knowledge",
+        "self"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "humility",
+        "wisdom",
+        "patience"
+      ],
+      "practice": [
+        "Admit one spiritual idea you recite but do not yet live."
+      ],
+      "reflection_question": "Where am I performing understanding instead of patiently learning?",
+      "related_verses": [
+        "bg_2_25",
+        "bg_2_16",
+        "bg_2_54"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.8,
+        "emotions": 0.6,
+        "overall": 0.75
+      },
+      "uncertainty_notes": "awe is not in emotion taxonomy — using confusion; consider adding awe later.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_29",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_30",
+      "citation": "BG 2.30",
+      "status": "generated",
+      "summary": "The eternal embodied Self in all bodies cannot be slain — therefore do not grieve for any being.",
+      "modern_interpretation": "Compassion remains; hopeless annihilation-fear can loosen when you remember the deeper continuity of being.",
+      "topics": [
+        "self",
+        "compassion",
+        "equanimity"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "peace"
+      ],
+      "life_domains": [
+        "grief_loss",
+        "family",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "compassion",
+        "wisdom",
+        "equanimity"
+      ],
+      "practice": [
+        "Pray or wish well for someone you fear losing — without clinging."
+      ],
+      "reflection_question": "Can I love someone fully without demanding they be permanent in form?",
+      "related_verses": [
+        "bg_2_20",
+        "bg_2_11",
+        "bg_2_27"
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.85,
+        "emotions": 0.8,
+        "overall": 0.85
+      },
+      "uncertainty_notes": null,
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_30",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_31",
+      "citation": "BG 2.31",
+      "status": "generated",
+      "summary": "Considering your own dharma, you should not waver — for a warrior, a righteous battle is the highest good.",
+      "modern_interpretation": "Your specific responsibility matters; borrowed ethics that ignore your role can become elegant avoidance.",
+      "topics": [
+        "dharma",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "confusion",
+        "guilt"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_courage",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "courage",
+        "discipline",
+        "honesty"
+      ],
+      "practice": [
+        "Write your role this week in one line; act from that role, not from every opinion."
+      ],
+      "reflection_question": "What is my dharma here — not my friend's, not the internet's?",
+      "related_verses": [
+        "bg_2_33",
+        "bg_2_37",
+        "bg_2_47"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.85,
+        "emotions": 0.75,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Warrior dharma needs careful modern translation to vocation/responsibility. Topic courage mapped to duty + virtue courage.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_31",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_32",
+      "citation": "BG 2.32",
+      "status": "generated",
+      "summary": "Happy are the warriors who meet such a battle as an open gate to heaven.",
+      "modern_interpretation": "A rare, righteous challenge can be a privilege — if faced with integrity rather than bloodlust.",
+      "topics": [
+        "dharma",
+        "duty"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety"
+      ],
+      "life_domains": [
+        "leadership",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_courage",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "courage",
+        "discipline"
+      ],
+      "practice": [
+        "Reframe one hard duty as a rare chance to live your values."
+      ],
+      "reflection_question": "What difficult opportunity am I treating only as a threat?",
+      "related_verses": [
+        "bg_2_31",
+        "bg_2_37",
+        "bg_2_38"
+      ],
+      "confidence": {
+        "summary": 0.75,
+        "topics": 0.7,
+        "emotions": 0.6,
+        "overall": 0.7
+      },
+      "uncertainty_notes": "courage not in emotions taxonomy — using fear + seeking_courage. Heaven language is cultural. Topic courage mapped to duty + virtue courage.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_32",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_33",
+      "citation": "BG 2.33",
+      "status": "generated",
+      "summary": "Refusing righteous duty brings personal dharma-loss, shame, and harm.",
+      "modern_interpretation": "Avoidance of hard right action often costs integrity more than the confrontation would.",
+      "topics": [
+        "dharma",
+        "duty"
+      ],
+      "emotions": [
+        "guilt",
+        "fear",
+        "shame"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_courage",
+        "seeking_guidance"
+      ],
+      "virtues": [
+        "courage",
+        "honesty"
+      ],
+      "practice": [
+        "Name the duty you are delaying and the integrity cost of delay."
+      ],
+      "reflection_question": "What am I losing by not doing what I know is mine to do?",
+      "related_verses": [
+        "bg_2_31",
+        "bg_2_34",
+        "bg_2_47"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.8,
+        "emotions": 0.75,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Draft enrichment for human review; not auto-approved.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_33",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_34",
+      "citation": "BG 2.34",
+      "status": "generated",
+      "summary": "Lasting dishonor is worse than death for one who has been honored.",
+      "modern_interpretation": "Reputation is not vanity alone — trust and self-respect erode when we abandon our post from fear.",
+      "topics": [
+        "duty",
+        "dharma",
+        "self"
+      ],
+      "emotions": [
+        "shame",
+        "fear",
+        "anxiety"
+      ],
+      "life_domains": [
+        "leadership",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_courage",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "courage",
+        "honesty"
+      ],
+      "practice": [
+        "Ask a mentor what integrity looks like in your situation — not what is easiest."
+      ],
+      "reflection_question": "Am I protecting comfort at the price of becoming untrustworthy to myself?",
+      "related_verses": [
+        "bg_2_33",
+        "bg_2_35",
+        "bg_2_36"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.8,
+        "emotions": 0.75,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Draft enrichment for human review; not auto-approved.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_34",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_35",
+      "citation": "BG 2.35",
+      "status": "generated",
+      "summary": "Great peers will think you withdrew from battle out of fear.",
+      "modern_interpretation": "People read our withdrawals; sometimes fear masquerades as principle.",
+      "topics": [
+        "duty",
+        "mind"
+      ],
+      "emotions": [
+        "shame",
+        "fear"
+      ],
+      "life_domains": [
+        "leadership",
+        "career",
+        "relationships"
+      ],
+      "user_intents": [
+        "seeking_courage"
+      ],
+      "virtues": [
+        "courage",
+        "honesty"
+      ],
+      "practice": [
+        "Distinguish principle from fear by asking what you would do if nobody watched."
+      ],
+      "reflection_question": "If reputation were irrelevant, would my choice stay the same?",
+      "related_verses": [
+        "bg_2_34",
+        "bg_2_36",
+        "bg_2_3"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.8,
+        "emotions": 0.75,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Draft enrichment for human review; not auto-approved. Topic courage mapped to duty + virtue courage.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_35",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_36",
+      "citation": "BG 2.36",
+      "status": "generated",
+      "summary": "Enemies will mock your strength with cruel words — what could be more painful?",
+      "modern_interpretation": "Public scorn hurts; wisdom still asks whether the scorn is deserved or merely loud.",
+      "topics": [
+        "mind",
+        "duty"
+      ],
+      "emotions": [
+        "shame",
+        "anger",
+        "anxiety"
+      ],
+      "life_domains": [
+        "leadership",
+        "career",
+        "relationships"
+      ],
+      "user_intents": [
+        "seeking_courage",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "patience",
+        "courage",
+        "equanimity"
+      ],
+      "practice": [
+        "Do not answer mockery today; strengthen your next right action instead."
+      ],
+      "reflection_question": "Whose opinion is wounding me — and do they deserve that much power?",
+      "related_verses": [
+        "bg_2_34",
+        "bg_2_35",
+        "bg_2_38"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.8,
+        "emotions": 0.75,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Draft enrichment for human review; not auto-approved. Topic courage mapped to duty + virtue courage.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_36",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_37",
+      "citation": "BG 2.37",
+      "status": "generated",
+      "summary": "Slain, you gain heaven; victorious, you enjoy the earth — therefore rise with resolve.",
+      "modern_interpretation": "Either path of sincere duty can be lived with dignity; indecision is the true loss.",
+      "topics": [
+        "duty",
+        "dharma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_courage",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "courage",
+        "discipline",
+        "perseverance"
+      ],
+      "practice": [
+        "Choose the next courageous action and schedule it within 24 hours."
+      ],
+      "reflection_question": "What decision am I postponing that both outcomes could honor if done cleanly?",
+      "related_verses": [
+        "bg_2_3",
+        "bg_2_31",
+        "bg_2_38"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.8,
+        "emotions": 0.75,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Draft enrichment for human review; not auto-approved. Topic courage mapped to duty + virtue courage.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_37",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_38",
+      "citation": "BG 2.38",
+      "status": "generated",
+      "summary": "Treat pleasure-pain, gain-loss, victory-defeat alike — then act without accruing harm.",
+      "modern_interpretation": "Equanimity is the ethical technology that lets you act without becoming cruel or collapsed.",
+      "topics": [
+        "equanimity",
+        "duty",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "fear",
+        "anger"
+      ],
+      "life_domains": [
+        "career",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "equanimity",
+        "discipline",
+        "non_attachment"
+      ],
+      "practice": [
+        "Before a high-stakes moment, name win and lose as equal teachers."
+      ],
+      "reflection_question": "Can I act fully without needing the scoreboard to justify me?",
+      "related_verses": [
+        "bg_2_14",
+        "bg_2_48",
+        "bg_2_56"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.8,
+        "emotions": 0.75,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Draft enrichment for human review; not auto-approved.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_38",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_39",
+      "citation": "BG 2.39",
+      "status": "generated",
+      "summary": "This is the wisdom of Sankhya; now hear the yoga of buddhi by which you free yourself from bondage.",
+      "modern_interpretation": "Philosophy becomes liberating when it turns into a lived discipline of intelligent action.",
+      "topics": [
+        "wisdom",
+        "yoga",
+        "karma"
+      ],
+      "emotions": [
+        "confusion",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "studies",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "wisdom",
+        "discipline"
+      ],
+      "practice": [
+        "Shift from 'what is true?' alone to 'how shall I act on what is true?'"
+      ],
+      "reflection_question": "Where do I understand more than I practice?",
+      "related_verses": [
+        "bg_2_40",
+        "bg_2_47",
+        "bg_2_50"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.8,
+        "emotions": 0.75,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Draft enrichment for human review; not auto-approved.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_39",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_40",
+      "citation": "BG 2.40",
+      "status": "generated",
+      "summary": "On this path no effort is lost, no harm accrues; even a little of this dharma protects from great fear.",
+      "modern_interpretation": "Small sincere practice compounds; you do not need a perfect spiritual career to begin.",
+      "topics": [
+        "dharma",
+        "yoga",
+        "discipline"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "hopelessness"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_encouragement",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "perseverance",
+        "discipline",
+        "courage"
+      ],
+      "practice": [
+        "Do five minutes of sincere practice today — count it as real."
+      ],
+      "reflection_question": "What small practice have I dismissed because it was not dramatic enough?",
+      "related_verses": [
+        "bg_2_41",
+        "bg_2_48",
+        "bg_2_50"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.8,
+        "emotions": 0.75,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Draft enrichment for human review; not auto-approved.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_40",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_41",
+      "citation": "BG 2.41",
+      "status": "generated",
+      "summary": "Resolute understanding is single-pointed; the irresolute have many-branched endless thoughts.",
+      "modern_interpretation": "Scattered motivation feels busy; committed intention feels simple and strong.",
+      "topics": [
+        "mind",
+        "discipline",
+        "wisdom"
+      ],
+      "emotions": [
+        "anxiety",
+        "restlessness",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "studies",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "perseverance",
+        "self_control"
+      ],
+      "practice": [
+        "Choose one aim for this week and cut two distractions that dilute it."
+      ],
+      "reflection_question": "Where is my energy leaking into a hundred half-decisions?",
+      "related_verses": [
+        "bg_2_40",
+        "bg_2_44",
+        "bg_2_53"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.8,
+        "emotions": 0.75,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Draft enrichment for human review; not auto-approved.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_41",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_42",
+      "citation": "BG 2.42",
+      "status": "generated",
+      "summary": "The unwise cling to flowery Vedic promises and say there is nothing more.",
+      "modern_interpretation": "Spiritual consumerism chases rewards and misses the deeper work of transformation.",
+      "topics": [
+        "desire",
+        "wisdom",
+        "knowledge"
+      ],
+      "emotions": [
+        "confusion",
+        "restlessness"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "money",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "honesty"
+      ],
+      "practice": [
+        "Notice one 'spiritual' goal that is actually a luxury fantasy."
+      ],
+      "reflection_question": "Am I seeking truth — or a more impressive consolation prize?",
+      "related_verses": [
+        "bg_2_43",
+        "bg_2_44",
+        "bg_2_45"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.8,
+        "emotions": 0.75,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Draft enrichment for human review; not auto-approved.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_42",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_43",
+      "citation": "BG 2.43",
+      "status": "generated",
+      "summary": "Desire-driven people pursue heaven through elaborate rites aimed at pleasure and power.",
+      "modern_interpretation": "Complex self-improvement can still be ego in sacred costume if pleasure and status remain the gods.",
+      "topics": [
+        "desire",
+        "karma",
+        "renunciation"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "money"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "non_attachment",
+        "honesty",
+        "discipline"
+      ],
+      "practice": [
+        "Fast from one status metric for a week (likes, rank, salary talk)."
+      ],
+      "reflection_question": "Which spiritual effort is secretly about looking successful?",
+      "related_verses": [
+        "bg_2_42",
+        "bg_2_44",
+        "bg_2_49"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.8,
+        "emotions": 0.75,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Draft enrichment for human review; not auto-approved.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_43",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_44",
+      "citation": "BG 2.44",
+      "status": "generated",
+      "summary": "Those attached to pleasure and power cannot form resolute buddhi for samadhi.",
+      "modern_interpretation": "Attachment fragments attention; deep focus needs a quieter hunger.",
+      "topics": [
+        "desire",
+        "mind",
+        "discipline"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "overwhelm"
+      ],
+      "life_domains": [
+        "career",
+        "money",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "self_control",
+        "discipline",
+        "non_attachment"
+      ],
+      "practice": [
+        "Silence notifications during your deepest work block today."
+      ],
+      "reflection_question": "What pleasure or power chase is stealing my capacity for depth?",
+      "related_verses": [
+        "bg_2_41",
+        "bg_2_43",
+        "bg_2_62"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.8,
+        "emotions": 0.75,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Draft enrichment for human review; not auto-approved.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_44",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_45",
+      "citation": "BG 2.45",
+      "status": "generated",
+      "summary": "The Vedas deal with the three gunas; rise beyond them — free of dualities, established in sattva, free of grasping.",
+      "modern_interpretation": "Grow past mood-driven living; seek a steadier center than preference and aversion.",
+      "topics": [
+        "equanimity",
+        "wisdom",
+        "detachment"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "anger"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "equanimity",
+        "non_attachment",
+        "self_control"
+      ],
+      "practice": [
+        "When pulled by like/dislike, name the guna-mood and choose one neutral action."
+      ],
+      "reflection_question": "Where am I ruled by preference rather than purpose?",
+      "related_verses": [
+        "bg_2_38",
+        "bg_2_48",
+        "bg_2_56"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.8,
+        "emotions": 0.75,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Draft enrichment for human review; not auto-approved.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_45",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_46",
+      "citation": "BG 2.46",
+      "status": "generated",
+      "summary": "As a flood makes a well unnecessary, so the knower of Brahman needs little of Vedic ritual reward.",
+      "modern_interpretation": "When you taste a deeper fullness, compulsive spiritual shopping loosens.",
+      "topics": [
+        "wisdom",
+        "liberation",
+        "knowledge"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment"
+      ],
+      "practice": [
+        "Replace one outer spiritual consumption with ten minutes of quiet insight."
+      ],
+      "reflection_question": "What am I still collecting because I have not yet trusted inner fullness?",
+      "related_verses": [
+        "bg_2_45",
+        "bg_2_52",
+        "bg_2_55"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.8,
+        "emotions": 0.75,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Draft enrichment for human review; not auto-approved.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_46",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_47",
+      "citation": "BG 2.47",
+      "status": "approved",
+      "summary": "Your responsibility is to act with integrity, not to control or possess the outcome. Do not become attached to results, and do not let fear of results lead you into inaction.",
+      "modern_interpretation": "Do the work; release the outcome; do not use detachment as laziness. Perfectionism often hides in fruit-obsession.",
+      "topics": [
+        "karma",
+        "duty",
+        "right_action",
+        "detachment",
+        "action"
+      ],
+      "emotions": [
+        "anxiety",
+        "fear_of_failure",
+        "performance_pressure"
+      ],
+      "life_domains": [
+        "career",
+        "placements",
+        "business"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_encouragement",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "perseverance",
+        "non_attachment"
+      ],
+      "practice": [
+        "Give your full attention to today's effort, and postpone judging success until the work is complete.",
+        "Do not obsess over outcomes."
+      ],
+      "reflection_question": "Where am I attaching my happiness to the outcome — and calling it high standards?",
+      "related_verses": [
+        "bg_2_48",
+        "bg_2_49",
+        "bg_2_50"
+      ],
+      "confidence": {
+        "summary": 0.95,
+        "topics": 0.92,
+        "emotions": 0.9,
+        "overall": 0.93
+      },
+      "uncertainty_notes": null,
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_47",
+      "review_notes": [
+        "Editorial pass 2026-07-19: conversational summary accepted.",
+        "Topics expanded with right_action + action for retrieval.",
+        "Emotions refined to fear_of_failure + performance_pressure.",
+        "Practice aligned to effort-before-judgment.",
+        "Misconceptions field added.",
+        "Marked reviewed; awaiting second pass before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "misconceptions": [
+        "Detachment does not mean laziness.",
+        "This verse does not discourage ambition.",
+        "Giving up attachment to results is not giving up excellence."
+      ],
+      "response_levels": {
+        "level_1": "Your responsibility is to act with integrity, not to control or possess the outcome. Do not become attached to results, and do not let fear of results lead you into inaction.",
+        "level_2": "Do the work; release the outcome; do not use detachment as laziness. Perfectionism often hides in fruit-obsession.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "karma_yoga_foundations"
+    },
+    {
+      "node_id": "bg_2_48",
+      "citation": "BG 2.48",
+      "status": "approved",
+      "summary": "Perform your duty while remaining steady in both success and failure. This inner balance is what the Gita calls Yoga.",
+      "modern_interpretation": "Yoga here is composure in motion — not withdrawal from responsibility. Samatva (evenness) in success and failure is the heart of this teaching.",
+      "topics": [
+        "yoga",
+        "equanimity",
+        "duty",
+        "detachment"
+      ],
+      "emotions": [
+        "anxiety",
+        "fear_of_failure",
+        "restlessness"
+      ],
+      "life_domains": [
+        "career",
+        "studies",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_discipline",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "equanimity",
+        "discipline",
+        "patience"
+      ],
+      "practice": [
+        "Before a result arrives, name one action still fully in your control."
+      ],
+      "reflection_question": "Can I stay kind and clear whether this attempt succeeds or fails?",
+      "related_verses": [
+        "bg_2_47",
+        "bg_2_50",
+        "bg_2_38"
+      ],
+      "confidence": {
+        "summary": 0.93,
+        "topics": 0.9,
+        "emotions": 0.85,
+        "overall": 0.9
+      },
+      "uncertainty_notes": null,
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_48",
+      "review_notes": [
+        "Summary rewritten to center samatva as the definition of yoga.",
+        "Softened \"escape from work\" to \"withdrawal from responsibility\".",
+        "Added life_domain spiritual_practice.",
+        "Marked reviewed; awaiting second pass before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "misconceptions": [
+        "Equanimity is not indifference or emotional numbness.",
+        "Yoga here is not escape from work; it is steadiness while acting."
+      ],
+      "response_levels": {
+        "level_1": "Perform your duty while remaining steady in both success and failure. This inner balance is what the Gita calls Yoga.",
+        "level_2": "Yoga here is composure in motion — not withdrawal from responsibility. Samatva (evenness) in success and failure is the heart of this teaching.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "karma_yoga_foundations"
+    },
+    {
+      "node_id": "bg_2_49",
+      "citation": "BG 2.49",
+      "status": "approved",
+      "summary": "Reward-driven action is far inferior to buddhi-yoga. Take refuge in clear intelligence — those who act only for rewards limit their own growth.",
+      "modern_interpretation": "When payoff is the only motive, work shrinks the heart. Seeking refuge in buddhi-yoga widens motive beyond grasping.",
+      "topics": [
+        "karma",
+        "wisdom",
+        "detachment",
+        "action"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "money",
+        "business"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "honesty"
+      ],
+      "practice": [
+        "Write the purpose of your work beyond salary or status."
+      ],
+      "reflection_question": "Where has chasing reward made my work smaller than it could be?",
+      "related_verses": [
+        "bg_2_47",
+        "bg_2_50",
+        "bg_2_51"
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.8,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Emotion \"guilt\" is a modern seeker mapping; keep under review.",
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_49",
+      "review_notes": [
+        "Softened kṛpaṇāḥ language to \"limit their own growth\" (non-judgmental).",
+        "Marked reviewed; awaiting second pass before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "misconceptions": [
+        "Rejecting reward-obsession is not rejecting fair compensation.",
+        "Buddhi-yoga is not anti-ambition; it is anti-narrow grasping."
+      ],
+      "response_levels": {
+        "level_1": "Reward-driven action is far inferior to buddhi-yoga. Take refuge in clear intelligence — those who act only for rewards limit their own growth.",
+        "level_2": "When payoff is the only motive, work shrinks the heart. Seeking refuge in buddhi-yoga widens motive beyond grasping.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "karma_yoga_foundations"
+    },
+    {
+      "node_id": "bg_2_50",
+      "citation": "BG 2.50",
+      "status": "approved",
+      "summary": "One established in buddhi releases binding fixation on good and bad results; therefore devote yourself to yoga — yoga is skill in action.",
+      "modern_interpretation": "Skill in action is excellence with a clear mind, not clever hustling for credit. This teaching is about freedom from attachment to the fruits of actions—not abandoning ethical responsibility.",
+      "topics": [
+        "yoga",
+        "wisdom",
+        "action",
+        "discipline"
+      ],
+      "emotions": [
+        "anxiety",
+        "overwhelm"
+      ],
+      "life_domains": [
+        "career",
+        "studies",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_courage",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "wisdom",
+        "perseverance"
+      ],
+      "practice": [
+        "Choose one task and do it with full attention for twenty minutes."
+      ],
+      "reflection_question": "What would 'skill in action' look like in my hardest task this week?",
+      "related_verses": [
+        "bg_2_47",
+        "bg_2_48",
+        "bg_2_49"
+      ],
+      "confidence": {
+        "summary": 0.92,
+        "topics": 0.9,
+        "emotions": 0.85,
+        "overall": 0.9
+      },
+      "uncertainty_notes": null,
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_50",
+      "review_notes": [
+        "Added explicit boundary sentence against moral nihilism reading.",
+        "Removed emotion \"peace\" as arrival state; kept anxiety/overwhelm.",
+        "Marked reviewed; awaiting second pass before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "misconceptions": [
+        "This verse does not say morality does not matter.",
+        "Casting off good and bad reactions means freedom from binding fixation on results — not ethical indifference.",
+        "Skill in action is not hustle culture; it is clear, dedicated work."
+      ],
+      "response_levels": {
+        "level_1": "One established in buddhi releases binding fixation on good and bad results; therefore devote yourself to yoga — yoga is skill in action.",
+        "level_2": "Skill in action is excellence with a clear mind, not clever hustling for credit. This teaching is about freedom from attachment to the fruits of actions—not abandoning ethical responsibility.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "karma_yoga_foundations"
+    },
+    {
+      "node_id": "bg_2_51",
+      "citation": "BG 2.51",
+      "status": "generated",
+      "summary": "The wise, abandoning the fruit born of action, freed from birth-bondage, reach the painless state.",
+      "modern_interpretation": "Release the harvest obsession and a quieter freedom becomes possible.",
+      "topics": [
+        "karma",
+        "detachment",
+        "liberation"
+      ],
+      "emotions": [
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "non_attachment",
+        "wisdom"
+      ],
+      "practice": [
+        "After finishing work, consciously hand the result over — then stop refreshing for updates."
+      ],
+      "reflection_question": "What fruit am I gripping so tightly that I cannot rest?",
+      "related_verses": [
+        "bg_2_47",
+        "bg_2_50",
+        "bg_2_71"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.8,
+        "emotions": 0.75,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Draft enrichment for human review; not auto-approved.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_51",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_52",
+      "citation": "BG 2.52",
+      "status": "generated",
+      "summary": "When your buddhi crosses the thicket of delusion, you become indifferent to what is heard and yet to be heard.",
+      "modern_interpretation": "Clarity reduces craving for endless opinions and hot takes.",
+      "topics": [
+        "wisdom",
+        "mind",
+        "detachment"
+      ],
+      "emotions": [
+        "confusion",
+        "restlessness",
+        "anxiety"
+      ],
+      "life_domains": [
+        "studies",
+        "spiritual_practice",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "self_control"
+      ],
+      "practice": [
+        "Take a 24-hour fast from advice-content; trust one clear principle instead."
+      ],
+      "reflection_question": "Which noise am I consuming because I am afraid to decide?",
+      "related_verses": [
+        "bg_2_53",
+        "bg_2_41",
+        "bg_2_45"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.8,
+        "emotions": 0.75,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Draft enrichment for human review; not auto-approved.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_52",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_53",
+      "citation": "BG 2.53",
+      "status": "generated",
+      "summary": "When buddhi, bewildered by conflicting scriptures, stands unmoved in samadhi — then you attain yoga.",
+      "modern_interpretation": "Yoga ripens when attention stops thrashing between contradictory voices.",
+      "topics": [
+        "yoga",
+        "mind",
+        "wisdom"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "equanimity",
+        "wisdom"
+      ],
+      "practice": [
+        "Pick one practice and stay with it for seven days without switching systems."
+      ],
+      "reflection_question": "What conflicting advice is keeping my mind from settling?",
+      "related_verses": [
+        "bg_2_52",
+        "bg_2_48",
+        "bg_2_54"
+      ],
+      "confidence": {
+        "summary": 0.85,
+        "topics": 0.8,
+        "emotions": 0.75,
+        "overall": 0.8
+      },
+      "uncertainty_notes": "Draft enrichment for human review; not auto-approved.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "authentic_node_id": "bg_2_53",
+      "review_notes": [],
+      "misconceptions": []
+    },
+    {
+      "node_id": "bg_2_54",
+      "citation": "BG 2.54",
+      "status": "approved",
+      "summary": "Arjuna asks what defines a person of steady wisdom — how they speak, sit, and move through ordinary life.",
+      "modern_interpretation": "We recognize steadiness not by spiritual slogans, but by how someone shows up in speech, rest, and daily action. This question opens the Sthitaprajña teaching that follows.",
+      "topics": [
+        "wisdom",
+        "mind",
+        "equanimity"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "humility",
+        "wisdom"
+      ],
+      "practice": [
+        "Observe one calm person today; note concrete behaviors, not aura myths."
+      ],
+      "reflection_question": "What lived signs of steadiness am I actually looking for?",
+      "related_verses": [
+        "bg_2_55",
+        "bg_2_56",
+        "bg_2_57"
+      ],
+      "misconceptions": [
+        "Steady wisdom is not a mystical look — it is visible in ordinary conduct."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_54",
+      "response_levels": {
+        "level_1": "Arjuna asks what defines a person of steady wisdom — how they speak, sit, and move through ordinary life.",
+        "level_2": "We recognize steadiness not by spiritual slogans, but by how someone shows up in speech, rest, and daily action. This question opens the Sthitaprajña teaching that follows.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_55",
+      "citation": "BG 2.55",
+      "status": "approved",
+      "summary": "A person of steady wisdom lets go of mental cravings and rests content in the Self — fulfillment from within, not from endless wanting.",
+      "modern_interpretation": "Contentment is a skill of sufficiency, not a mood that arrives after every desire is met. The verse points to inner fullness rather than forced suppression of all preference.",
+      "topics": [
+        "desire",
+        "self",
+        "wisdom",
+        "detachment"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "non_attachment",
+        "wisdom",
+        "self_control"
+      ],
+      "practice": [
+        "List three desires; consciously pause chasing one of them today."
+      ],
+      "reflection_question": "What desire is running my mind without my consent?",
+      "related_verses": [
+        "bg_2_54",
+        "bg_2_56",
+        "bg_2_71"
+      ],
+      "misconceptions": [
+        "Abandoning desires does not mean erasing healthy needs or goals; it means not being ruled by craving."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_55",
+      "response_levels": {
+        "level_1": "A person of steady wisdom lets go of mental cravings and rests content in the Self — fulfillment from within, not from endless wanting.",
+        "level_2": "Contentment is a skill of sufficiency, not a mood that arrives after every desire is met. The verse points to inner fullness rather than forced suppression of all preference.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_56",
+      "citation": "BG 2.56",
+      "status": "approved",
+      "summary": "Steady wisdom means unshaken in sorrow, free of craving in joy, and released from attachment, fear, and anger.",
+      "modern_interpretation": "Emotional maturity is not numbness. It is the capacity to feel without being yanked into every high and low.",
+      "topics": [
+        "equanimity",
+        "mind",
+        "wisdom"
+      ],
+      "emotions": [
+        "anger",
+        "fear",
+        "anxiety"
+      ],
+      "life_domains": [
+        "relationships",
+        "career",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "equanimity",
+        "patience",
+        "self_control"
+      ],
+      "practice": [
+        "In the next mood swing, delay reaction by ninety seconds."
+      ],
+      "reflection_question": "Which emotion currently has the authority to drive my decisions?",
+      "related_verses": [
+        "bg_2_55",
+        "bg_2_57",
+        "bg_2_64"
+      ],
+      "misconceptions": [
+        "Equanimity is not indifference or emotional coldness."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_56",
+      "response_levels": {
+        "level_1": "Steady wisdom means unshaken in sorrow, free of craving in joy, and released from attachment, fear, and anger.",
+        "level_2": "Emotional maturity is not numbness. It is the capacity to feel without being yanked into every high and low.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_57",
+      "citation": "BG 2.57",
+      "status": "approved",
+      "summary": "Wisdom stands firm when one is not clingy anywhere — neither celebrating nor despising whatever good or bad arrives.",
+      "modern_interpretation": "Favorable and unfavorable events need not own your inner climate. Steadiness is independence from the scoreboard.",
+      "topics": [
+        "equanimity",
+        "detachment",
+        "wisdom"
+      ],
+      "emotions": [
+        "anxiety",
+        "anger"
+      ],
+      "life_domains": [
+        "career",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "equanimity",
+        "non_attachment"
+      ],
+      "practice": [
+        "Receive one piece of good news and one piece of hard news today with the same paced breath."
+      ],
+      "reflection_question": "Where do I still need the world to behave before I allow myself steadiness?",
+      "related_verses": [
+        "bg_2_56",
+        "bg_2_48",
+        "bg_2_38"
+      ],
+      "misconceptions": [
+        "Not rejoicing wildly does not forbid gratitude; not hating misfortune does not forbid wise response."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_57",
+      "response_levels": {
+        "level_1": "Wisdom stands firm when one is not clingy anywhere — neither celebrating nor despising whatever good or bad arrives.",
+        "level_2": "Favorable and unfavorable events need not own your inner climate. Steadiness is independence from the scoreboard.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_58",
+      "citation": "BG 2.58",
+      "status": "approved",
+      "summary": "When the senses withdraw from their objects as a tortoise draws in its limbs, wisdom stands firm.",
+      "modern_interpretation": "Healthy withdrawal is skillful boundaries — a temporary pullback for clarity — not lifelong escape from life.",
+      "topics": [
+        "mind",
+        "discipline",
+        "wisdom"
+      ],
+      "emotions": [
+        "restlessness",
+        "overwhelm",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "discipline",
+        "patience"
+      ],
+      "practice": [
+        "Make one tortoise move today: withdraw from a draining feed or conversation for an evening."
+      ],
+      "reflection_question": "What sense-input do I need to pull back from to recover clarity?",
+      "related_verses": [
+        "bg_2_59",
+        "bg_2_60",
+        "bg_2_68"
+      ],
+      "misconceptions": [
+        "Sense withdrawal is not permanent isolation or hatred of the world."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_58",
+      "response_levels": {
+        "level_1": "When the senses withdraw from their objects as a tortoise draws in its limbs, wisdom stands firm.",
+        "level_2": "Healthy withdrawal is skillful boundaries — a temporary pullback for clarity — not lifelong escape from life.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_59",
+      "citation": "BG 2.59",
+      "status": "approved",
+      "summary": "Abstinence can turn objects away, but craving may remain; even craving fades when a deeper fulfillment is seen.",
+      "modern_interpretation": "Willpower can pause a habit; deeper nourishment dissolves the thirst that kept the habit alive.",
+      "topics": [
+        "desire",
+        "discipline",
+        "liberation"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "self_control",
+        "perseverance",
+        "wisdom"
+      ],
+      "practice": [
+        "Abstain from one craving and also cultivate one deeper joy — a walk, prayer, music, or honest rest."
+      ],
+      "reflection_question": "Am I only suppressing a craving — or replacing it with deeper nourishment?",
+      "related_verses": [
+        "bg_2_58",
+        "bg_2_60",
+        "bg_2_70"
+      ],
+      "misconceptions": [
+        "White-knuckle abstinence alone is incomplete if deeper fulfillment is never cultivated."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_59",
+      "response_levels": {
+        "level_1": "Abstinence can turn objects away, but craving may remain; even craving fades when a deeper fulfillment is seen.",
+        "level_2": "Willpower can pause a habit; deeper nourishment dissolves the thirst that kept the habit alive.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_60",
+      "citation": "BG 2.60",
+      "status": "approved",
+      "summary": "Even a wise, striving person can have the mind forcibly carried away by turbulent senses.",
+      "modern_interpretation": "Insight does not make you immune. Vigilance and humility remain part of maturity — setbacks are part of the path, not proof you are a fraud.",
+      "topics": [
+        "mind",
+        "discipline",
+        "desire"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "overwhelm"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "relationships"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "humility",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Expect setbacks; write a gentle restart ritual for after a slip."
+      ],
+      "reflection_question": "Where do I pretend I am beyond temptation?",
+      "related_verses": [
+        "bg_2_59",
+        "bg_2_61",
+        "bg_2_67"
+      ],
+      "misconceptions": [
+        "A lapse does not erase wisdom; refusing to restart does more damage than the lapse itself."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_60",
+      "response_levels": {
+        "level_1": "Even a wise, striving person can have the mind forcibly carried away by turbulent senses.",
+        "level_2": "Insight does not make you immune. Vigilance and humility remain part of maturity — setbacks are part of the path, not proof you are a fraud.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_61",
+      "citation": "BG 2.61",
+      "status": "approved",
+      "summary": "Restrain the senses and rest with the mind devoted to the Divine; mastery of the senses is a mark of firm wisdom.",
+      "modern_interpretation": "Attention mastery is devotion in daily form. The verse links self-restraint with a higher orientation — not mere willpower contests.",
+      "topics": [
+        "discipline",
+        "devotion",
+        "mind"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "devotion",
+        "discipline"
+      ],
+      "practice": [
+        "Begin one work block with a minute of dedication — then single-task."
+      ],
+      "reflection_question": "What would sense-mastery look like on my phone and calendar?",
+      "related_verses": [
+        "bg_2_60",
+        "bg_2_68",
+        "bg_2_58"
+      ],
+      "misconceptions": [
+        "Sense restraint is not hostility toward the body; it is stewardship of attention."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_61",
+      "response_levels": {
+        "level_1": "Restrain the senses and rest with the mind devoted to the Divine; mastery of the senses is a mark of firm wisdom.",
+        "level_2": "Attention mastery is devotion in daily form. The verse links self-restraint with a higher orientation — not mere willpower contests.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_62",
+      "citation": "BG 2.62",
+      "status": "approved",
+      "summary": "Dwelling on sense objects breeds attachment; attachment breeds desire; desire breeds anger.",
+      "modern_interpretation": "The spiral from rumination to rage is predictable. Interrupt earlier — at dwelling — before anger arrives as if from nowhere.",
+      "topics": [
+        "mind",
+        "desire",
+        "anger"
+      ],
+      "emotions": [
+        "anger",
+        "restlessness",
+        "anxiety"
+      ],
+      "life_domains": [
+        "relationships",
+        "career",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "patience",
+        "wisdom"
+      ],
+      "practice": [
+        "When obsessing on a person, object, or outcome, name the chain: dwell → attach → crave → anger."
+      ],
+      "reflection_question": "What am I repeatedly dwelling on that is quietly building anger?",
+      "related_verses": [
+        "bg_2_63",
+        "bg_2_64",
+        "bg_2_44"
+      ],
+      "misconceptions": [
+        "Anger often begins earlier than the outburst — in unchecked mental dwelling."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_62",
+      "response_levels": {
+        "level_1": "Dwelling on sense objects breeds attachment; attachment breeds desire; desire breeds anger.",
+        "level_2": "The spiral from rumination to rage is predictable. Interrupt earlier — at dwelling — before anger arrives as if from nowhere.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_63",
+      "citation": "BG 2.63",
+      "status": "approved",
+      "summary": "From anger comes delusion; from delusion, memory fails; from that, intelligence collapses — and one falls.",
+      "modern_interpretation": "Anger is not only heat; it is a cognitive blackout waiting to happen. Cooling down protects clarity, relationships, and judgment.",
+      "topics": [
+        "anger",
+        "mind",
+        "wisdom"
+      ],
+      "emotions": [
+        "anger",
+        "confusion",
+        "overwhelm"
+      ],
+      "life_domains": [
+        "relationships",
+        "family",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_discipline",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "patience",
+        "self_control",
+        "wisdom"
+      ],
+      "practice": [
+        "Use a cool-down: leave the room, drink water, write the angry sentence privately before speaking."
+      ],
+      "reflection_question": "Where has anger already started erasing my memory of what matters?",
+      "related_verses": [
+        "bg_2_62",
+        "bg_2_64",
+        "bg_2_56"
+      ],
+      "misconceptions": [
+        "This cascade is a warning map, not a claim that feeling anger makes someone worthless."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_63",
+      "response_levels": {
+        "level_1": "From anger comes delusion; from delusion, memory fails; from that, intelligence collapses — and one falls.",
+        "level_2": "Anger is not only heat; it is a cognitive blackout waiting to happen. Cooling down protects clarity, relationships, and judgment.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_64",
+      "citation": "BG 2.64",
+      "status": "approved",
+      "summary": "Moving among sense objects with freedom from attraction and aversion, self-governed — one attains serenity.",
+      "modern_interpretation": "Engagement without compulsion is freedom in the middle of ordinary life. You can participate without being owned.",
+      "topics": [
+        "equanimity",
+        "discipline",
+        "mind"
+      ],
+      "emotions": [
+        "restlessness",
+        "anger",
+        "anxiety"
+      ],
+      "life_domains": [
+        "relationships",
+        "career",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "self_control",
+        "equanimity",
+        "non_attachment"
+      ],
+      "practice": [
+        "Participate fully in one enjoyable thing without needing more afterward."
+      ],
+      "reflection_question": "Can I enjoy without grasping and face dislike without hostility?",
+      "related_verses": [
+        "bg_2_63",
+        "bg_2_65",
+        "bg_2_57"
+      ],
+      "misconceptions": [
+        "Freedom from attraction/aversion is not a ban on preference; it is freedom from compulsive preference."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_64",
+      "response_levels": {
+        "level_1": "Moving among sense objects with freedom from attraction and aversion, self-governed — one attains serenity.",
+        "level_2": "Engagement without compulsion is freedom in the middle of ordinary life. You can participate without being owned.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_65",
+      "citation": "BG 2.65",
+      "status": "approved",
+      "summary": "In that serenity, sorrows lose their grip; the intelligence of a serene mind soon becomes steady.",
+      "modern_interpretation": "Calm is not cosmetic. It restores intelligence — clarity returns when the nervous system is not flooded.",
+      "topics": [
+        "equanimity",
+        "mind",
+        "wisdom"
+      ],
+      "emotions": [
+        "anxiety",
+        "grief"
+      ],
+      "life_domains": [
+        "health",
+        "spiritual_practice",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "equanimity",
+        "patience",
+        "wisdom"
+      ],
+      "practice": [
+        "Protect a daily serenity block as seriously as a meeting."
+      ],
+      "reflection_question": "What sorrow softens when my mind is even slightly more serene?",
+      "related_verses": [
+        "bg_2_64",
+        "bg_2_66",
+        "bg_2_70"
+      ],
+      "misconceptions": [
+        "Seeking serenity is not selfish escape when it restores capacity to meet life wisely."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_65",
+      "response_levels": {
+        "level_1": "In that serenity, sorrows lose their grip; the intelligence of a serene mind soon becomes steady.",
+        "level_2": "Calm is not cosmetic. It restores intelligence — clarity returns when the nervous system is not flooded.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_66",
+      "citation": "BG 2.66",
+      "status": "approved",
+      "summary": "Without inner yoga there is no steady intelligence or meditation; without peace, how can there be happiness?",
+      "modern_interpretation": "Happiness is downstream of alignment. Chasing mood boosts while refusing peace is backwards.",
+      "topics": [
+        "mind",
+        "yoga",
+        "equanimity"
+      ],
+      "emotions": [
+        "anxiety",
+        "restlessness",
+        "hopelessness"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "wisdom",
+        "patience"
+      ],
+      "practice": [
+        "Before seeking a mood boost, restore one alignment: sleep, prayer, or an honest conversation."
+      ],
+      "reflection_question": "Am I chasing happiness while refusing the peace that makes it possible?",
+      "related_verses": [
+        "bg_2_65",
+        "bg_2_67",
+        "bg_2_71"
+      ],
+      "misconceptions": [
+        "Peace is not the enemy of joy; it is often its precondition."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_66",
+      "response_levels": {
+        "level_1": "Without inner yoga there is no steady intelligence or meditation; without peace, how can there be happiness?",
+        "level_2": "Happiness is downstream of alignment. Chasing mood boosts while refusing peace is backwards.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_67",
+      "citation": "BG 2.67",
+      "status": "approved",
+      "summary": "As wind carries a boat, a mind that follows wandering senses steals away wisdom.",
+      "modern_interpretation": "Attention is the rudder. Wherever it goes, your life quietly follows.",
+      "topics": [
+        "mind",
+        "discipline",
+        "wisdom"
+      ],
+      "emotions": [
+        "restlessness",
+        "overwhelm",
+        "anxiety"
+      ],
+      "life_domains": [
+        "studies",
+        "career",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "discipline"
+      ],
+      "practice": [
+        "Choose a single rudder object for the next hour and refuse tab-hopping."
+      ],
+      "reflection_question": "What wind is currently steering my mind away from wisdom?",
+      "related_verses": [
+        "bg_2_60",
+        "bg_2_66",
+        "bg_2_68"
+      ],
+      "misconceptions": [
+        "Distraction is not a small flaw when it repeatedly steers major life decisions."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_67",
+      "response_levels": {
+        "level_1": "As wind carries a boat, a mind that follows wandering senses steals away wisdom.",
+        "level_2": "Attention is the rudder. Wherever it goes, your life quietly follows.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_68",
+      "citation": "BG 2.68",
+      "status": "approved",
+      "summary": "Therefore, one whose senses are fully restrained from their objects has firm wisdom.",
+      "modern_interpretation": "Boundary is the architecture of clarity. Restraint is how steadiness becomes reliable.",
+      "topics": [
+        "discipline",
+        "mind",
+        "wisdom"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "studies",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "discipline",
+        "perseverance"
+      ],
+      "practice": [
+        "Set one hard boundary tonight — time, app, or conversation — and keep it."
+      ],
+      "reflection_question": "Which unrestrained sense habit most destabilizes my judgment?",
+      "related_verses": [
+        "bg_2_58",
+        "bg_2_61",
+        "bg_2_67"
+      ],
+      "misconceptions": [
+        "Restraint is not repression of life; it is protection of clarity."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_68",
+      "response_levels": {
+        "level_1": "Therefore, one whose senses are fully restrained from their objects has firm wisdom.",
+        "level_2": "Boundary is the architecture of clarity. Restraint is how steadiness becomes reliable.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_69",
+      "citation": "BG 2.69",
+      "status": "approved",
+      "summary": "What is night for all beings is waking for the disciplined; what is waking for beings is night for the sage who sees.",
+      "modern_interpretation": "As wisdom deepens, values invert: noise can look like sleep, and stillness can look like real life.",
+      "topics": [
+        "wisdom",
+        "discipline",
+        "mind"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "wisdom",
+        "discipline",
+        "non_attachment"
+      ],
+      "practice": [
+        "Spend thirty minutes in quiet and notice what awakens when the world's noise sleeps."
+      ],
+      "reflection_question": "Where do I still call distraction \"living\" and stillness \"missing out\"?",
+      "related_verses": [
+        "bg_2_68",
+        "bg_2_70",
+        "bg_2_71"
+      ],
+      "misconceptions": [
+        "This verse is not contempt for ordinary people; it describes different centers of attention."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_69",
+      "response_levels": {
+        "level_1": "What is night for all beings is waking for the disciplined; what is waking for beings is night for the sage who sees.",
+        "level_2": "As wisdom deepens, values invert: noise can look like sleep, and stillness can look like real life.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_70",
+      "citation": "BG 2.70",
+      "status": "approved",
+      "summary": "As rivers enter a full, steady ocean without disturbing it, desires enter one who is established — and that one finds peace.",
+      "modern_interpretation": "Peace is not empty of desire; it is spacious enough not to be overturned by desire.",
+      "topics": [
+        "desire",
+        "equanimity",
+        "liberation"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "relationships"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "equanimity",
+        "non_attachment",
+        "patience"
+      ],
+      "practice": [
+        "Let a desire arise and pass like a river; do not build a dam of obsession."
+      ],
+      "reflection_question": "Which desire is currently flooding my inner shoreline?",
+      "related_verses": [
+        "bg_2_71",
+        "bg_2_55",
+        "bg_2_65"
+      ],
+      "misconceptions": [
+        "Peace does not require the total absence of desire; it requires not being flooded by desire."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_70",
+      "response_levels": {
+        "level_1": "As rivers enter a full, steady ocean without disturbing it, desires enter one who is established — and that one finds peace.",
+        "level_2": "Peace is not empty of desire; it is spacious enough not to be overturned by desire.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_71",
+      "citation": "BG 2.71",
+      "status": "approved",
+      "summary": "Letting go of cravings, moving free of longing, without \"mine\" and ego — one attains peace.",
+      "modern_interpretation": "Peace ripens when ownership-compulsion and self-importance loosen. This is about release of grasping, not erasure of care.",
+      "topics": [
+        "desire",
+        "detachment",
+        "liberation"
+      ],
+      "emotions": [
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "relationships"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "non_attachment",
+        "humility",
+        "equanimity"
+      ],
+      "practice": [
+        "Notice one \"mine\" thought today and soften it: this is entrusted, not owned."
+      ],
+      "reflection_question": "Where is \"I / mine\" creating unnecessary tension?",
+      "related_verses": [
+        "bg_2_70",
+        "bg_2_55",
+        "bg_2_72"
+      ],
+      "misconceptions": [
+        "Freedom from ego is not self-erasure; it is freedom from compulsive self-centeredness."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_71",
+      "response_levels": {
+        "level_1": "Letting go of cravings, moving free of longing, without \"mine\" and ego — one attains peace.",
+        "level_2": "Peace ripens when ownership-compulsion and self-importance loosen. This is about release of grasping, not erasure of care.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_72",
+      "citation": "BG 2.72",
+      "status": "approved",
+      "summary": "This Brahmi state ends delusion; established in it — even at life's end — one reaches the peace spoken of as Brahman-nirvana.",
+      "modern_interpretation": "A life trained in steadiness prepares even the last breath. Practice now is not only for today's calm; it shapes how we meet endings.",
+      "topics": [
+        "liberation",
+        "wisdom",
+        "equanimity"
+      ],
+      "emotions": [
+        "anxiety",
+        "fear"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "wisdom",
+        "equanimity",
+        "devotion"
+      ],
+      "practice": [
+        "Ask: if today were late in life, what steadiness would I wish I had practiced?"
+      ],
+      "reflection_question": "What state of mind am I rehearsing for my final moments by how I live today?",
+      "related_verses": [
+        "bg_2_71",
+        "bg_2_55",
+        "bg_2_50"
+      ],
+      "misconceptions": [
+        "This is not a threat about death; it is an invitation to practice steadiness while there is time."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_72",
+      "response_levels": {
+        "level_1": "This Brahmi state ends delusion; established in it — even at life's end — one reaches the peace spoken of as Brahman-nirvana.",
+        "level_2": "A life trained in steadiness prepares even the last breath. Practice now is not only for today's calm; it shapes how we meet endings.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+"""Sparse / keyword retrieval (skeleton)."""

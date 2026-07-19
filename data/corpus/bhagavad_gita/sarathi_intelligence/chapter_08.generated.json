@@ -1,0 +1,1512 @@
+{
+  "manifest": {
+    "name": "Sarathi Intelligence",
+    "scripture": "bhagavad_gita",
+    "chapter": 8,
+    "chapter_title": "Aksara-Brahma — The Imperishable",
+    "version": "0.2.0-generated",
+    "status": "generated",
+    "authentic_corpus": "../bhagavad_gita.json",
+    "editorial_workflow": [
+      "generated",
+      "reviewed",
+      "approved",
+      "locked"
+    ],
+    "enrichment_count": 28,
+    "approval_policy": "Never auto-approve. Human review required."
+  },
+  "enrichments": [
+    {
+      "node_id": "bg_8_1",
+      "citation": "BG 8.1",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.1) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.1 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_2",
+        "bg_8_3",
+        "bg_8_4"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अर्जुन उवाच किं तद्ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम। अ…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_1",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_2",
+      "citation": "BG 8.2",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.2) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.2 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_1",
+        "bg_8_3",
+        "bg_8_4",
+        "bg_8_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अधियज्ञः कथं कोऽत्र देहेऽस्मिन्मधुसूदन। प्रयाणकाले च कथं ज्ञ…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_2",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_3",
+      "citation": "BG 8.3",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.3) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.3 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_1",
+        "bg_8_2",
+        "bg_8_4",
+        "bg_8_5"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्री भगवानुवाच अक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते। भू…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_3",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_4",
+      "citation": "BG 8.4",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.4) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.4 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_2",
+        "bg_8_3",
+        "bg_8_5",
+        "bg_8_6"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अधिभूतं क्षरो भावः पुरुषश्चाधिदैवतम्। अधियज्ञोऽहमेवात्र देहे…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_4",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_5",
+      "citation": "BG 8.5",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.5) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.5 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_3",
+        "bg_8_4",
+        "bg_8_6",
+        "bg_8_7"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम्। यः प्रयाति स मद्भाव…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_5",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_6",
+      "citation": "BG 8.6",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.6) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.6 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_4",
+        "bg_8_5",
+        "bg_8_7",
+        "bg_8_8"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम्। तं तमेवैति कौन्ते…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_6",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_7",
+      "citation": "BG 8.7",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.7) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.7 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_5",
+        "bg_8_6",
+        "bg_8_8",
+        "bg_8_9"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च। मय्यर्पितमनोबुद्धिर…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_7",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_8",
+      "citation": "BG 8.8",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.8) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.8 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_6",
+        "bg_8_7",
+        "bg_8_9",
+        "bg_8_10"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अभ्यासयोगयुक्तेन चेतसा नान्यगामिना। परमं पुरुषं दिव्यं याति …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_8",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_9",
+      "citation": "BG 8.9",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.9) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.9 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_7",
+        "bg_8_8",
+        "bg_8_10",
+        "bg_8_11"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: कविं पुराणमनुशासितार मणोरणीयांसमनुस्मरेद्यः। सर्वस्य धातारमच…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_9",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_10",
+      "citation": "BG 8.10",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.10) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.10 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_8",
+        "bg_8_9",
+        "bg_8_11",
+        "bg_8_12"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: प्रयाणकाले मनसाऽचलेन भक्त्या युक्तो योगबलेन चैव। भ्रुवोर्मध्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_10",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_11",
+      "citation": "BG 8.11",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.11) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.11 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_9",
+        "bg_8_10",
+        "bg_8_12",
+        "bg_8_13"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यदक्षरं वेदविदो वदन्ति विशन्ति यद्यतयो वीतरागाः। यदिच्छन्तो …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_11",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_12",
+      "citation": "BG 8.12",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.12) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.12 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_10",
+        "bg_8_11",
+        "bg_8_13",
+        "bg_8_14"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च। मूर्ध्न्याधायात्मनः …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_12",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_13",
+      "citation": "BG 8.13",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.13) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.13 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_11",
+        "bg_8_12",
+        "bg_8_14",
+        "bg_8_15"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ओमित्येकाक्षरं ब्रह्म व्याहरन्मामनुस्मरन्। यः प्रयाति त्यजन्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_13",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_14",
+      "citation": "BG 8.14",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.14) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.14 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_12",
+        "bg_8_13",
+        "bg_8_15",
+        "bg_8_16"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अनन्यचेताः सततं यो मां स्मरति नित्यशः। तस्याहं सुलभः पार्थ न…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_14",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_15",
+      "citation": "BG 8.15",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.15) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing grief. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self"
+      ],
+      "emotions": [
+        "grief",
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.15 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_13",
+        "bg_8_14",
+        "bg_8_16",
+        "bg_8_17"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: मामुपेत्य पुनर्जन्म दुःखालयमशाश्वतम्। नाप्नुवन्ति महात्मानः …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_15",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_16",
+      "citation": "BG 8.16",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.16) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.16 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_14",
+        "bg_8_15",
+        "bg_8_17",
+        "bg_8_18"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: आब्रह्मभुवनाल्लोकाः पुनरावर्तिनोऽर्जुन। मामुपेत्य तु कौन्तेय…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_16",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_17",
+      "citation": "BG 8.17",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.17) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.17 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_15",
+        "bg_8_16",
+        "bg_8_18",
+        "bg_8_19"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सहस्रयुगपर्यन्तमहर्यद्ब्रह्मणो विदुः। रात्रिं युगसहस्रान्तां…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_17",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_18",
+      "citation": "BG 8.18",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.18) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.18 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_16",
+        "bg_8_17",
+        "bg_8_19",
+        "bg_8_20"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अव्यक्ताद्व्यक्तयः सर्वाः प्रभवन्त्यहरागमे। रात्र्यागमे प्रल…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_18",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_19",
+      "citation": "BG 8.19",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.19) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.19 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_17",
+        "bg_8_18",
+        "bg_8_20",
+        "bg_8_21"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: भूतग्रामः स एवायं भूत्वा भूत्वा प्रलीयते। रात्र्यागमेऽवशः पा…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_19",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_20",
+      "citation": "BG 8.20",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.20) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.20 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_18",
+        "bg_8_19",
+        "bg_8_21",
+        "bg_8_22"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: परस्तस्मात्तु भावोऽन्योऽव्यक्तोऽव्यक्तात्सनातनः। यः स सर्वेष…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_20",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_21",
+      "citation": "BG 8.21",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.21) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.21 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_19",
+        "bg_8_20",
+        "bg_8_22",
+        "bg_8_23"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अव्यक्तोऽक्षर इत्युक्तस्तमाहुः परमां गतिम्। यं प्राप्य न निव…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_21",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_22",
+      "citation": "BG 8.22",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.22) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.22 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_20",
+        "bg_8_21",
+        "bg_8_23",
+        "bg_8_24"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: पुरुषः स परः पार्थ भक्त्या लभ्यस्त्वनन्यया। यस्यान्तःस्थानि …. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_22",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_23",
+      "citation": "BG 8.23",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.23) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.23 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_21",
+        "bg_8_22",
+        "bg_8_24",
+        "bg_8_25"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यत्र काले त्वनावृत्तिमावृत्तिं चैव योगिनः। प्रयाता यान्ति तं…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_23",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_24",
+      "citation": "BG 8.24",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.24) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.24 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_22",
+        "bg_8_23",
+        "bg_8_25",
+        "bg_8_26"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अग्निर्ज्योतिरहः शुक्लः षण्मासा उत्तरायणम्। तत्र प्रयाता गच्…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_24",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_25",
+      "citation": "BG 8.25",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.25) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.25 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_23",
+        "bg_8_24",
+        "bg_8_26",
+        "bg_8_27"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: धूमो रात्रिस्तथा कृष्णः षण्मासा दक्षिणायनम्। तत्र चान्द्रमसं…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_25",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_26",
+      "citation": "BG 8.26",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.26) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.26 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_24",
+        "bg_8_25",
+        "bg_8_27",
+        "bg_8_28"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: शुक्लकृष्णे गती ह्येते जगतः शाश्वते मते। एकया यात्यनावृत्तिम…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_26",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_27",
+      "citation": "BG 8.27",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.27) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.27 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_25",
+        "bg_8_26",
+        "bg_8_28"
+      ],
+      "confidence": {
+        "summary": 0.57,
+        "topics": 0.62,
+        "emotions": 0.54,
+        "overall": 0.62
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: नैते सृती पार्थ जानन्योगी मुह्यति कश्चन। तस्मात्सर्वेषु काले…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_27",
+      "review_notes": []
+    },
+    {
+      "node_id": "bg_8_28",
+      "citation": "BG 8.28",
+      "status": "generated",
+      "summary": "A teaching from Aksara-Brahma — The Imperishable (BG 8.28) inviting reflection on liberation, devotion.",
+      "modern_interpretation": "In modern life, this verse from Chapter 8 supports clarity around liberation when facing fear. (Generated coverage draft — refine against full translation in review.)",
+      "topics": [
+        "liberation",
+        "devotion",
+        "self",
+        "karma"
+      ],
+      "emotions": [
+        "fear",
+        "anxiety",
+        "peace"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "devotion",
+        "wisdom",
+        "courage"
+      ],
+      "practice": [
+        "Sit with BG 8.28 for two minutes; note one feeling and one duty it clarifies."
+      ],
+      "reflection_question": "What is Chapter 8's theme (Aksara-Brahma — The Imperishable) asking of me through this verse?",
+      "related_verses": [
+        "bg_8_26",
+        "bg_8_27"
+      ],
+      "confidence": {
+        "summary": 0.5299999999999999,
+        "topics": 0.58,
+        "emotions": 0.49999999999999994,
+        "overall": 0.58
+      },
+      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: वेदेषु यज्ञेषु तपःसु चैव दानेषु यत्पुण्यफलं प्रदिष्टम्। अत्य…. Requires human review before approved/locked.",
+      "reviewed_by": null,
+      "approved_at": null,
+      "source_sanskrit_checksum": null,
+      "authentic_node_id": "bg_8_28",
+      "review_notes": []
+    }
+  ]
+}
