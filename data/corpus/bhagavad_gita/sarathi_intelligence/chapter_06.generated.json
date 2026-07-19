@@ -4,8 +4,8 @@
     "scripture": "bhagavad_gita",
     "chapter": 6,
     "chapter_title": "Dhyana Yoga — Meditation",
-    "version": "0.3.1-wip",
-    "status": "generated",
+    "version": "0.4.0",
+    "status": "partial_approved",
     "authentic_corpus": "../bhagavad_gita.json",
     "editorial_workflow": [
       "generated",
@@ -14,7 +14,8 @@
       "locked"
     ],
     "enrichment_count": 47,
-    "approval_policy": "Never auto-approve. Human review required."
+    "approval_policy": "Never auto-approve. Human review required.",
+    "approved_count": 6
   },
   "enrichments": [
     {
@@ -235,18 +236,19 @@
     {
       "node_id": "bg_6_5",
       "citation": "BG 6.5",
-      "status": "reviewed",
-      "summary": "Lift yourself by your own mind; do not degrade yourself. The self can be your friend — or your enemy.",
-      "modern_interpretation": "Self-mastery is an inside job. The same mind that sabotages you can become the ally that steadies you. This verse names the choice without blaming you for struggling.",
+      "status": "approved",
+      "summary": "Lift yourself by your own effort; do not degrade yourself. Your own mind can become your friend — or, left undisciplined, your obstacle.",
+      "modern_interpretation": "Growth begins with your own effort. Your own mind can become your greatest ally—or, if left undisciplined, your greatest obstacle. This verse names self-effort without shame: responsibility is invitation, not blame.",
       "topics": [
         "mind",
         "self",
         "discipline"
       ],
       "emotions": [
-        "hopelessness",
-        "anxiety",
-        "shame"
+        "self_doubt",
+        "discouragement",
+        "shame",
+        "inner_conflict"
       ],
       "life_domains": [
         "spiritual_practice",
@@ -274,41 +276,54 @@
         "bg_6_26"
       ],
       "misconceptions": [
-        "This verse is not blaming you for suffering; it is inviting responsibility without shame.",
+        "Self-responsibility is not self-blame.",
+        "This verse is not blaming you for suffering; it is inviting effort without shame.",
         "Self-elevation is not ego inflation; it is refusing to abandon yourself."
       ],
       "confidence": {
-        "summary": 0.9,
-        "topics": 0.88,
-        "emotions": 0.85,
-        "overall": 0.88
+        "summary": 0.94,
+        "topics": 0.92,
+        "emotions": 0.91,
+        "overall": 0.93
       },
-      "uncertainty_notes": "Self Mastery unit (6.5–6.10) first editorial pass; second pass required before approved.",
+      "uncertainty_notes": null,
       "review_notes": [
         "Reviewed as Self Mastery family unit (BG 6.5–6.10).",
         "Aligned terminology: mind as friend/enemy, dualities, equal regard, meditation conditions.",
-        "Marked reviewed; awaiting second pass + approval checklist before approved."
+        "Second pass 2026-07-19: stricter psychology pass for Self Mastery (effort without blame; no numbness; equal regard ≠ unsafe endurance; solitude ≠ permanent withdrawal).",
+        "Approved against 7-criterion checklist + Sarathi Voice."
       ],
       "reviewed_by": "editorial_team",
-      "approved_at": null,
+      "approved_at": "2026-07-19T11:30:00Z",
       "authentic_node_id": "bg_6_5",
-      "verse_family": "self_mastery"
+      "verse_family": "self_mastery",
+      "response_levels": {
+        "level_1": "Lift yourself by your own effort; do not degrade yourself. Your own mind can become your friend — or, left undisciplined, your obstacle.",
+        "level_2": "Growth begins with your own effort. Your own mind can become your greatest ally—or, if left undisciplined, your greatest obstacle. This verse names self-effort without shame: responsibility is invitation, not blame.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      }
     },
     {
       "node_id": "bg_6_6",
       "citation": "BG 6.6",
-      "status": "reviewed",
-      "summary": "For one who has mastered the mind, the mind becomes a friend; for one who has not, the mind remains like an enemy.",
-      "modern_interpretation": "An untrained mind argues against your wellbeing. Training does not mean domination — it means befriending attention so it stops working against you.",
+      "status": "approved",
+      "summary": "When the mind is trained, it supports you; when untrained, it works against you — like a friend or an enemy.",
+      "modern_interpretation": "A trained mind supports your highest intentions; an untrained mind can pull you away from them. Training is not domination of thought — it is befriending attention so it stops working against you.",
       "topics": [
         "mind",
         "discipline",
         "yoga"
       ],
       "emotions": [
-        "restlessness",
+        "mental_restlessness",
+        "lack_of_focus",
         "anxiety",
-        "anger"
+        "inner_conflict"
       ],
       "life_domains": [
         "spiritual_practice",
@@ -334,31 +349,43 @@
         "bg_2_67"
       ],
       "misconceptions": [
-        "Conquering the mind does not mean hating your thoughts; it means not being ruled by them."
+        "Conquering the mind does not mean hating your thoughts; it means not being ruled by them.",
+        "The mind is not simply good or bad; training changes how it serves you."
       ],
       "confidence": {
-        "summary": 0.9,
-        "topics": 0.88,
-        "emotions": 0.85,
-        "overall": 0.88
+        "summary": 0.94,
+        "topics": 0.92,
+        "emotions": 0.91,
+        "overall": 0.93
       },
-      "uncertainty_notes": "Self Mastery unit (6.5–6.10) first editorial pass; second pass required before approved.",
+      "uncertainty_notes": null,
       "review_notes": [
         "Reviewed as Self Mastery family unit (BG 6.5–6.10).",
         "Aligned terminology: mind as friend/enemy, dualities, equal regard, meditation conditions.",
-        "Marked reviewed; awaiting second pass + approval checklist before approved."
+        "Second pass 2026-07-19: stricter psychology pass for Self Mastery (effort without blame; no numbness; equal regard ≠ unsafe endurance; solitude ≠ permanent withdrawal).",
+        "Approved against 7-criterion checklist + Sarathi Voice."
       ],
       "reviewed_by": "editorial_team",
-      "approved_at": null,
+      "approved_at": "2026-07-19T11:30:00Z",
       "authentic_node_id": "bg_6_6",
-      "verse_family": "self_mastery"
+      "verse_family": "self_mastery",
+      "response_levels": {
+        "level_1": "When the mind is trained, it supports you; when untrained, it works against you — like a friend or an enemy.",
+        "level_2": "A trained mind supports your highest intentions; an untrained mind can pull you away from them. Training is not domination of thought — it is befriending attention so it stops working against you.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      }
     },
     {
       "node_id": "bg_6_7",
       "citation": "BG 6.7",
-      "status": "reviewed",
-      "summary": "One who has conquered the self and grown peaceful is absorbed in the Supreme — steady through heat and cold, pleasure and pain, honor and dishonor.",
-      "modern_interpretation": "Inner mastery shows up as steadiness across dualities: comfort and discomfort, praise and blame. Peace here is not passivity; it is composure under changing conditions.",
+      "status": "approved",
+      "summary": "One who has steadied the self becomes peaceful — composed through heat and cold, pleasure and pain, honor and dishonor.",
+      "modern_interpretation": "Inner mastery shows up as steadiness across dualities: comfort and discomfort, praise and blame. Peace here is composure under changing conditions — not passivity, and not emotional shutdown.",
       "topics": [
         "equanimity",
         "mind",
@@ -368,7 +395,8 @@
       "emotions": [
         "anxiety",
         "shame",
-        "restlessness"
+        "mental_restlessness",
+        "self_doubt"
       ],
       "life_domains": [
         "spiritual_practice",
@@ -396,31 +424,43 @@
         "bg_2_38"
       ],
       "misconceptions": [
+        "Inner steadiness does not mean becoming emotionally numb.",
         "Steadiness in honor and dishonor is not indifference to ethics or feedback; it is freedom from ego-whiplash."
       ],
       "confidence": {
-        "summary": 0.9,
-        "topics": 0.88,
-        "emotions": 0.85,
-        "overall": 0.88
+        "summary": 0.94,
+        "topics": 0.92,
+        "emotions": 0.91,
+        "overall": 0.93
       },
-      "uncertainty_notes": "Self Mastery unit (6.5–6.10) first editorial pass; second pass required before approved.",
+      "uncertainty_notes": null,
       "review_notes": [
         "Reviewed as Self Mastery family unit (BG 6.5–6.10).",
         "Aligned terminology: mind as friend/enemy, dualities, equal regard, meditation conditions.",
-        "Marked reviewed; awaiting second pass + approval checklist before approved."
+        "Second pass 2026-07-19: stricter psychology pass for Self Mastery (effort without blame; no numbness; equal regard ≠ unsafe endurance; solitude ≠ permanent withdrawal).",
+        "Approved against 7-criterion checklist + Sarathi Voice."
       ],
       "reviewed_by": "editorial_team",
-      "approved_at": null,
+      "approved_at": "2026-07-19T11:30:00Z",
       "authentic_node_id": "bg_6_7",
-      "verse_family": "self_mastery"
+      "verse_family": "self_mastery",
+      "response_levels": {
+        "level_1": "One who has steadied the self becomes peaceful — composed through heat and cold, pleasure and pain, honor and dishonor.",
+        "level_2": "Inner mastery shows up as steadiness across dualities: comfort and discomfort, praise and blame. Peace here is composure under changing conditions — not passivity, and not emotional shutdown.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      }
     },
     {
       "node_id": "bg_6_8",
       "citation": "BG 6.8",
-      "status": "reviewed",
-      "summary": "A yogi satisfied in knowledge and realization, unwavering, sense-mastered, seeing a clod, stone, and gold as equal — is said to be united.",
-      "modern_interpretation": "Equality here is about not letting status-objects own your mind. It is clarity about value, not pretending all choices are identical in practical life.",
+      "status": "approved",
+      "summary": "A yogi grounded in knowledge and realization remains steady — not letting status-objects own the mind, whether clod, stone, or gold.",
+      "modern_interpretation": "This teaching is not practical blindness, and it is not pretending every object is equally useful. It points to equal worth in what does not deserve to own your mind: do not let external circumstances or status-objects determine your inner stability. Equal regard for what things are worth to the ego is different from equal usefulness in daily life.",
       "topics": [
         "wisdom",
         "equanimity",
@@ -429,6 +469,7 @@
       ],
       "emotions": [
         "anxiety",
+        "performance_pressure",
         "restlessness"
       ],
       "life_domains": [
@@ -457,31 +498,44 @@
         "bg_2_57"
       ],
       "misconceptions": [
-        "Seeing gold and a clod as equal does not mean abandoning practical discernment; it means not worshipping status-objects."
+        "Seeing gold and a clod as equal does not mean abandoning practical discernment; it means not worshipping status-objects.",
+        "Equal worth is not the same as equal usefulness.",
+        "The verse does not ask you to pretend everything is identical in practical life."
       ],
       "confidence": {
-        "summary": 0.9,
-        "topics": 0.88,
-        "emotions": 0.85,
-        "overall": 0.88
+        "summary": 0.94,
+        "topics": 0.92,
+        "emotions": 0.91,
+        "overall": 0.93
       },
-      "uncertainty_notes": "Self Mastery unit (6.5–6.10) first editorial pass; second pass required before approved.",
+      "uncertainty_notes": null,
       "review_notes": [
         "Reviewed as Self Mastery family unit (BG 6.5–6.10).",
         "Aligned terminology: mind as friend/enemy, dualities, equal regard, meditation conditions.",
-        "Marked reviewed; awaiting second pass + approval checklist before approved."
+        "Second pass 2026-07-19: stricter psychology pass for Self Mastery (effort without blame; no numbness; equal regard ≠ unsafe endurance; solitude ≠ permanent withdrawal).",
+        "Approved against 7-criterion checklist + Sarathi Voice."
       ],
       "reviewed_by": "editorial_team",
-      "approved_at": null,
+      "approved_at": "2026-07-19T11:30:00Z",
       "authentic_node_id": "bg_6_8",
-      "verse_family": "self_mastery"
+      "verse_family": "self_mastery",
+      "response_levels": {
+        "level_1": "A yogi grounded in knowledge and realization remains steady — not letting status-objects own the mind, whether clod, stone, or gold.",
+        "level_2": "This teaching is not practical blindness, and it is not pretending every object is equally useful. It points to equal worth in what does not deserve to own your mind: do not let external circumstances or status-objects determine your inner stability. Equal regard for what things are worth to the ego is different from equal usefulness in daily life.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      }
     },
     {
       "node_id": "bg_6_9",
       "citation": "BG 6.9",
-      "status": "reviewed",
-      "summary": "One is especially distinguished who regards with equal mind friends, allies, enemies, neutrals, mediators, the hateful, relatives, the good, and even the harmful.",
-      "modern_interpretation": "Equal regard is freedom from partisan emotional capture — not fake niceness, and not moral confusion about harm. It is steadiness of heart while still acting wisely.",
+      "status": "approved",
+      "summary": "Especially distinguished is one who holds equal regard toward friends, foes, neutrals, relatives, the virtuous, and even those who cause harm — without losing wise action.",
+      "modern_interpretation": "Equal regard means recognizing the dignity of every person. It does not require remaining in abusive or unsafe situations. Freedom from partisan emotional capture is not fake niceness, and not moral confusion about harm — it is steadiness of heart while still acting wisely.",
       "topics": [
         "equanimity",
         "compassion",
@@ -490,7 +544,8 @@
       "emotions": [
         "anger",
         "anxiety",
-        "shame"
+        "shame",
+        "inner_conflict"
       ],
       "life_domains": [
         "relationships",
@@ -518,32 +573,43 @@
         "bg_2_57"
       ],
       "misconceptions": [
-        "Equal-mindedness is not approving harm; it is refusing to let hostility own your inner state.",
-        "This is not a demand to stay in unsafe relationships."
+        "Equal regard means recognizing the dignity of every person. It does not require remaining in abusive or unsafe situations.",
+        "Equal-mindedness is not approving harm; it is refusing to let hostility own your inner state."
       ],
       "confidence": {
-        "summary": 0.9,
-        "topics": 0.88,
-        "emotions": 0.85,
-        "overall": 0.88
+        "summary": 0.94,
+        "topics": 0.92,
+        "emotions": 0.91,
+        "overall": 0.93
       },
-      "uncertainty_notes": "Self Mastery unit (6.5–6.10) first editorial pass; second pass required before approved.",
+      "uncertainty_notes": null,
       "review_notes": [
         "Reviewed as Self Mastery family unit (BG 6.5–6.10).",
         "Aligned terminology: mind as friend/enemy, dualities, equal regard, meditation conditions.",
-        "Marked reviewed; awaiting second pass + approval checklist before approved."
+        "Second pass 2026-07-19: stricter psychology pass for Self Mastery (effort without blame; no numbness; equal regard ≠ unsafe endurance; solitude ≠ permanent withdrawal).",
+        "Approved against 7-criterion checklist + Sarathi Voice."
       ],
       "reviewed_by": "editorial_team",
-      "approved_at": null,
+      "approved_at": "2026-07-19T11:30:00Z",
       "authentic_node_id": "bg_6_9",
-      "verse_family": "self_mastery"
+      "verse_family": "self_mastery",
+      "response_levels": {
+        "level_1": "Especially distinguished is one who holds equal regard toward friends, foes, neutrals, relatives, the virtuous, and even those who cause harm — without losing wise action.",
+        "level_2": "Equal regard means recognizing the dignity of every person. It does not require remaining in abusive or unsafe situations. Freedom from partisan emotional capture is not fake niceness, and not moral confusion about harm — it is steadiness of heart while still acting wisely.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      }
     },
     {
       "node_id": "bg_6_10",
       "citation": "BG 6.10",
-      "status": "reviewed",
-      "summary": "A yogi should continually unite the mind in solitude, alone, with thought and self restrained, free of craving and possessiveness.",
-      "modern_interpretation": "Meditation needs conditions: quiet, consistency, reduced grasping. Solitude here is training space — not permanent withdrawal from responsibility.",
+      "status": "approved",
+      "summary": "A yogi continually unites the mind in quiet practice — restrained, free of craving and possessiveness — so steadiness can grow.",
+      "modern_interpretation": "Periods of quiet and simplicity support meditation, but the goal is inner steadiness that continues beyond those moments. Solitude here is training space for attention — not a requirement to live alone or withdraw permanently from responsibility.",
       "topics": [
         "yoga",
         "discipline",
@@ -551,9 +617,10 @@
         "detachment"
       ],
       "emotions": [
-        "restlessness",
-        "anxiety",
-        "overwhelm"
+        "mental_restlessness",
+        "lack_of_focus",
+        "overwhelm",
+        "anxiety"
       ],
       "life_domains": [
         "spiritual_practice",
@@ -579,25 +646,37 @@
         "bg_2_58"
       ],
       "misconceptions": [
+        "Meditation does not require isolation from society; quiet practice supports steadiness that continues in ordinary life.",
         "Yogic solitude is practice space, not abandonment of family or duty.",
         "Meditation begins with small consistency, not perfect stillness."
       ],
       "confidence": {
-        "summary": 0.9,
-        "topics": 0.88,
-        "emotions": 0.85,
-        "overall": 0.88
+        "summary": 0.94,
+        "topics": 0.92,
+        "emotions": 0.91,
+        "overall": 0.93
       },
-      "uncertainty_notes": "Self Mastery unit (6.5–6.10) first editorial pass; second pass required before approved.",
+      "uncertainty_notes": null,
       "review_notes": [
         "Reviewed as Self Mastery family unit (BG 6.5–6.10).",
         "Aligned terminology: mind as friend/enemy, dualities, equal regard, meditation conditions.",
-        "Marked reviewed; awaiting second pass + approval checklist before approved."
+        "Second pass 2026-07-19: stricter psychology pass for Self Mastery (effort without blame; no numbness; equal regard ≠ unsafe endurance; solitude ≠ permanent withdrawal).",
+        "Approved against 7-criterion checklist + Sarathi Voice."
       ],
       "reviewed_by": "editorial_team",
-      "approved_at": null,
+      "approved_at": "2026-07-19T11:30:00Z",
       "authentic_node_id": "bg_6_10",
-      "verse_family": "self_mastery"
+      "verse_family": "self_mastery",
+      "response_levels": {
+        "level_1": "A yogi continually unites the mind in quiet practice — restrained, free of craving and possessiveness — so steadiness can grow.",
+        "level_2": "Periods of quiet and simplicity support meditation, but the goal is inner steadiness that continues beyond those moments. Solitude here is training space for attention — not a requirement to live alone or withdraw permanently from responsibility.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      }
     },
     {
       "node_id": "bg_6_11",

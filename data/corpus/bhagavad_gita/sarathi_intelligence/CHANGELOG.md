@@ -1,16 +1,29 @@
-## v0.3.1-wip — toward v0.4.0
-
-### In review
-
-- **Self Mastery:** BG 6.5–6.10 (`reviewed`, not yet approved)
-
-### Frozen
-
-- **v0.3.0** snapshot in `releases/v0.3.0.freeze.json` (git tag pending: no `.git` in workspace)
-
 # Sarathi Intelligence — Changelog
 
 Versioned separately from Authentic Scripture (`bhagavad_gita.json` v1.0.0, locked).
+
+## v0.4.0 — 2026-07-19
+
+### Approved (+6; total 29 verses)
+
+- **Self Mastery:** BG 6.5–6.10
+
+### Editorial focus
+
+- Stricter psychology pass: self-effort without blame; steadiness ≠ numbness; equal regard ≠ enduring abuse; solitude ≠ permanent withdrawal.
+- Family overview + family-level misconceptions introduced for Self Mastery.
+- Emotion taxonomy expanded: `self_doubt`, `inner_conflict`, `mental_restlessness`, `discouragement`, `lack_of_focus`.
+
+### Frozen
+
+- Snapshot in `releases/v0.4.0.freeze.json`
+- Git tag: `sarathi-intelligence-v0.4.0`
+
+### Next
+
+- Remainder of Chapter 6
+- Chapter 12 (qualities of the devotee)
+- Chapter 18 (esp. 18.66 cluster)
 
 ## v0.3.0 — 2026-07-19
 
@@ -26,10 +39,6 @@ Versioned separately from Authentic Scripture (`bhagavad_gita.json` v1.0.0, lock
 - Progressive Disclosure (L1 / L2 / L3)  
 - Verse Families (`verse_families.json`)  
 - Golden benchmark scaffold  
-
-### Next
-
-- **v0.4.0** — Chapter 6 unit (start with 6.5–6.10)
 
 ## v0.2.0 — generated coverage
 

@@ -1,0 +1,2052 @@
+{
+  "release": "sarathi-intelligence-v0.4.0",
+  "approved_count": 29,
+  "new_in_this_release": [
+    "bg_6_5",
+    "bg_6_6",
+    "bg_6_7",
+    "bg_6_8",
+    "bg_6_9",
+    "bg_6_10"
+  ],
+  "enrichments": [
+    {
+      "node_id": "bg_2_47",
+      "citation": "BG 2.47",
+      "status": "approved",
+      "summary": "Your responsibility is to act with integrity, not to control or possess the outcome. Do not become attached to results, and do not let fear of results lead you into inaction.",
+      "modern_interpretation": "Do the work; release the outcome; do not use detachment as laziness. Perfectionism often hides in fruit-obsession.",
+      "topics": [
+        "karma",
+        "duty",
+        "right_action",
+        "detachment",
+        "action"
+      ],
+      "emotions": [
+        "anxiety",
+        "fear_of_failure",
+        "performance_pressure"
+      ],
+      "life_domains": [
+        "career",
+        "placements",
+        "business"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_encouragement",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "discipline",
+        "perseverance",
+        "non_attachment"
+      ],
+      "practice": [
+        "Give your full attention to today's effort, and postpone judging success until the work is complete.",
+        "Do not obsess over outcomes."
+      ],
+      "reflection_question": "Where am I attaching my happiness to the outcome — and calling it high standards?",
+      "related_verses": [
+        "bg_2_48",
+        "bg_2_49",
+        "bg_2_50"
+      ],
+      "confidence": {
+        "summary": 0.95,
+        "topics": 0.92,
+        "emotions": 0.9,
+        "overall": 0.93
+      },
+      "uncertainty_notes": null,
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_47",
+      "review_notes": [
+        "Editorial pass 2026-07-19: conversational summary accepted.",
+        "Topics expanded with right_action + action for retrieval.",
+        "Emotions refined to fear_of_failure + performance_pressure.",
+        "Practice aligned to effort-before-judgment.",
+        "Misconceptions field added.",
+        "Marked reviewed; awaiting second pass before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "misconceptions": [
+        "Detachment does not mean laziness.",
+        "This verse does not discourage ambition.",
+        "Giving up attachment to results is not giving up excellence."
+      ],
+      "response_levels": {
+        "level_1": "Your responsibility is to act with integrity, not to control or possess the outcome. Do not become attached to results, and do not let fear of results lead you into inaction.",
+        "level_2": "Do the work; release the outcome; do not use detachment as laziness. Perfectionism often hides in fruit-obsession.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "karma_yoga_foundations"
+    },
+    {
+      "node_id": "bg_2_48",
+      "citation": "BG 2.48",
+      "status": "approved",
+      "summary": "Perform your duty while remaining steady in both success and failure. This inner balance is what the Gita calls Yoga.",
+      "modern_interpretation": "Yoga here is composure in motion — not withdrawal from responsibility. Samatva (evenness) in success and failure is the heart of this teaching.",
+      "topics": [
+        "yoga",
+        "equanimity",
+        "duty",
+        "detachment"
+      ],
+      "emotions": [
+        "anxiety",
+        "fear_of_failure",
+        "restlessness"
+      ],
+      "life_domains": [
+        "career",
+        "studies",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_discipline",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "equanimity",
+        "discipline",
+        "patience"
+      ],
+      "practice": [
+        "Before a result arrives, name one action still fully in your control."
+      ],
+      "reflection_question": "Can I stay kind and clear whether this attempt succeeds or fails?",
+      "related_verses": [
+        "bg_2_47",
+        "bg_2_50",
+        "bg_2_38"
+      ],
+      "confidence": {
+        "summary": 0.93,
+        "topics": 0.9,
+        "emotions": 0.85,
+        "overall": 0.9
+      },
+      "uncertainty_notes": null,
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_48",
+      "review_notes": [
+        "Summary rewritten to center samatva as the definition of yoga.",
+        "Softened \"escape from work\" to \"withdrawal from responsibility\".",
+        "Added life_domain spiritual_practice.",
+        "Marked reviewed; awaiting second pass before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "misconceptions": [
+        "Equanimity is not indifference or emotional numbness.",
+        "Yoga here is not escape from work; it is steadiness while acting."
+      ],
+      "response_levels": {
+        "level_1": "Perform your duty while remaining steady in both success and failure. This inner balance is what the Gita calls Yoga.",
+        "level_2": "Yoga here is composure in motion — not withdrawal from responsibility. Samatva (evenness) in success and failure is the heart of this teaching.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "karma_yoga_foundations"
+    },
+    {
+      "node_id": "bg_2_49",
+      "citation": "BG 2.49",
+      "status": "approved",
+      "summary": "Reward-driven action is far inferior to buddhi-yoga. Take refuge in clear intelligence — those who act only for rewards limit their own growth.",
+      "modern_interpretation": "When payoff is the only motive, work shrinks the heart. Seeking refuge in buddhi-yoga widens motive beyond grasping.",
+      "topics": [
+        "karma",
+        "wisdom",
+        "detachment",
+        "action"
+      ],
+      "emotions": [
+        "anxiety",
+        "guilt",
+        "confusion"
+      ],
+      "life_domains": [
+        "career",
+        "money",
+        "business"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_guidance",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "wisdom",
+        "non_attachment",
+        "honesty"
+      ],
+      "practice": [
+        "Write the purpose of your work beyond salary or status."
+      ],
+      "reflection_question": "Where has chasing reward made my work smaller than it could be?",
+      "related_verses": [
+        "bg_2_47",
+        "bg_2_50",
+        "bg_2_51"
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.8,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Emotion \"guilt\" is a modern seeker mapping; keep under review.",
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_49",
+      "review_notes": [
+        "Softened kṛpaṇāḥ language to \"limit their own growth\" (non-judgmental).",
+        "Marked reviewed; awaiting second pass before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "misconceptions": [
+        "Rejecting reward-obsession is not rejecting fair compensation.",
+        "Buddhi-yoga is not anti-ambition; it is anti-narrow grasping."
+      ],
+      "response_levels": {
+        "level_1": "Reward-driven action is far inferior to buddhi-yoga. Take refuge in clear intelligence — those who act only for rewards limit their own growth.",
+        "level_2": "When payoff is the only motive, work shrinks the heart. Seeking refuge in buddhi-yoga widens motive beyond grasping.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "karma_yoga_foundations"
+    },
+    {
+      "node_id": "bg_2_50",
+      "citation": "BG 2.50",
+      "status": "approved",
+      "summary": "One established in buddhi releases binding fixation on good and bad results; therefore devote yourself to yoga — yoga is skill in action.",
+      "modern_interpretation": "Skill in action is excellence with a clear mind, not clever hustling for credit. This teaching is about freedom from attachment to the fruits of actions—not abandoning ethical responsibility.",
+      "topics": [
+        "yoga",
+        "wisdom",
+        "action",
+        "discipline"
+      ],
+      "emotions": [
+        "anxiety",
+        "overwhelm"
+      ],
+      "life_domains": [
+        "career",
+        "studies",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_courage",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "wisdom",
+        "perseverance"
+      ],
+      "practice": [
+        "Choose one task and do it with full attention for twenty minutes."
+      ],
+      "reflection_question": "What would 'skill in action' look like in my hardest task this week?",
+      "related_verses": [
+        "bg_2_47",
+        "bg_2_48",
+        "bg_2_49"
+      ],
+      "confidence": {
+        "summary": 0.92,
+        "topics": 0.9,
+        "emotions": 0.85,
+        "overall": 0.9
+      },
+      "uncertainty_notes": null,
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_50",
+      "review_notes": [
+        "Added explicit boundary sentence against moral nihilism reading.",
+        "Removed emotion \"peace\" as arrival state; kept anxiety/overwhelm.",
+        "Marked reviewed; awaiting second pass before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "misconceptions": [
+        "This verse does not say morality does not matter.",
+        "Casting off good and bad reactions means freedom from binding fixation on results — not ethical indifference.",
+        "Skill in action is not hustle culture; it is clear, dedicated work."
+      ],
+      "response_levels": {
+        "level_1": "One established in buddhi releases binding fixation on good and bad results; therefore devote yourself to yoga — yoga is skill in action.",
+        "level_2": "Skill in action is excellence with a clear mind, not clever hustling for credit. This teaching is about freedom from attachment to the fruits of actions—not abandoning ethical responsibility.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "karma_yoga_foundations"
+    },
+    {
+      "node_id": "bg_2_54",
+      "citation": "BG 2.54",
+      "status": "approved",
+      "summary": "Arjuna asks what defines a person of steady wisdom — how they speak, sit, and move through ordinary life.",
+      "modern_interpretation": "We recognize steadiness not by spiritual slogans, but by how someone shows up in speech, rest, and daily action. This question opens the Sthitaprajña teaching that follows.",
+      "topics": [
+        "wisdom",
+        "mind",
+        "equanimity"
+      ],
+      "emotions": [
+        "confusion",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_guidance",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "humility",
+        "wisdom"
+      ],
+      "practice": [
+        "Observe one calm person today; note concrete behaviors, not aura myths."
+      ],
+      "reflection_question": "What lived signs of steadiness am I actually looking for?",
+      "related_verses": [
+        "bg_2_55",
+        "bg_2_56",
+        "bg_2_57"
+      ],
+      "misconceptions": [
+        "Steady wisdom is not a mystical look — it is visible in ordinary conduct."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_54",
+      "response_levels": {
+        "level_1": "Arjuna asks what defines a person of steady wisdom — how they speak, sit, and move through ordinary life.",
+        "level_2": "We recognize steadiness not by spiritual slogans, but by how someone shows up in speech, rest, and daily action. This question opens the Sthitaprajña teaching that follows.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_55",
+      "citation": "BG 2.55",
+      "status": "approved",
+      "summary": "A person of steady wisdom lets go of mental cravings and rests content in the Self — fulfillment from within, not from endless wanting.",
+      "modern_interpretation": "Contentment is a skill of sufficiency, not a mood that arrives after every desire is met. The verse points to inner fullness rather than forced suppression of all preference.",
+      "topics": [
+        "desire",
+        "self",
+        "wisdom",
+        "detachment"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "non_attachment",
+        "wisdom",
+        "self_control"
+      ],
+      "practice": [
+        "List three desires; consciously pause chasing one of them today."
+      ],
+      "reflection_question": "What desire is running my mind without my consent?",
+      "related_verses": [
+        "bg_2_54",
+        "bg_2_56",
+        "bg_2_71"
+      ],
+      "misconceptions": [
+        "Abandoning desires does not mean erasing healthy needs or goals; it means not being ruled by craving."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_55",
+      "response_levels": {
+        "level_1": "A person of steady wisdom lets go of mental cravings and rests content in the Self — fulfillment from within, not from endless wanting.",
+        "level_2": "Contentment is a skill of sufficiency, not a mood that arrives after every desire is met. The verse points to inner fullness rather than forced suppression of all preference.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_56",
+      "citation": "BG 2.56",
+      "status": "approved",
+      "summary": "Steady wisdom means unshaken in sorrow, free of craving in joy, and released from attachment, fear, and anger.",
+      "modern_interpretation": "Emotional maturity is not numbness. It is the capacity to feel without being yanked into every high and low.",
+      "topics": [
+        "equanimity",
+        "mind",
+        "wisdom"
+      ],
+      "emotions": [
+        "anger",
+        "fear",
+        "anxiety"
+      ],
+      "life_domains": [
+        "relationships",
+        "career",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "equanimity",
+        "patience",
+        "self_control"
+      ],
+      "practice": [
+        "In the next mood swing, delay reaction by ninety seconds."
+      ],
+      "reflection_question": "Which emotion currently has the authority to drive my decisions?",
+      "related_verses": [
+        "bg_2_55",
+        "bg_2_57",
+        "bg_2_64"
+      ],
+      "misconceptions": [
+        "Equanimity is not indifference or emotional coldness."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_56",
+      "response_levels": {
+        "level_1": "Steady wisdom means unshaken in sorrow, free of craving in joy, and released from attachment, fear, and anger.",
+        "level_2": "Emotional maturity is not numbness. It is the capacity to feel without being yanked into every high and low.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_57",
+      "citation": "BG 2.57",
+      "status": "approved",
+      "summary": "Wisdom stands firm when one is not clingy anywhere — neither celebrating nor despising whatever good or bad arrives.",
+      "modern_interpretation": "Favorable and unfavorable events need not own your inner climate. Steadiness is independence from the scoreboard.",
+      "topics": [
+        "equanimity",
+        "detachment",
+        "wisdom"
+      ],
+      "emotions": [
+        "anxiety",
+        "anger"
+      ],
+      "life_domains": [
+        "career",
+        "relationships",
+        "leadership"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "equanimity",
+        "non_attachment"
+      ],
+      "practice": [
+        "Receive one piece of good news and one piece of hard news today with the same paced breath."
+      ],
+      "reflection_question": "Where do I still need the world to behave before I allow myself steadiness?",
+      "related_verses": [
+        "bg_2_56",
+        "bg_2_48",
+        "bg_2_38"
+      ],
+      "misconceptions": [
+        "Not rejoicing wildly does not forbid gratitude; not hating misfortune does not forbid wise response."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_57",
+      "response_levels": {
+        "level_1": "Wisdom stands firm when one is not clingy anywhere — neither celebrating nor despising whatever good or bad arrives.",
+        "level_2": "Favorable and unfavorable events need not own your inner climate. Steadiness is independence from the scoreboard.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_58",
+      "citation": "BG 2.58",
+      "status": "approved",
+      "summary": "When the senses withdraw from their objects as a tortoise draws in its limbs, wisdom stands firm.",
+      "modern_interpretation": "Healthy withdrawal is skillful boundaries — a temporary pullback for clarity — not lifelong escape from life.",
+      "topics": [
+        "mind",
+        "discipline",
+        "wisdom"
+      ],
+      "emotions": [
+        "restlessness",
+        "overwhelm",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "discipline",
+        "patience"
+      ],
+      "practice": [
+        "Make one tortoise move today: withdraw from a draining feed or conversation for an evening."
+      ],
+      "reflection_question": "What sense-input do I need to pull back from to recover clarity?",
+      "related_verses": [
+        "bg_2_59",
+        "bg_2_60",
+        "bg_2_68"
+      ],
+      "misconceptions": [
+        "Sense withdrawal is not permanent isolation or hatred of the world."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_58",
+      "response_levels": {
+        "level_1": "When the senses withdraw from their objects as a tortoise draws in its limbs, wisdom stands firm.",
+        "level_2": "Healthy withdrawal is skillful boundaries — a temporary pullback for clarity — not lifelong escape from life.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_59",
+      "citation": "BG 2.59",
+      "status": "approved",
+      "summary": "Abstinence can turn objects away, but craving may remain; even craving fades when a deeper fulfillment is seen.",
+      "modern_interpretation": "Willpower can pause a habit; deeper nourishment dissolves the thirst that kept the habit alive.",
+      "topics": [
+        "desire",
+        "discipline",
+        "liberation"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "self_control",
+        "perseverance",
+        "wisdom"
+      ],
+      "practice": [
+        "Abstain from one craving and also cultivate one deeper joy — a walk, prayer, music, or honest rest."
+      ],
+      "reflection_question": "Am I only suppressing a craving — or replacing it with deeper nourishment?",
+      "related_verses": [
+        "bg_2_58",
+        "bg_2_60",
+        "bg_2_70"
+      ],
+      "misconceptions": [
+        "White-knuckle abstinence alone is incomplete if deeper fulfillment is never cultivated."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_59",
+      "response_levels": {
+        "level_1": "Abstinence can turn objects away, but craving may remain; even craving fades when a deeper fulfillment is seen.",
+        "level_2": "Willpower can pause a habit; deeper nourishment dissolves the thirst that kept the habit alive.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_60",
+      "citation": "BG 2.60",
+      "status": "approved",
+      "summary": "Even a wise, striving person can have the mind forcibly carried away by turbulent senses.",
+      "modern_interpretation": "Insight does not make you immune. Vigilance and humility remain part of maturity — setbacks are part of the path, not proof you are a fraud.",
+      "topics": [
+        "mind",
+        "discipline",
+        "desire"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety",
+        "overwhelm"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "relationships"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "humility",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Expect setbacks; write a gentle restart ritual for after a slip."
+      ],
+      "reflection_question": "Where do I pretend I am beyond temptation?",
+      "related_verses": [
+        "bg_2_59",
+        "bg_2_61",
+        "bg_2_67"
+      ],
+      "misconceptions": [
+        "A lapse does not erase wisdom; refusing to restart does more damage than the lapse itself."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_60",
+      "response_levels": {
+        "level_1": "Even a wise, striving person can have the mind forcibly carried away by turbulent senses.",
+        "level_2": "Insight does not make you immune. Vigilance and humility remain part of maturity — setbacks are part of the path, not proof you are a fraud.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_61",
+      "citation": "BG 2.61",
+      "status": "approved",
+      "summary": "Restrain the senses and rest with the mind devoted to the Divine; mastery of the senses is a mark of firm wisdom.",
+      "modern_interpretation": "Attention mastery is devotion in daily form. The verse links self-restraint with a higher orientation — not mere willpower contests.",
+      "topics": [
+        "discipline",
+        "devotion",
+        "mind"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "devotion",
+        "discipline"
+      ],
+      "practice": [
+        "Begin one work block with a minute of dedication — then single-task."
+      ],
+      "reflection_question": "What would sense-mastery look like on my phone and calendar?",
+      "related_verses": [
+        "bg_2_60",
+        "bg_2_68",
+        "bg_2_58"
+      ],
+      "misconceptions": [
+        "Sense restraint is not hostility toward the body; it is stewardship of attention."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_61",
+      "response_levels": {
+        "level_1": "Restrain the senses and rest with the mind devoted to the Divine; mastery of the senses is a mark of firm wisdom.",
+        "level_2": "Attention mastery is devotion in daily form. The verse links self-restraint with a higher orientation — not mere willpower contests.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_62",
+      "citation": "BG 2.62",
+      "status": "approved",
+      "summary": "Dwelling on sense objects breeds attachment; attachment breeds desire; desire breeds anger.",
+      "modern_interpretation": "The spiral from rumination to rage is predictable. Interrupt earlier — at dwelling — before anger arrives as if from nowhere.",
+      "topics": [
+        "mind",
+        "desire",
+        "anger"
+      ],
+      "emotions": [
+        "anger",
+        "restlessness",
+        "anxiety"
+      ],
+      "life_domains": [
+        "relationships",
+        "career",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "patience",
+        "wisdom"
+      ],
+      "practice": [
+        "When obsessing on a person, object, or outcome, name the chain: dwell → attach → crave → anger."
+      ],
+      "reflection_question": "What am I repeatedly dwelling on that is quietly building anger?",
+      "related_verses": [
+        "bg_2_63",
+        "bg_2_64",
+        "bg_2_44"
+      ],
+      "misconceptions": [
+        "Anger often begins earlier than the outburst — in unchecked mental dwelling."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_62",
+      "response_levels": {
+        "level_1": "Dwelling on sense objects breeds attachment; attachment breeds desire; desire breeds anger.",
+        "level_2": "The spiral from rumination to rage is predictable. Interrupt earlier — at dwelling — before anger arrives as if from nowhere.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_63",
+      "citation": "BG 2.63",
+      "status": "approved",
+      "summary": "From anger comes delusion; from delusion, memory fails; from that, intelligence collapses — and one falls.",
+      "modern_interpretation": "Anger is not only heat; it is a cognitive blackout waiting to happen. Cooling down protects clarity, relationships, and judgment.",
+      "topics": [
+        "anger",
+        "mind",
+        "wisdom"
+      ],
+      "emotions": [
+        "anger",
+        "confusion",
+        "overwhelm"
+      ],
+      "life_domains": [
+        "relationships",
+        "family",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_discipline",
+        "seeking_forgiveness"
+      ],
+      "virtues": [
+        "patience",
+        "self_control",
+        "wisdom"
+      ],
+      "practice": [
+        "Use a cool-down: leave the room, drink water, write the angry sentence privately before speaking."
+      ],
+      "reflection_question": "Where has anger already started erasing my memory of what matters?",
+      "related_verses": [
+        "bg_2_62",
+        "bg_2_64",
+        "bg_2_56"
+      ],
+      "misconceptions": [
+        "This cascade is a warning map, not a claim that feeling anger makes someone worthless."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_63",
+      "response_levels": {
+        "level_1": "From anger comes delusion; from delusion, memory fails; from that, intelligence collapses — and one falls.",
+        "level_2": "Anger is not only heat; it is a cognitive blackout waiting to happen. Cooling down protects clarity, relationships, and judgment.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_64",
+      "citation": "BG 2.64",
+      "status": "approved",
+      "summary": "Moving among sense objects with freedom from attraction and aversion, self-governed — one attains serenity.",
+      "modern_interpretation": "Engagement without compulsion is freedom in the middle of ordinary life. You can participate without being owned.",
+      "topics": [
+        "equanimity",
+        "discipline",
+        "mind"
+      ],
+      "emotions": [
+        "restlessness",
+        "anger",
+        "anxiety"
+      ],
+      "life_domains": [
+        "relationships",
+        "career",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "self_control",
+        "equanimity",
+        "non_attachment"
+      ],
+      "practice": [
+        "Participate fully in one enjoyable thing without needing more afterward."
+      ],
+      "reflection_question": "Can I enjoy without grasping and face dislike without hostility?",
+      "related_verses": [
+        "bg_2_63",
+        "bg_2_65",
+        "bg_2_57"
+      ],
+      "misconceptions": [
+        "Freedom from attraction/aversion is not a ban on preference; it is freedom from compulsive preference."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_64",
+      "response_levels": {
+        "level_1": "Moving among sense objects with freedom from attraction and aversion, self-governed — one attains serenity.",
+        "level_2": "Engagement without compulsion is freedom in the middle of ordinary life. You can participate without being owned.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_65",
+      "citation": "BG 2.65",
+      "status": "approved",
+      "summary": "In that serenity, sorrows lose their grip; the intelligence of a serene mind soon becomes steady.",
+      "modern_interpretation": "Calm is not cosmetic. It restores intelligence — clarity returns when the nervous system is not flooded.",
+      "topics": [
+        "equanimity",
+        "mind",
+        "wisdom"
+      ],
+      "emotions": [
+        "anxiety",
+        "grief"
+      ],
+      "life_domains": [
+        "health",
+        "spiritual_practice",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_encouragement"
+      ],
+      "virtues": [
+        "equanimity",
+        "patience",
+        "wisdom"
+      ],
+      "practice": [
+        "Protect a daily serenity block as seriously as a meeting."
+      ],
+      "reflection_question": "What sorrow softens when my mind is even slightly more serene?",
+      "related_verses": [
+        "bg_2_64",
+        "bg_2_66",
+        "bg_2_70"
+      ],
+      "misconceptions": [
+        "Seeking serenity is not selfish escape when it restores capacity to meet life wisely."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_65",
+      "response_levels": {
+        "level_1": "In that serenity, sorrows lose their grip; the intelligence of a serene mind soon becomes steady.",
+        "level_2": "Calm is not cosmetic. It restores intelligence — clarity returns when the nervous system is not flooded.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_66",
+      "citation": "BG 2.66",
+      "status": "approved",
+      "summary": "Without inner yoga there is no steady intelligence or meditation; without peace, how can there be happiness?",
+      "modern_interpretation": "Happiness is downstream of alignment. Chasing mood boosts while refusing peace is backwards.",
+      "topics": [
+        "mind",
+        "yoga",
+        "equanimity"
+      ],
+      "emotions": [
+        "anxiety",
+        "restlessness",
+        "hopelessness"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "career"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "discipline",
+        "wisdom",
+        "patience"
+      ],
+      "practice": [
+        "Before seeking a mood boost, restore one alignment: sleep, prayer, or an honest conversation."
+      ],
+      "reflection_question": "Am I chasing happiness while refusing the peace that makes it possible?",
+      "related_verses": [
+        "bg_2_65",
+        "bg_2_67",
+        "bg_2_71"
+      ],
+      "misconceptions": [
+        "Peace is not the enemy of joy; it is often its precondition."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_66",
+      "response_levels": {
+        "level_1": "Without inner yoga there is no steady intelligence or meditation; without peace, how can there be happiness?",
+        "level_2": "Happiness is downstream of alignment. Chasing mood boosts while refusing peace is backwards.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_67",
+      "citation": "BG 2.67",
+      "status": "approved",
+      "summary": "As wind carries a boat, a mind that follows wandering senses steals away wisdom.",
+      "modern_interpretation": "Attention is the rudder. Wherever it goes, your life quietly follows.",
+      "topics": [
+        "mind",
+        "discipline",
+        "wisdom"
+      ],
+      "emotions": [
+        "restlessness",
+        "overwhelm",
+        "anxiety"
+      ],
+      "life_domains": [
+        "studies",
+        "career",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "discipline"
+      ],
+      "practice": [
+        "Choose a single rudder object for the next hour and refuse tab-hopping."
+      ],
+      "reflection_question": "What wind is currently steering my mind away from wisdom?",
+      "related_verses": [
+        "bg_2_60",
+        "bg_2_66",
+        "bg_2_68"
+      ],
+      "misconceptions": [
+        "Distraction is not a small flaw when it repeatedly steers major life decisions."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_67",
+      "response_levels": {
+        "level_1": "As wind carries a boat, a mind that follows wandering senses steals away wisdom.",
+        "level_2": "Attention is the rudder. Wherever it goes, your life quietly follows.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_68",
+      "citation": "BG 2.68",
+      "status": "approved",
+      "summary": "Therefore, one whose senses are fully restrained from their objects has firm wisdom.",
+      "modern_interpretation": "Boundary is the architecture of clarity. Restraint is how steadiness becomes reliable.",
+      "topics": [
+        "discipline",
+        "mind",
+        "wisdom"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "studies",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "discipline",
+        "perseverance"
+      ],
+      "practice": [
+        "Set one hard boundary tonight — time, app, or conversation — and keep it."
+      ],
+      "reflection_question": "Which unrestrained sense habit most destabilizes my judgment?",
+      "related_verses": [
+        "bg_2_58",
+        "bg_2_61",
+        "bg_2_67"
+      ],
+      "misconceptions": [
+        "Restraint is not repression of life; it is protection of clarity."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_68",
+      "response_levels": {
+        "level_1": "Therefore, one whose senses are fully restrained from their objects has firm wisdom.",
+        "level_2": "Boundary is the architecture of clarity. Restraint is how steadiness becomes reliable.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_69",
+      "citation": "BG 2.69",
+      "status": "approved",
+      "summary": "What is night for all beings is waking for the disciplined; what is waking for beings is night for the sage who sees.",
+      "modern_interpretation": "As wisdom deepens, values invert: noise can look like sleep, and stillness can look like real life.",
+      "topics": [
+        "wisdom",
+        "discipline",
+        "mind"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_meaning",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "wisdom",
+        "discipline",
+        "non_attachment"
+      ],
+      "practice": [
+        "Spend thirty minutes in quiet and notice what awakens when the world's noise sleeps."
+      ],
+      "reflection_question": "Where do I still call distraction \"living\" and stillness \"missing out\"?",
+      "related_verses": [
+        "bg_2_68",
+        "bg_2_70",
+        "bg_2_71"
+      ],
+      "misconceptions": [
+        "This verse is not contempt for ordinary people; it describes different centers of attention."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_69",
+      "response_levels": {
+        "level_1": "What is night for all beings is waking for the disciplined; what is waking for beings is night for the sage who sees.",
+        "level_2": "As wisdom deepens, values invert: noise can look like sleep, and stillness can look like real life.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_70",
+      "citation": "BG 2.70",
+      "status": "approved",
+      "summary": "As rivers enter a full, steady ocean without disturbing it, desires enter one who is established — and that one finds peace.",
+      "modern_interpretation": "Peace is not empty of desire; it is spacious enough not to be overturned by desire.",
+      "topics": [
+        "desire",
+        "equanimity",
+        "liberation"
+      ],
+      "emotions": [
+        "restlessness",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "relationships"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "equanimity",
+        "non_attachment",
+        "patience"
+      ],
+      "practice": [
+        "Let a desire arise and pass like a river; do not build a dam of obsession."
+      ],
+      "reflection_question": "Which desire is currently flooding my inner shoreline?",
+      "related_verses": [
+        "bg_2_71",
+        "bg_2_55",
+        "bg_2_65"
+      ],
+      "misconceptions": [
+        "Peace does not require the total absence of desire; it requires not being flooded by desire."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_70",
+      "response_levels": {
+        "level_1": "As rivers enter a full, steady ocean without disturbing it, desires enter one who is established — and that one finds peace.",
+        "level_2": "Peace is not empty of desire; it is spacious enough not to be overturned by desire.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_71",
+      "citation": "BG 2.71",
+      "status": "approved",
+      "summary": "Letting go of cravings, moving free of longing, without \"mine\" and ego — one attains peace.",
+      "modern_interpretation": "Peace ripens when ownership-compulsion and self-importance loosen. This is about release of grasping, not erasure of care.",
+      "topics": [
+        "desire",
+        "detachment",
+        "liberation"
+      ],
+      "emotions": [
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "relationships"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_detachment"
+      ],
+      "virtues": [
+        "non_attachment",
+        "humility",
+        "equanimity"
+      ],
+      "practice": [
+        "Notice one \"mine\" thought today and soften it: this is entrusted, not owned."
+      ],
+      "reflection_question": "Where is \"I / mine\" creating unnecessary tension?",
+      "related_verses": [
+        "bg_2_70",
+        "bg_2_55",
+        "bg_2_72"
+      ],
+      "misconceptions": [
+        "Freedom from ego is not self-erasure; it is freedom from compulsive self-centeredness."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_71",
+      "response_levels": {
+        "level_1": "Letting go of cravings, moving free of longing, without \"mine\" and ego — one attains peace.",
+        "level_2": "Peace ripens when ownership-compulsion and self-importance loosen. This is about release of grasping, not erasure of care.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_2_72",
+      "citation": "BG 2.72",
+      "status": "approved",
+      "summary": "This Brahmi state ends delusion; established in it — even at life's end — one reaches the peace spoken of as Brahman-nirvana.",
+      "modern_interpretation": "A life trained in steadiness prepares even the last breath. Practice now is not only for today's calm; it shapes how we meet endings.",
+      "topics": [
+        "liberation",
+        "wisdom",
+        "equanimity"
+      ],
+      "emotions": [
+        "anxiety",
+        "fear"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "grief_loss",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "wisdom",
+        "equanimity",
+        "devotion"
+      ],
+      "practice": [
+        "Ask: if today were late in life, what steadiness would I wish I had practiced?"
+      ],
+      "reflection_question": "What state of mind am I rehearsing for my final moments by how I live today?",
+      "related_verses": [
+        "bg_2_71",
+        "bg_2_55",
+        "bg_2_50"
+      ],
+      "misconceptions": [
+        "This is not a threat about death; it is an invitation to practice steadiness while there is time."
+      ],
+      "confidence": {
+        "summary": 0.9,
+        "topics": 0.88,
+        "emotions": 0.85,
+        "overall": 0.88
+      },
+      "uncertainty_notes": "Sthitaprajña unit editorial pass; second pass required before approved.",
+      "review_notes": [
+        "Reviewed as part of BG 2.54–2.72 Sthitaprajña unit for terminology consistency.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved.",
+        "Second pass 2026-07-19: approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:18:57Z",
+      "authentic_node_id": "bg_2_72",
+      "response_levels": {
+        "level_1": "This Brahmi state ends delusion; established in it — even at life's end — one reaches the peace spoken of as Brahman-nirvana.",
+        "level_2": "A life trained in steadiness prepares even the last breath. Practice now is not only for today's calm; it shapes how we meet endings.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      },
+      "verse_family": "sthitaprajna"
+    },
+    {
+      "node_id": "bg_6_5",
+      "citation": "BG 6.5",
+      "status": "approved",
+      "summary": "Lift yourself by your own effort; do not degrade yourself. Your own mind can become your friend — or, left undisciplined, your obstacle.",
+      "modern_interpretation": "Growth begins with your own effort. Your own mind can become your greatest ally—or, if left undisciplined, your greatest obstacle. This verse names self-effort without shame: responsibility is invitation, not blame.",
+      "topics": [
+        "mind",
+        "self",
+        "discipline"
+      ],
+      "emotions": [
+        "self_doubt",
+        "discouragement",
+        "shame",
+        "inner_conflict"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "identity",
+        "health"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_encouragement",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "discipline",
+        "honesty",
+        "perseverance"
+      ],
+      "practice": [
+        "Interrupt one self-degrading habit today with one concrete uplifting replacement.",
+        "Speak to yourself once today as you would speak to a friend you respect."
+      ],
+      "reflection_question": "In what way is my own mind currently acting as my enemy — and what would friendship with myself look like?",
+      "related_verses": [
+        "bg_6_6",
+        "bg_2_60",
+        "bg_6_26"
+      ],
+      "misconceptions": [
+        "Self-responsibility is not self-blame.",
+        "This verse is not blaming you for suffering; it is inviting effort without shame.",
+        "Self-elevation is not ego inflation; it is refusing to abandon yourself."
+      ],
+      "confidence": {
+        "summary": 0.94,
+        "topics": 0.92,
+        "emotions": 0.91,
+        "overall": 0.93
+      },
+      "uncertainty_notes": null,
+      "review_notes": [
+        "Reviewed as Self Mastery family unit (BG 6.5–6.10).",
+        "Aligned terminology: mind as friend/enemy, dualities, equal regard, meditation conditions.",
+        "Second pass 2026-07-19: stricter psychology pass for Self Mastery (effort without blame; no numbness; equal regard ≠ unsafe endurance; solitude ≠ permanent withdrawal).",
+        "Approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:30:00Z",
+      "authentic_node_id": "bg_6_5",
+      "verse_family": "self_mastery",
+      "response_levels": {
+        "level_1": "Lift yourself by your own effort; do not degrade yourself. Your own mind can become your friend — or, left undisciplined, your obstacle.",
+        "level_2": "Growth begins with your own effort. Your own mind can become your greatest ally—or, if left undisciplined, your greatest obstacle. This verse names self-effort without shame: responsibility is invitation, not blame.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      }
+    },
+    {
+      "node_id": "bg_6_6",
+      "citation": "BG 6.6",
+      "status": "approved",
+      "summary": "When the mind is trained, it supports you; when untrained, it works against you — like a friend or an enemy.",
+      "modern_interpretation": "A trained mind supports your highest intentions; an untrained mind can pull you away from them. Training is not domination of thought — it is befriending attention so it stops working against you.",
+      "topics": [
+        "mind",
+        "discipline",
+        "yoga"
+      ],
+      "emotions": [
+        "mental_restlessness",
+        "lack_of_focus",
+        "anxiety",
+        "inner_conflict"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "self_control",
+        "discipline",
+        "patience"
+      ],
+      "practice": [
+        "When the mind attacks, answer with one firm kind instruction — then take one aligned action."
+      ],
+      "reflection_question": "Is my mind currently friend or foe in this season of life?",
+      "related_verses": [
+        "bg_6_5",
+        "bg_6_26",
+        "bg_2_67"
+      ],
+      "misconceptions": [
+        "Conquering the mind does not mean hating your thoughts; it means not being ruled by them.",
+        "The mind is not simply good or bad; training changes how it serves you."
+      ],
+      "confidence": {
+        "summary": 0.94,
+        "topics": 0.92,
+        "emotions": 0.91,
+        "overall": 0.93
+      },
+      "uncertainty_notes": null,
+      "review_notes": [
+        "Reviewed as Self Mastery family unit (BG 6.5–6.10).",
+        "Aligned terminology: mind as friend/enemy, dualities, equal regard, meditation conditions.",
+        "Second pass 2026-07-19: stricter psychology pass for Self Mastery (effort without blame; no numbness; equal regard ≠ unsafe endurance; solitude ≠ permanent withdrawal).",
+        "Approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:30:00Z",
+      "authentic_node_id": "bg_6_6",
+      "verse_family": "self_mastery",
+      "response_levels": {
+        "level_1": "When the mind is trained, it supports you; when untrained, it works against you — like a friend or an enemy.",
+        "level_2": "A trained mind supports your highest intentions; an untrained mind can pull you away from them. Training is not domination of thought — it is befriending attention so it stops working against you.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      }
+    },
+    {
+      "node_id": "bg_6_7",
+      "citation": "BG 6.7",
+      "status": "approved",
+      "summary": "One who has steadied the self becomes peaceful — composed through heat and cold, pleasure and pain, honor and dishonor.",
+      "modern_interpretation": "Inner mastery shows up as steadiness across dualities: comfort and discomfort, praise and blame. Peace here is composure under changing conditions — not passivity, and not emotional shutdown.",
+      "topics": [
+        "equanimity",
+        "mind",
+        "yoga",
+        "self"
+      ],
+      "emotions": [
+        "anxiety",
+        "shame",
+        "mental_restlessness",
+        "self_doubt"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "career",
+        "identity",
+        "relationships"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_discipline",
+        "seeking_courage"
+      ],
+      "virtues": [
+        "equanimity",
+        "self_control",
+        "patience"
+      ],
+      "practice": [
+        "Notice one praise or criticism today; keep your next action steady either way."
+      ],
+      "reflection_question": "Where do honor and dishonor still pull my peace off center?",
+      "related_verses": [
+        "bg_6_6",
+        "bg_2_56",
+        "bg_2_38"
+      ],
+      "misconceptions": [
+        "Inner steadiness does not mean becoming emotionally numb.",
+        "Steadiness in honor and dishonor is not indifference to ethics or feedback; it is freedom from ego-whiplash."
+      ],
+      "confidence": {
+        "summary": 0.94,
+        "topics": 0.92,
+        "emotions": 0.91,
+        "overall": 0.93
+      },
+      "uncertainty_notes": null,
+      "review_notes": [
+        "Reviewed as Self Mastery family unit (BG 6.5–6.10).",
+        "Aligned terminology: mind as friend/enemy, dualities, equal regard, meditation conditions.",
+        "Second pass 2026-07-19: stricter psychology pass for Self Mastery (effort without blame; no numbness; equal regard ≠ unsafe endurance; solitude ≠ permanent withdrawal).",
+        "Approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:30:00Z",
+      "authentic_node_id": "bg_6_7",
+      "verse_family": "self_mastery",
+      "response_levels": {
+        "level_1": "One who has steadied the self becomes peaceful — composed through heat and cold, pleasure and pain, honor and dishonor.",
+        "level_2": "Inner mastery shows up as steadiness across dualities: comfort and discomfort, praise and blame. Peace here is composure under changing conditions — not passivity, and not emotional shutdown.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      }
+    },
+    {
+      "node_id": "bg_6_8",
+      "citation": "BG 6.8",
+      "status": "approved",
+      "summary": "A yogi grounded in knowledge and realization remains steady — not letting status-objects own the mind, whether clod, stone, or gold.",
+      "modern_interpretation": "This teaching is not practical blindness, and it is not pretending every object is equally useful. It points to equal worth in what does not deserve to own your mind: do not let external circumstances or status-objects determine your inner stability. Equal regard for what things are worth to the ego is different from equal usefulness in daily life.",
+      "topics": [
+        "wisdom",
+        "equanimity",
+        "discipline",
+        "yoga"
+      ],
+      "emotions": [
+        "anxiety",
+        "performance_pressure",
+        "restlessness"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "money",
+        "career",
+        "identity"
+      ],
+      "user_intents": [
+        "seeking_detachment",
+        "seeking_peace",
+        "seeking_meaning"
+      ],
+      "virtues": [
+        "equanimity",
+        "wisdom",
+        "non_attachment"
+      ],
+      "practice": [
+        "Catch one moment of status-comparison today; name what you were measuring yourself against."
+      ],
+      "reflection_question": "What “gold” am I treating as more real than my own steadiness?",
+      "related_verses": [
+        "bg_6_7",
+        "bg_6_9",
+        "bg_2_57"
+      ],
+      "misconceptions": [
+        "Seeing gold and a clod as equal does not mean abandoning practical discernment; it means not worshipping status-objects.",
+        "Equal worth is not the same as equal usefulness.",
+        "The verse does not ask you to pretend everything is identical in practical life."
+      ],
+      "confidence": {
+        "summary": 0.94,
+        "topics": 0.92,
+        "emotions": 0.91,
+        "overall": 0.93
+      },
+      "uncertainty_notes": null,
+      "review_notes": [
+        "Reviewed as Self Mastery family unit (BG 6.5–6.10).",
+        "Aligned terminology: mind as friend/enemy, dualities, equal regard, meditation conditions.",
+        "Second pass 2026-07-19: stricter psychology pass for Self Mastery (effort without blame; no numbness; equal regard ≠ unsafe endurance; solitude ≠ permanent withdrawal).",
+        "Approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:30:00Z",
+      "authentic_node_id": "bg_6_8",
+      "verse_family": "self_mastery",
+      "response_levels": {
+        "level_1": "A yogi grounded in knowledge and realization remains steady — not letting status-objects own the mind, whether clod, stone, or gold.",
+        "level_2": "This teaching is not practical blindness, and it is not pretending every object is equally useful. It points to equal worth in what does not deserve to own your mind: do not let external circumstances or status-objects determine your inner stability. Equal regard for what things are worth to the ego is different from equal usefulness in daily life.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      }
+    },
+    {
+      "node_id": "bg_6_9",
+      "citation": "BG 6.9",
+      "status": "approved",
+      "summary": "Especially distinguished is one who holds equal regard toward friends, foes, neutrals, relatives, the virtuous, and even those who cause harm — without losing wise action.",
+      "modern_interpretation": "Equal regard means recognizing the dignity of every person. It does not require remaining in abusive or unsafe situations. Freedom from partisan emotional capture is not fake niceness, and not moral confusion about harm — it is steadiness of heart while still acting wisely.",
+      "topics": [
+        "equanimity",
+        "compassion",
+        "wisdom"
+      ],
+      "emotions": [
+        "anger",
+        "anxiety",
+        "shame",
+        "inner_conflict"
+      ],
+      "life_domains": [
+        "relationships",
+        "family",
+        "leadership",
+        "spiritual_practice"
+      ],
+      "user_intents": [
+        "seeking_peace",
+        "seeking_forgiveness",
+        "seeking_discipline"
+      ],
+      "virtues": [
+        "equanimity",
+        "compassion",
+        "patience"
+      ],
+      "practice": [
+        "Choose one difficult person; wish them basic wellbeing once, without forcing liking."
+      ],
+      "reflection_question": "Whose presence still decides whether I remain steady or reactive?",
+      "related_verses": [
+        "bg_6_8",
+        "bg_12_13",
+        "bg_2_57"
+      ],
+      "misconceptions": [
+        "Equal regard means recognizing the dignity of every person. It does not require remaining in abusive or unsafe situations.",
+        "Equal-mindedness is not approving harm; it is refusing to let hostility own your inner state."
+      ],
+      "confidence": {
+        "summary": 0.94,
+        "topics": 0.92,
+        "emotions": 0.91,
+        "overall": 0.93
+      },
+      "uncertainty_notes": null,
+      "review_notes": [
+        "Reviewed as Self Mastery family unit (BG 6.5–6.10).",
+        "Aligned terminology: mind as friend/enemy, dualities, equal regard, meditation conditions.",
+        "Second pass 2026-07-19: stricter psychology pass for Self Mastery (effort without blame; no numbness; equal regard ≠ unsafe endurance; solitude ≠ permanent withdrawal).",
+        "Approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:30:00Z",
+      "authentic_node_id": "bg_6_9",
+      "verse_family": "self_mastery",
+      "response_levels": {
+        "level_1": "Especially distinguished is one who holds equal regard toward friends, foes, neutrals, relatives, the virtuous, and even those who cause harm — without losing wise action.",
+        "level_2": "Equal regard means recognizing the dignity of every person. It does not require remaining in abusive or unsafe situations. Freedom from partisan emotional capture is not fake niceness, and not moral confusion about harm — it is steadiness of heart while still acting wisely.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      }
+    },
+    {
+      "node_id": "bg_6_10",
+      "citation": "BG 6.10",
+      "status": "approved",
+      "summary": "A yogi continually unites the mind in quiet practice — restrained, free of craving and possessiveness — so steadiness can grow.",
+      "modern_interpretation": "Periods of quiet and simplicity support meditation, but the goal is inner steadiness that continues beyond those moments. Solitude here is training space for attention — not a requirement to live alone or withdraw permanently from responsibility.",
+      "topics": [
+        "yoga",
+        "discipline",
+        "mind",
+        "detachment"
+      ],
+      "emotions": [
+        "mental_restlessness",
+        "lack_of_focus",
+        "overwhelm",
+        "anxiety"
+      ],
+      "life_domains": [
+        "spiritual_practice",
+        "health",
+        "studies"
+      ],
+      "user_intents": [
+        "seeking_discipline",
+        "seeking_peace"
+      ],
+      "virtues": [
+        "discipline",
+        "self_control",
+        "perseverance"
+      ],
+      "practice": [
+        "Sit alone for five quiet minutes today — phone away — returning once each time the mind wanders."
+      ],
+      "reflection_question": "What small solitude can I protect so my mind can train?",
+      "related_verses": [
+        "bg_6_5",
+        "bg_6_26",
+        "bg_2_58"
+      ],
+      "misconceptions": [
+        "Meditation does not require isolation from society; quiet practice supports steadiness that continues in ordinary life.",
+        "Yogic solitude is practice space, not abandonment of family or duty.",
+        "Meditation begins with small consistency, not perfect stillness."
+      ],
+      "confidence": {
+        "summary": 0.94,
+        "topics": 0.92,
+        "emotions": 0.91,
+        "overall": 0.93
+      },
+      "uncertainty_notes": null,
+      "review_notes": [
+        "Reviewed as Self Mastery family unit (BG 6.5–6.10).",
+        "Aligned terminology: mind as friend/enemy, dualities, equal regard, meditation conditions.",
+        "Second pass 2026-07-19: stricter psychology pass for Self Mastery (effort without blame; no numbness; equal regard ≠ unsafe endurance; solitude ≠ permanent withdrawal).",
+        "Approved against 7-criterion checklist + Sarathi Voice."
+      ],
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-19T11:30:00Z",
+      "authentic_node_id": "bg_6_10",
+      "verse_family": "self_mastery",
+      "response_levels": {
+        "level_1": "A yogi continually unites the mind in quiet practice — restrained, free of craving and possessiveness — so steadiness can grow.",
+        "level_2": "Periods of quiet and simplicity support meditation, but the goal is inner steadiness that continues beyond those moments. Solitude here is training space for attention — not a requirement to live alone or withdraw permanently from responsibility.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      }
+    }
+  ]
+}

@@ -21,7 +21,7 @@
     "index": "sarathi_intelligence/ALL.generated.json",
     "review_queue": "sarathi_intelligence/review_queue.json",
     "enrichment_count": 700,
-    "status": "v0.3.0_partial_approved",
+    "status": "v0.4.0_partial_approved",
     "editorial_workflow": [
       "generated",
       "reviewed",
@@ -29,12 +29,13 @@
       "locked"
     ],
     "approval_policy": "Never auto-approve. Review via review_queue.json in batches of 10–20.",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "changelog": "sarathi_intelligence/CHANGELOG.md",
     "verse_families": "sarathi_intelligence/verse_families.json",
-    "approved_count": 23,
+    "approved_count": 29,
     "freeze_v0_3_0": "sarathi_intelligence/releases/v0.3.0.freeze.json",
-    "git_tag_status": "pending — workspace has no .git; freeze file is the snapshot"
+    "git_tag_status": "sarathi-intelligence-v0.4.0 (tag after commit)",
+    "freeze_v0_4_0": "sarathi_intelligence/releases/v0.4.0.freeze.json"
   },
   "coverage": {
     "chapters": [
@@ -76,16 +77,17 @@
   },
   "enrichment_roadmap": {
     "milestone_1": "DONE — 700 authentic verses imported and validated",
-    "milestone_2": "IN PROGRESS — karma-yoga core + Sthitaprajña (2.54–72) reviewed",
-    "milestone_3": "DONE for highest-value Ch.2 units (2.47–50, 2.54–72) approved",
-    "milestone_4": "NEXT — Chapter 6 (start 6.5–6.10)"
+    "milestone_2": "DONE — karma-yoga core + Sthitaprajña approved",
+    "milestone_3": "DONE — Ch.2 units (2.47–50, 2.54–72) approved",
+    "milestone_4": "DONE — Self Mastery BG 6.5–6.10 approved (v0.4.0)",
+    "milestone_5": "NEXT — remainder of Chapter 6 → Chapter 12 → 18.66 cluster"
   },
   "editorial": {
     "guide": "EDITORIAL_GUIDE.md",
     "voice": "SARATHI_VOICE.md",
     "approval_checklist": "7 criteria in EDITORIAL_GUIDE.md",
-    "reviewed_count": 23,
-    "approved_count": 23,
+    "reviewed_count": 29,
+    "approved_count": 29,
     "clusters": {
       "karma_yoga_core": {
         "verses": [
@@ -94,7 +96,7 @@
           "bg_2_49",
           "bg_2_50"
         ],
-        "status": "reviewed"
+        "status": "approved"
       },
       "sthitaprajna": {
         "verses": [
@@ -118,7 +120,18 @@
           "bg_2_71",
           "bg_2_72"
         ],
-        "status": "reviewed"
+        "status": "approved"
+      },
+      "self_mastery": {
+        "verses": [
+          "bg_6_5",
+          "bg_6_6",
+          "bg_6_7",
+          "bg_6_8",
+          "bg_6_9",
+          "bg_6_10"
+        ],
+        "status": "approved"
       }
     },
     "next_recommended": [
@@ -127,18 +140,11 @@
       "bg_18_66_cluster"
     ],
     "golden_benchmark": "benchmarks/golden_queries.v0.json",
-    "intelligence_version": "0.3.0",
+    "intelligence_version": "0.4.0",
     "authentic_version": "1.0.0",
     "progressive_disclosure": true,
-    "next_milestone": "v0.4.0 — approve Self Mastery BG 6.5–6.10 after second pass",
-    "in_review": [
-      "bg_6_5",
-      "bg_6_6",
-      "bg_6_7",
-      "bg_6_8",
-      "bg_6_9",
-      "bg_6_10"
-    ]
+    "next_milestone": "Continue Chapter 6 beyond 6.10; then Chapter 12",
+    "in_review": []
   },
   "related_paths": {
     "taxonomies": "taxonomies.json",

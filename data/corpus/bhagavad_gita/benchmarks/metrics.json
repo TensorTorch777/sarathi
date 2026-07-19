@@ -11,13 +11,14 @@
       "notes": "Baseline after first approved clusters. Retrieval metrics TBD once wired to eval harness."
     },
     "0.4.0": {
-      "approved_verses": null,
+      "approved_verses": 29,
+      "approved_families": 3,
       "golden_query_hit_rate": null,
       "correct_top1_verse": null,
-      "avg_editorial_confidence": null,
+      "avg_editorial_confidence": 0.893,
       "avg_retrieval_confidence": null,
       "user_satisfaction": null,
-      "notes": "Target: Self Mastery (6.5–6.10) approved."
+      "notes": "Self Mastery (BG 6.5–6.10) approved. Editorial freeze includes family overviews, family-level misconceptions, and expanded emotion taxonomy. Retrieval eval TBD."
     }
   }
 }

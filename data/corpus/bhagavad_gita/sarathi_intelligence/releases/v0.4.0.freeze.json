@@ -1,0 +1,72 @@
+{
+  "release": "sarathi-intelligence-v0.4.0",
+  "frozen_at": "2026-07-19T11:29:43Z",
+  "authentic_corpus_version": "1.0.0",
+  "intelligence_version": "0.4.0",
+  "approved_count": 29,
+  "approved_ids": [
+    "bg_2_47",
+    "bg_2_48",
+    "bg_2_49",
+    "bg_2_50",
+    "bg_2_54",
+    "bg_2_55",
+    "bg_2_56",
+    "bg_2_57",
+    "bg_2_58",
+    "bg_2_59",
+    "bg_2_60",
+    "bg_2_61",
+    "bg_2_62",
+    "bg_2_63",
+    "bg_2_64",
+    "bg_2_65",
+    "bg_2_66",
+    "bg_2_67",
+    "bg_2_68",
+    "bg_2_69",
+    "bg_2_70",
+    "bg_2_71",
+    "bg_2_72",
+    "bg_6_5",
+    "bg_6_6",
+    "bg_6_7",
+    "bg_6_8",
+    "bg_6_9",
+    "bg_6_10"
+  ],
+  "new_approved_ids": [
+    "bg_6_5",
+    "bg_6_6",
+    "bg_6_7",
+    "bg_6_8",
+    "bg_6_9",
+    "bg_6_10"
+  ],
+  "families_approved": [
+    "karma_yoga_foundations",
+    "sthitaprajna",
+    "self_mastery"
+  ],
+  "release_gates": {
+    "authentic_unchanged_v1_0_0": true,
+    "approved_fields_complete": true,
+    "verse_families_valid": true,
+    "golden_queries_scaffold_valid": true,
+    "changelog_v0_4_0": true,
+    "metrics_v0_4_0": true
+  },
+  "checksums": {
+    "ALL.generated.json": "279e55b5df32be889bdd43a50ea6fa3cee04656a32824a9a2d05610705020c8d",
+    "chapter_06.generated.json": "bccd0da58d309bc2b9477500d86f475afca5282fafd742507f95ee7d8cbecb66",
+    "verse_families.json": "f4e128468b760ed1f0416937013af123a2909175effb048abb81a138c68e0245",
+    "VERSION": "40b8eb4000a913a7791090535f291d3d369874162a89ef3c9e3d4e887a1b9e79",
+    "CHANGELOG.md": "673ccca7027f47523b1d2749a8cec97ba727c3bd58a879d6773763c8e42371db",
+    "../bhagavad_gita.json": "d7d804336cd4d7852ddd53cfe77125c929d489b185a1dbefdb5dec75b0088a1e",
+    "../taxonomies.json": "d367e9a558f71c91ed3921b02bfba41ec0da6476037a265396696fb62a75cc62",
+    "../benchmarks/metrics.json": "dafde8c63eddd0a7b66b4ef3fa3d8dd41be5e4304f7ae10b5a904adc1309ca8f",
+    "../benchmarks/golden_queries.v0.json": "b5c267c4c1609b0a2a8d4d1522c4ef6b14cf1e624ba92a117d532cdadf5949a6"
+  },
+  "approved_enrichments_file": "v0.4.0.approved_enrichments.json",
+  "approved_enrichments_sha256": "14876aa84fcb0cd179096a990c86df693bdd40f30af512f7a7291cf2aff6e160"
+}

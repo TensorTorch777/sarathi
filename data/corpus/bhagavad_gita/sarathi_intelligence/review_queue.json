@@ -20,8 +20,6 @@
     "BG 3.19",
     "BG 3.30",
     "BG 4.7",
-    "BG 6.5",
-    "BG 6.6",
     "BG 6.26",
     "BG 9.22",
     "BG 12.13",
@@ -136,10 +134,6 @@
     "BG 6.2",
     "BG 6.3",
     "BG 6.4",
-    "BG 6.7",
-    "BG 6.8",
-    "BG 6.9",
-    "BG 6.10",
     "BG 6.11",
     "BG 6.12",
     "BG 6.13",
@@ -718,5 +712,10 @@
     "medium": 244,
     "low": 438,
     "total": 700
-  }
+  },
+  "approved_families": [
+    "karma_yoga_foundations",
+    "sthitaprajna",
+    "self_mastery"
+  ]
 }

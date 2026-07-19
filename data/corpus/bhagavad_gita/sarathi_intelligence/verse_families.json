@@ -1,5 +1,5 @@
 {
-  "version": "0.3.1-wip",
+  "version": "0.4.0",
   "description": "Verse families group teachings that should be retrieved and taught together before jumping across the corpus.",
   "families": [
     {
@@ -19,6 +19,11 @@
         "seeking_detachment",
         "seeking_encouragement",
         "seeking_discipline"
+      ],
+      "overview": "This group of verses teaches right action without clinging to outcomes. It grounds Sarathi's counsel on effort, equanimity in success and failure, and skill in action — without mistaking detachment for laziness or indifference.",
+      "family_misconceptions": [
+        "Detachment does not mean laziness.",
+        "Releasing attachment to results is not abandoning excellence or ethics."
       ]
     },
     {
@@ -53,6 +58,11 @@
         "seeking_discipline",
         "seeking_detachment",
         "seeking_meaning"
+      ],
+      "overview": "This discourse describes steady wisdom in desire, emotion, sense restraint, and peace. Rather than asking for emotional numbness, these verses portray composure that can meet life's waves without being overturned by them.",
+      "family_misconceptions": [
+        "Steady wisdom is not emotional numbness.",
+        "Sense restraint is not lifelong escape from ordinary life."
       ]
     },
     {
@@ -67,13 +77,25 @@
         "bg_6_9",
         "bg_6_10"
       ],
-      "status": "reviewed",
-      "theme": "Elevate yourself by the self; mind as friend or enemy; meditation foundations.",
+      "status": "approved",
+      "theme": "Elevate yourself by disciplined attention; mind as ally or obstacle; steadiness across dualities; equal regard with safety; meditation foundations.",
       "primary_intents": [
         "seeking_discipline",
         "seeking_courage",
         "seeking_encouragement",
         "seeking_peace"
+      ],
+      "overview": "This group of verses explores how disciplined attention transforms the mind from an obstacle into an ally. Rather than encouraging self-criticism or withdrawal from life, these teachings emphasize patient practice, inner steadiness, and responsibility guided by compassion.",
+      "family_misconceptions": [
+        "Self-mastery is not self-hatred.",
+        "Training the mind is different from fighting yourself."
+      ],
+      "primary_emotions": [
+        "self_doubt",
+        "inner_conflict",
+        "mental_restlessness",
+        "discouragement",
+        "lack_of_focus"
       ]
     },
     {

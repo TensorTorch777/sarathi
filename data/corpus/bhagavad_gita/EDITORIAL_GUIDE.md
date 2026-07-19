@@ -96,7 +96,7 @@ Use these while editing (lighter than full approval):
 
 Tag states that lead people to *seek* the verse.
 
-Prefer specific tags: `fear_of_failure`, `performance_pressure` when accurate.
+Prefer specific tags: `fear_of_failure`, `performance_pressure`, `self_doubt`, `inner_conflict`, `mental_restlessness`, `discouragement`, `lack_of_focus` when accurate.
 
 ### User intents / virtues / practice / reflection / related verses
 
@@ -124,12 +124,13 @@ Gentle corrections for false readings, e.g.:
 
 Review philosophical units together when possible:
 
-1. **BG 2.47–2.50** — karma-yoga core *(reviewed)*  
-2. **BG 2.54–2.72** — Sthitaprajña discourse *(next)*  
-3. Chapter 6 — self-mastery & meditation  
-4. Chapter 12 — qualities of the devotee  
-5. BG 18.66 and surrounding verses  
-6. Remaining generated corpus  
+1. **BG 2.47–2.50** — karma-yoga core *(approved)*  
+2. **BG 2.54–2.72** — Sthitaprajña discourse *(approved)*  
+3. **BG 6.5–6.10** — Self Mastery *(approved)*  
+4. Remainder of Chapter 6 — meditation continuum  
+5. Chapter 12 — qualities of the devotee  
+6. BG 18.66 and surrounding verses  
+7. Remaining generated corpus  
 
 Do **not** default to purely sequential verse-by-verse if a unit would lose coherence.
 
@@ -178,11 +179,27 @@ Examples:
 
 - Karma Yoga Foundations — BG 2.47–2.50  
 - Steady Wisdom (Sthitaprajña) — BG 2.54–72  
-- Self Mastery — BG 6.5–10 *(planned)*  
+- Self Mastery — BG 6.5–10 *(approved)*  
 
 **Retrieval preference:** prefer siblings in the same family before jumping across distant chapters.
 
 Review philosophical units as families whenever possible.
+
+### Family overview (required for approved families)
+
+Each approved family in `verse_families.json` should eventually include:
+
+| Field | Purpose |
+|-------|---------|
+| `overview` | Short pastoral introduction for journeys / education (does not replace verse-level content) |
+| `family_misconceptions` | Cross-cutting misreadings that apply to the whole unit |
+| `theme` | Compact retrieval / editorial label |
+
+Example pattern (Self Mastery):
+
+> This group of verses explores how disciplined attention transforms the mind from an obstacle into an ally…
+
+Do not put family overviews into Layer 1 scripture files.
 
 ---
 
@@ -191,7 +208,7 @@ Review philosophical units as families whenever possible.
 | Layer | Example | Rule |
 |-------|---------|------|
 | Authentic Corpus | `v1.0.0` | Locked. Do not rewrite scripture. |
-| Sarathi Intelligence | `v0.3.0` → `v1.0.0` | Editorial history via `CHANGELOG.md` |
+| Sarathi Intelligence | `v0.4.0` → `v1.0.0` | Editorial history via `CHANGELOG.md` |
 
 Bump Intelligence version when a meaningful cluster is approved.
 
@@ -199,10 +216,11 @@ Bump Intelligence version when a meaningful cluster is approved.
 
 ## Style anchors (current)
 
-Approved clusters (Intelligence **v0.3.0**):
+Approved clusters (Intelligence **v0.4.0**):
 
 - Karma Yoga Foundations — BG 2.47–2.50  
 - Steady Wisdom — BG 2.54–2.72  
+- Self Mastery — BG 6.5–6.10  
 
 Patterns to preserve:
 
@@ -210,7 +228,8 @@ Patterns to preserve:
 - Sharp psychological lines when faithful  
 - Careful retrieval tags  
 - Softened judgmental Sanskrit renderings  
-- Explicit misconceptions / boundaries  
+- Explicit misconceptions / boundaries (especially psychology / safety)  
+- Effort without blame; steadiness without numbness  
 - `reviewed` after first pass; `approved` only after checklist + second pass  
 
 Update this guide when recurring decisions appear — do not invent local styles per chapter.
