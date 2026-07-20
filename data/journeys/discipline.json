@@ -1,0 +1,38 @@
+{
+  "id": "discipline",
+  "title": "Gentle Discipline",
+  "description": "Training the mind as an ally — practice without self-hatred, contentment without complacency.",
+  "entry_queries": [
+    "I have no discipline",
+    "I can't stick to a practice",
+    "how do I train my mind",
+    "I keep quitting"
+  ],
+  "families": [
+    "self_mastery",
+    "devotional_character"
+  ],
+  "steps": [
+    {
+      "family": "self_mastery",
+      "verse": "bg_6_5",
+      "response_level": "L1",
+      "practice": "Interrupt one self-degrading habit today with one concrete uplifting replacement.",
+      "reflection": "In what way is my own mind currently acting as my enemy — and what would friendship with myself look like?"
+    },
+    {
+      "family": "self_mastery",
+      "verse": "bg_6_6",
+      "response_level": "L1",
+      "practice": "When the mind attacks, answer with one firm kind instruction — then take one aligned action.",
+      "reflection": "Is my mind currently friend or foe in this season of life?"
+    },
+    {
+      "family": "devotional_character",
+      "verse": "bg_12_14",
+      "response_level": "L1",
+      "practice": "Once today, choose contentment over comparison — name one thing that is enough for now.",
+      "reflection": "Where am I restless for more, when steady devotion asks for firm, quiet resolve?"
+    }
+  ]
+}

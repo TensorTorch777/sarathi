@@ -1,0 +1,38 @@
+{
+  "id": "grief",
+  "title": "Meeting Grief with Steadiness",
+  "description": "Companionship for heavy hearts — emotional freedom without numbness, and release of clinging.",
+  "entry_queries": [
+    "I've lost someone",
+    "I feel grief",
+    "how do I live with loss",
+    "my heart is heavy"
+  ],
+  "families": [
+    "sthitaprajna",
+    "devotional_character"
+  ],
+  "steps": [
+    {
+      "family": "sthitaprajna",
+      "verse": "bg_2_56",
+      "response_level": "L1",
+      "practice": "In the next mood swing, delay reaction by ninety seconds.",
+      "reflection": "Which emotion currently has the authority to drive my decisions?"
+    },
+    {
+      "family": "sthitaprajna",
+      "verse": "bg_2_71",
+      "response_level": "L1",
+      "practice": "Notice one \"mine\" thought today and soften it: this is entrusted, not owned.",
+      "reflection": "Where is \"I / mine\" creating unnecessary tension?"
+    },
+    {
+      "family": "devotional_character",
+      "verse": "bg_12_17",
+      "response_level": "L1",
+      "practice": "When good news or bad news hits, name the feeling — then take one steady next action without amplifying it.",
+      "reflection": "Which outcomes am I still using as proof that I am worthy — or unworthy?"
+    }
+  ]
+}

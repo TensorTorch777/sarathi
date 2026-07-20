@@ -21,7 +21,7 @@
     "index": "sarathi_intelligence/ALL.generated.json",
     "review_queue": "sarathi_intelligence/review_queue.json",
     "enrichment_count": 700,
-    "status": "v0.5.0_partial_approved",
+    "status": "v0.5.1-wip",
     "editorial_workflow": [
       "generated",
       "reviewed",
@@ -148,6 +148,17 @@
         ],
         "status": "approved",
         "anchor_family": true
+      },
+      "devotional_practice": {
+        "verses": [
+          "bg_12_8",
+          "bg_12_9",
+          "bg_12_10",
+          "bg_12_11",
+          "bg_12_12"
+        ],
+        "status": "reviewed",
+        "tier": "core"
       }
     },
     "next_recommended": [
@@ -159,14 +170,27 @@
     "intelligence_version": "0.5.0",
     "authentic_version": "1.0.0",
     "progressive_disclosure": true,
-    "next_milestone": "Devotional Practice BG 12.8–12.12",
-    "in_review": [],
+    "next_milestone": "v0.6.0 — approve Devotional Practice BG 12.8–12.12 after second pass",
+    "in_review": [
+      "bg_12_8",
+      "bg_12_9",
+      "bg_12_10",
+      "bg_12_11",
+      "bg_12_12"
+    ],
     "anchor_families": [
       "karma_yoga_foundations",
       "sthitaprajna",
       "self_mastery",
       "devotional_character"
-    ]
+    ],
+    "editorial_guide_version": "1.0",
+    "editorial_guide_status": "frozen",
+    "family_tiers": {
+      "anchor": "Editorial exemplars that define Sarathi's voice and quality bar.",
+      "core": "High educational / pastoral value; prioritize after anchors.",
+      "supporting": "Remaining discourse; review after core coverage."
+    }
   },
   "related_paths": {
     "taxonomies": "taxonomies.json",

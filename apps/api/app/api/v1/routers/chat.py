@@ -1,8 +1,8 @@
-"""Chat answer routes — full grounded pipeline."""
+"""Chat answer routes — editorially-driven conversation engine (product alpha)."""
 
 from fastapi import APIRouter
 
-from app.api.v1.deps import CurrentUserDep, GenerateAnswerUseCaseDep
+from app.api.v1.deps import ConversationalAnswerUseCaseDep, CurrentUserDep
 from app.api.v1.schemas.chat import (
     AnswerCitationResponse,
     ChatRequest,
@@ -19,16 +19,16 @@ router = APIRouter(prefix="/chat")
     response_model=ChatResponse,
     summary="Ask Sarathi AI",
     description=(
-        "Runs User → Emotion → Topic → Query Rewrite → Hybrid Search → Rerank → "
-        "Prompt Builder → GPT → Citation Verification → Answer."
+        "Editorially-driven conversation engine (v0.6.0-product-alpha): "
+        "Understand → Retrieve approved families first → Progressive Disclosure L1/L2/L3."
     ),
 )
 async def ask(
     body: ChatRequest,
     user: CurrentUserDep,
-    use_case: GenerateAnswerUseCaseDep,
+    use_case: ConversationalAnswerUseCaseDep,
 ) -> ChatResponse:
-    """Generate a citation-grounded answer from the Bhagavad Gita."""
+    """Generate a calm, progressive answer from approved Sarathi Intelligence."""
     result = await use_case.execute(
         GenerateAnswerQuery(
             message=body.message,

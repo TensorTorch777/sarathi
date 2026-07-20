@@ -1,0 +1,631 @@
+{
+  "generated_at": "2026-07-20T20:06:09Z",
+  "editorial_release": "sarathi-intelligence-v0.5.0",
+  "product_release": "v0.7.0-product-alpha",
+  "evaluations": [
+    {
+      "response_id": "afca3d9a-08e7-47b9-9b80-58b87d350346",
+      "intent": "guidance",
+      "family": "karma_yoga_foundations",
+      "response_level": "L1",
+      "journey_used": true,
+      "retrieval_confidence": 0.9375,
+      "editorial_score": {
+        "fidelity": 1.0,
+        "clarity": 0.9,
+        "practicality": 0.95,
+        "progressive_disclosure": 0.9,
+        "sarathi_voice": 1.0,
+        "misconception_handling": 0.85,
+        "mean": 0.9333
+      },
+      "conversation_score": {
+        "response_length_ok": 1.0,
+        "followup_discipline": 0.95,
+        "journey_offer_appropriate": 0.95,
+        "depth_respected": 1.0,
+        "notes": [],
+        "mean": 0.975
+      },
+      "safety_score": {
+        "passed": true,
+        "score": 1.0,
+        "violations": []
+      },
+      "overall_score": 0.9577,
+      "retrieval_diagnostics": {
+        "approved_family_used": true,
+        "anchor": true,
+        "core": false,
+        "fallback": false,
+        "confidence": 95.0,
+        "normalized_confidence": 0.9375,
+        "family_id": "karma_yoga_foundations",
+        "verse_ids": [
+          "bg_2_47",
+          "bg_2_48",
+          "bg_2_50",
+          "bg_2_49",
+          "bg_6_6"
+        ],
+        "alternatives_considered": [
+          "bg_2_48",
+          "bg_2_50",
+          "bg_2_49",
+          "bg_6_6"
+        ]
+      },
+      "notes": [
+        "anchor_family_selected",
+        "journey_offered"
+      ]
+    },
+    {
+      "response_id": "79a33afa-e6e1-4180-a3a7-c71191e07d85",
+      "intent": "comparison",
+      "family": "self_mastery",
+      "response_level": "L1",
+      "journey_used": true,
+      "retrieval_confidence": 1.0,
+      "editorial_score": {
+        "fidelity": 1.0,
+        "clarity": 0.9,
+        "practicality": 0.95,
+        "progressive_disclosure": 0.9,
+        "sarathi_voice": 1.0,
+        "misconception_handling": 0.85,
+        "mean": 0.9333
+      },
+      "conversation_score": {
+        "response_length_ok": 1.0,
+        "followup_discipline": 0.95,
+        "journey_offer_appropriate": 0.95,
+        "depth_respected": 1.0,
+        "notes": [],
+        "mean": 0.975
+      },
+      "safety_score": {
+        "passed": true,
+        "score": 1.0,
+        "violations": []
+      },
+      "overall_score": 0.9671,
+      "retrieval_diagnostics": {
+        "approved_family_used": true,
+        "anchor": true,
+        "core": false,
+        "fallback": false,
+        "confidence": 102.0,
+        "normalized_confidence": 1.0,
+        "family_id": "self_mastery",
+        "verse_ids": [
+          "bg_6_5",
+          "bg_6_7",
+          "bg_6_6",
+          "bg_6_9",
+          "bg_6_8"
+        ],
+        "alternatives_considered": [
+          "bg_6_7",
+          "bg_6_6",
+          "bg_6_9",
+          "bg_6_8"
+        ]
+      },
+      "notes": [
+        "anchor_family_selected",
+        "journey_offered"
+      ]
+    },
+    {
+      "response_id": "537b50ab-a3c9-4c10-88eb-a4992a229d76",
+      "intent": "guidance",
+      "family": "devotional_character",
+      "response_level": "L1",
+      "journey_used": true,
+      "retrieval_confidence": 0.8625,
+      "editorial_score": {
+        "fidelity": 1.0,
+        "clarity": 0.9,
+        "practicality": 0.95,
+        "progressive_disclosure": 0.9,
+        "sarathi_voice": 1.0,
+        "misconception_handling": 0.85,
+        "mean": 0.9333
+      },
+      "conversation_score": {
+        "response_length_ok": 1.0,
+        "followup_discipline": 0.95,
+        "journey_offer_appropriate": 0.95,
+        "depth_respected": 1.0,
+        "notes": [],
+        "mean": 0.975
+      },
+      "safety_score": {
+        "passed": true,
+        "score": 1.0,
+        "violations": []
+      },
+      "overall_score": 0.9465,
+      "retrieval_diagnostics": {
+        "approved_family_used": true,
+        "anchor": true,
+        "core": false,
+        "fallback": false,
+        "confidence": 89.0,
+        "normalized_confidence": 0.8625,
+        "family_id": "devotional_character",
+        "verse_ids": [
+          "bg_12_17",
+          "bg_2_65",
+          "bg_2_47",
+          "bg_6_5",
+          "bg_6_6"
+        ],
+        "alternatives_considered": [
+          "bg_2_65",
+          "bg_2_47",
+          "bg_6_5",
+          "bg_6_6"
+        ]
+      },
+      "notes": [
+        "anchor_family_selected",
+        "journey_offered"
+      ]
+    },
+    {
+      "response_id": "e47116f8-fcc8-4471-9bd0-11e4699f51e6",
+      "intent": "guidance",
+      "family": "sthitaprajna",
+      "response_level": "L1",
+      "journey_used": true,
+      "retrieval_confidence": 1.0,
+      "editorial_score": {
+        "fidelity": 1.0,
+        "clarity": 0.9,
+        "practicality": 0.95,
+        "progressive_disclosure": 0.9,
+        "sarathi_voice": 1.0,
+        "misconception_handling": 0.85,
+        "mean": 0.9333
+      },
+      "conversation_score": {
+        "response_length_ok": 1.0,
+        "followup_discipline": 0.95,
+        "journey_offer_appropriate": 0.95,
+        "depth_respected": 1.0,
+        "notes": [],
+        "mean": 0.975
+      },
+      "safety_score": {
+        "passed": true,
+        "score": 1.0,
+        "violations": []
+      },
+      "overall_score": 0.9671,
+      "retrieval_diagnostics": {
+        "approved_family_used": true,
+        "anchor": true,
+        "core": false,
+        "fallback": false,
+        "confidence": 103.5,
+        "normalized_confidence": 1.0,
+        "family_id": "sthitaprajna",
+        "verse_ids": [
+          "bg_2_56",
+          "bg_2_57",
+          "bg_2_64",
+          "bg_2_72",
+          "bg_2_54"
+        ],
+        "alternatives_considered": [
+          "bg_2_57",
+          "bg_2_64",
+          "bg_2_72",
+          "bg_2_54"
+        ]
+      },
+      "notes": [
+        "anchor_family_selected",
+        "journey_offered"
+      ]
+    },
+    {
+      "response_id": "672a318f-9ddb-4f18-8eff-d378746263c5",
+      "intent": "guidance",
+      "family": "sthitaprajna",
+      "response_level": "L1",
+      "journey_used": true,
+      "retrieval_confidence": 1.0,
+      "editorial_score": {
+        "fidelity": 1.0,
+        "clarity": 0.9,
+        "practicality": 0.95,
+        "progressive_disclosure": 0.9,
+        "sarathi_voice": 1.0,
+        "misconception_handling": 0.85,
+        "mean": 0.9333
+      },
+      "conversation_score": {
+        "response_length_ok": 1.0,
+        "followup_discipline": 0.95,
+        "journey_offer_appropriate": 0.95,
+        "depth_respected": 1.0,
+        "notes": [],
+        "mean": 0.975
+      },
+      "safety_score": {
+        "passed": true,
+        "score": 1.0,
+        "violations": []
+      },
+      "overall_score": 0.9671,
+      "retrieval_diagnostics": {
+        "approved_family_used": true,
+        "anchor": true,
+        "core": false,
+        "fallback": false,
+        "confidence": 104.0,
+        "normalized_confidence": 1.0,
+        "family_id": "sthitaprajna",
+        "verse_ids": [
+          "bg_2_62",
+          "bg_2_63",
+          "bg_2_56",
+          "bg_2_57",
+          "bg_2_64"
+        ],
+        "alternatives_considered": [
+          "bg_2_63",
+          "bg_2_56",
+          "bg_2_57",
+          "bg_2_64"
+        ]
+      },
+      "notes": [
+        "anchor_family_selected",
+        "journey_offered"
+      ]
+    },
+    {
+      "response_id": "200fc067-3d09-4735-8519-f98096931c0f",
+      "intent": "guidance",
+      "family": "devotional_character",
+      "response_level": "L1",
+      "journey_used": true,
+      "retrieval_confidence": 1.0,
+      "editorial_score": {
+        "fidelity": 1.0,
+        "clarity": 0.9,
+        "practicality": 0.95,
+        "progressive_disclosure": 0.9,
+        "sarathi_voice": 1.0,
+        "misconception_handling": 0.85,
+        "mean": 0.9333
+      },
+      "conversation_score": {
+        "response_length_ok": 1.0,
+        "followup_discipline": 0.95,
+        "journey_offer_appropriate": 0.95,
+        "depth_respected": 1.0,
+        "notes": [],
+        "mean": 0.975
+      },
+      "safety_score": {
+        "passed": true,
+        "score": 1.0,
+        "violations": []
+      },
+      "overall_score": 0.9671,
+      "retrieval_diagnostics": {
+        "approved_family_used": true,
+        "anchor": true,
+        "core": false,
+        "fallback": false,
+        "confidence": 102.5,
+        "normalized_confidence": 1.0,
+        "family_id": "devotional_character",
+        "verse_ids": [
+          "bg_12_13",
+          "bg_6_5",
+          "bg_6_7",
+          "bg_6_9",
+          "bg_12_15"
+        ],
+        "alternatives_considered": [
+          "bg_6_5",
+          "bg_6_7",
+          "bg_6_9",
+          "bg_12_15"
+        ]
+      },
+      "notes": [
+        "anchor_family_selected",
+        "journey_offered"
+      ]
+    },
+    {
+      "response_id": "cd8e2e4a-b0d6-48a2-aed9-1365a0e4e259",
+      "intent": "guidance",
+      "family": "devotional_character",
+      "response_level": "L1",
+      "journey_used": true,
+      "retrieval_confidence": 0.9875,
+      "editorial_score": {
+        "fidelity": 1.0,
+        "clarity": 0.9,
+        "practicality": 0.95,
+        "progressive_disclosure": 0.9,
+        "sarathi_voice": 1.0,
+        "misconception_handling": 0.85,
+        "mean": 0.9333
+      },
+      "conversation_score": {
+        "response_length_ok": 1.0,
+        "followup_discipline": 0.95,
+        "journey_offer_appropriate": 0.95,
+        "depth_respected": 1.0,
+        "notes": [],
+        "mean": 0.975
+      },
+      "safety_score": {
+        "passed": true,
+        "score": 1.0,
+        "violations": []
+      },
+      "overall_score": 0.9652,
+      "retrieval_diagnostics": {
+        "approved_family_used": true,
+        "anchor": true,
+        "core": false,
+        "fallback": false,
+        "confidence": 99.0,
+        "normalized_confidence": 0.9875,
+        "family_id": "devotional_character",
+        "verse_ids": [
+          "bg_12_15",
+          "bg_12_18",
+          "bg_2_47",
+          "bg_6_5",
+          "bg_6_6"
+        ],
+        "alternatives_considered": [
+          "bg_12_18",
+          "bg_2_47",
+          "bg_6_5",
+          "bg_6_6"
+        ]
+      },
+      "notes": [
+        "anchor_family_selected",
+        "journey_offered"
+      ]
+    },
+    {
+      "response_id": "f4fe36bb-45e4-4b59-9b1a-f3e61a509c1f",
+      "intent": "guidance",
+      "family": "devotional_character",
+      "response_level": "L1",
+      "journey_used": true,
+      "retrieval_confidence": 1.0,
+      "editorial_score": {
+        "fidelity": 1.0,
+        "clarity": 0.9,
+        "practicality": 0.95,
+        "progressive_disclosure": 0.9,
+        "sarathi_voice": 1.0,
+        "misconception_handling": 0.85,
+        "mean": 0.9333
+      },
+      "conversation_score": {
+        "response_length_ok": 1.0,
+        "followup_discipline": 0.95,
+        "journey_offer_appropriate": 0.95,
+        "depth_respected": 1.0,
+        "notes": [],
+        "mean": 0.975
+      },
+      "safety_score": {
+        "passed": true,
+        "score": 1.0,
+        "violations": []
+      },
+      "overall_score": 0.9671,
+      "retrieval_diagnostics": {
+        "approved_family_used": true,
+        "anchor": true,
+        "core": false,
+        "fallback": false,
+        "confidence": 102.5,
+        "normalized_confidence": 1.0,
+        "family_id": "devotional_character",
+        "verse_ids": [
+          "bg_12_13",
+          "bg_6_5",
+          "bg_6_7",
+          "bg_6_9",
+          "bg_12_15"
+        ],
+        "alternatives_considered": [
+          "bg_6_5",
+          "bg_6_7",
+          "bg_6_9",
+          "bg_12_15"
+        ]
+      },
+      "notes": [
+        "anchor_family_selected",
+        "journey_offered"
+      ]
+    }
+  ],
+  "benchmark": {
+    "golden_query_accuracy": 1.0,
+    "correct_family_selection": 1.0,
+    "journey_regressions": 0,
+    "conversation_l2_ok": true,
+    "verse_cases_ready": 7,
+    "family_cases_ready": 7,
+    "cases": [
+      {
+        "id": "exam_fear",
+        "ready": true,
+        "verse_ok": true,
+        "family_ok": true,
+        "family": "karma_yoga_foundations",
+        "top_verses": [
+          "bg_2_47",
+          "bg_2_48",
+          "bg_2_50"
+        ],
+        "overall_score": 0.9577
+      },
+      {
+        "id": "comparison",
+        "ready": true,
+        "verse_ok": true,
+        "family_ok": true,
+        "family": "self_mastery",
+        "top_verses": [
+          "bg_6_5",
+          "bg_6_7",
+          "bg_6_6"
+        ],
+        "overall_score": 0.9671
+      },
+      {
+        "id": "grief_loss",
+        "ready": false,
+        "verse_ok": false,
+        "family_ok": true,
+        "family": "devotional_character",
+        "top_verses": [
+          "bg_12_17",
+          "bg_2_65",
+          "bg_2_47"
+        ],
+        "overall_score": 0.9465
+      },
+      {
+        "id": "steady_wisdom",
+        "ready": true,
+        "verse_ok": true,
+        "family_ok": true,
+        "family": "sthitaprajna",
+        "top_verses": [
+          "bg_2_56",
+          "bg_2_57",
+          "bg_2_64"
+        ],
+        "overall_score": 0.9671
+      },
+      {
+        "id": "anger_spiral",
+        "ready": true,
+        "verse_ok": true,
+        "family_ok": true,
+        "family": "sthitaprajna",
+        "top_verses": [
+          "bg_2_62",
+          "bg_2_63",
+          "bg_2_56"
+        ],
+        "overall_score": 0.9671
+      },
+      {
+        "id": "become_kinder",
+        "ready": true,
+        "verse_ok": true,
+        "family_ok": true,
+        "family": "devotional_character",
+        "top_verses": [
+          "bg_12_13",
+          "bg_6_5",
+          "bg_6_7"
+        ],
+        "overall_score": 0.9671
+      },
+      {
+        "id": "reacting_to_criticism",
+        "ready": true,
+        "verse_ok": true,
+        "family_ok": true,
+        "family": "devotional_character",
+        "top_verses": [
+          "bg_12_15",
+          "bg_12_18",
+          "bg_2_47"
+        ],
+        "overall_score": 0.9652
+      },
+      {
+        "id": "holding_grudges",
+        "ready": true,
+        "verse_ok": true,
+        "family_ok": true,
+        "family": "devotional_character",
+        "top_verses": [
+          "bg_12_13",
+          "bg_6_5",
+          "bg_6_7"
+        ],
+        "overall_score": 0.9671
+      }
+    ]
+  },
+  "gates": [
+    {
+      "name": "golden_query_accuracy",
+      "passed": true,
+      "actual": 1.0,
+      "threshold": 0.95,
+      "detail": ""
+    },
+    {
+      "name": "correct_family_selection",
+      "passed": true,
+      "actual": 1.0,
+      "threshold": 0.95,
+      "detail": ""
+    },
+    {
+      "name": "safety_violations",
+      "passed": true,
+      "actual": 0,
+      "threshold": 0,
+      "detail": ""
+    },
+    {
+      "name": "journey_regression",
+      "passed": true,
+      "actual": 0,
+      "threshold": 0,
+      "detail": ""
+    },
+    {
+      "name": "editorial_score",
+      "passed": true,
+      "actual": 0.9333,
+      "threshold": 0.9,
+      "detail": ""
+    },
+    {
+      "name": "tests",
+      "passed": true,
+      "actual": true,
+      "threshold": true,
+      "detail": ""
+    }
+  ],
+  "release_blocked": false,
+  "summary": {
+    "evaluation_count": 8,
+    "avg_editorial_score": 0.9333,
+    "avg_overall_score": 0.9631,
+    "safety_failures": 0,
+    "journey_offers_or_uses": 8,
+    "golden_query_accuracy": 1.0,
+    "correct_family_selection": 1.0
+  }
+}

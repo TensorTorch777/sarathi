@@ -1,8 +1,8 @@
 {
   "name": "Sarathi Golden Retrieval Benchmark",
-  "version": "0.1.0-draft",
-  "status": "scaffold",
-  "description": "Objective retrieval cases. Expand as verses reach approved/locked. Used later to evaluate embeddings, rerankers, and prompts — not for chat runtime.",
+  "version": "0.2.0-eval",
+  "status": "active",
+  "description": "Golden cases for conversation engine evaluation (M3). Accuracy computed on cases whose depends_on_approved verses are approved.",
   "scoring": {
     "expected_confidence_default": 0.85,
     "pass_rule": "Top results should include the expected verses; order may vary unless rank_sensitive is true."
@@ -22,7 +22,8 @@
         "bg_2_47",
         "bg_2_48",
         "bg_6_5"
-      ]
+      ],
+      "expected_family": "karma_yoga_foundations"
     },
     {
       "id": "comparison",
@@ -38,7 +39,8 @@
         "bg_2_47",
         "bg_12_13",
         "bg_6_5"
-      ]
+      ],
+      "expected_family": "self_mastery"
     },
     {
       "id": "grief_loss",
@@ -70,7 +72,8 @@
         "bg_2_56",
         "bg_2_57",
         "bg_2_48"
-      ]
+      ],
+      "expected_family": "sthitaprajna"
     },
     {
       "id": "anger_spiral",
@@ -86,7 +89,8 @@
         "bg_2_62",
         "bg_2_63",
         "bg_2_64"
-      ]
+      ],
+      "expected_family": "sthitaprajna"
     },
     {
       "id": "become_kinder",
@@ -101,7 +105,8 @@
       "depends_on_approved": [
         "bg_12_13",
         "bg_12_15"
-      ]
+      ],
+      "expected_family": "devotional_character"
     },
     {
       "id": "reacting_to_criticism",
@@ -117,7 +122,8 @@
         "bg_12_15",
         "bg_12_18",
         "bg_12_19"
-      ]
+      ],
+      "expected_family": "devotional_character"
     },
     {
       "id": "holding_grudges",
@@ -131,7 +137,8 @@
       "notes": "Forgiveness / freedom from hatred.",
       "depends_on_approved": [
         "bg_12_13"
-      ]
+      ],
+      "expected_family": "devotional_character"
     }
   ]
 }

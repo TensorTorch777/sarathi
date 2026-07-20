@@ -49,3 +49,12 @@ data/corpus/**/sources/
 **/piper/
 *.onnx
 *.onnx.json
+
+# Local conversation debug dumps
+apps/api/debug/
+debug_response.json
+
+# Generated benchmark report copies (keep docs/TRUST_REPORT.md + public/trust)
+apps/api/reports/benchmark.html
+apps/api/reports/benchmark.json
+apps/api/reports/summary.md

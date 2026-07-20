@@ -1,6 +1,6 @@
 {
-  "version": "0.5.0",
-  "description": "Verse families group teachings that should be retrieved and taught together before jumping across the corpus. Anchor families are editorial exemplars for style and quality.",
+  "version": "0.5.1-wip",
+  "description": "Verse families group teachings retrieved and taught together. Tiers: anchor (editorial exemplars), core (high-priority teachings), supporting (remaining discourse).",
   "anchor_families": [
     "karma_yoga_foundations",
     "sthitaprajna",
@@ -33,7 +33,8 @@
         "Detachment does not mean laziness.",
         "Releasing attachment to results is not abandoning excellence or ethics."
       ],
-      "why_this_matters_today": "This family speaks to anyone under pressure to produce outcomes — careers, exams, ventures — and offers a way to act fully without being owned by results."
+      "why_this_matters_today": "This family speaks to anyone under pressure to produce outcomes — careers, exams, ventures — and offers a way to act fully without being owned by results.",
+      "tier": "anchor"
     },
     {
       "id": "sthitaprajna",
@@ -74,7 +75,8 @@
         "Steady wisdom is not emotional numbness.",
         "Sense restraint is not lifelong escape from ordinary life."
       ],
-      "why_this_matters_today": "This family answers the modern hunger for emotional steadiness: how to meet desire, praise, and loss without being overturned by them."
+      "why_this_matters_today": "This family answers the modern hunger for emotional steadiness: how to meet desire, praise, and loss without being overturned by them.",
+      "tier": "anchor"
     },
     {
       "id": "self_mastery",
@@ -109,7 +111,8 @@
         "discouragement",
         "lack_of_focus"
       ],
-      "why_this_matters_today": "This family meets everyday struggles with habits, attention, and self-control — training the mind as an ally rather than fighting yourself."
+      "why_this_matters_today": "This family meets everyday struggles with habits, attention, and self-control — training the mind as an ally rather than fighting yourself.",
+      "tier": "anchor"
     },
     {
       "id": "devotional_character",
@@ -142,7 +145,8 @@
         "These qualities are a path of practice, not a demand for instant perfection."
       ],
       "review_order": 1,
-      "why_this_matters_today": "This family addresses how spiritual practice becomes visible through everyday relationships, emotional steadiness, forgiveness, and compassion rather than external performance."
+      "why_this_matters_today": "This family addresses how spiritual practice becomes visible through everyday relationships, emotional steadiness, forgiveness, and compassion rather than external performance.",
+      "tier": "anchor"
     },
     {
       "id": "devotional_practice",
@@ -155,7 +159,7 @@
         "bg_12_11",
         "bg_12_12"
       ],
-      "status": "planned",
+      "status": "reviewed",
       "anchor_family": false,
       "theme": "Progressive paths: fixing the mind, practice, dedicated action, renunciation of fruits.",
       "primary_intents": [
@@ -164,12 +168,16 @@
         "seeking_encouragement",
         "seeking_detachment"
       ],
-      "overview": "This group offers a compassionate ladder of practice for different capacities — from steadying the mind, to repeated effort, to dedicated action, to releasing the fruits.",
+      "overview": "This group offers one of the Gita's most humane teachings: progressive practice. Rather than a single rigid standard, it meets seekers with a sequence of approachable paths — steadying the mind, cultivating practice, dedicating action, and relinquishing fruits — so sincere effort always has a doorway.",
       "family_misconceptions": [
-        "Lower rungs of practice are not failures; they are honest starting points.",
+        "Different practices are not signs of greater or lesser worth. These verses offer multiple entry points for sincere practice.",
+        "Lower rungs of the ladder are not failures; they are honest starting points.",
         "Renunciation of fruits is not abandonment of excellence."
       ],
-      "review_order": 2
+      "review_order": 2,
+      "tier": "core",
+      "why_this_matters_today": "This family comforts anyone who feels 'behind' spiritually: if focus fails, practice; if practice falters, dedicated work; if even that is hard, release the grip on outcomes — without shame.",
+      "editorial_principle": "Meet the seeker where they are; never turn progressive paths into a hierarchy of winners and losers."
     },
     {
       "id": "nature_of_worship",
@@ -197,7 +205,36 @@
         "Affirming one accessible path is not condemning all other sincere approaches.",
         "Difficulty of a path is not a measure of a person's worth."
       ],
-      "review_order": 3
+      "review_order": 3,
+      "tier": "core"
+    },
+    {
+      "id": "karma_yoga_chapter_3",
+      "name": "Karma Yoga in Depth (Chapter 3)",
+      "chapter": 3,
+      "verse_ids": [
+        "bg_3_8",
+        "bg_3_9",
+        "bg_3_19",
+        "bg_3_25",
+        "bg_3_30",
+        "bg_3_35"
+      ],
+      "status": "planned",
+      "tier": "core",
+      "anchor_family": false,
+      "theme": "Action, sacrifice, example, and duty — Karma Yoga beyond the Chapter 2 foundations.",
+      "primary_intents": [
+        "seeking_guidance",
+        "seeking_discipline",
+        "seeking_detachment",
+        "seeking_courage"
+      ],
+      "overview": "Deepens purposeful action: why work matters, how offering transforms action, and how duty can be lived without ego-capture.",
+      "family_misconceptions": [
+        "Action is not the opposite of spirituality.",
+        "Duty is not an excuse for harm or burnout without discernment."
+      ]
     },
     {
       "id": "surrender_closing",
@@ -219,7 +256,28 @@
         "seeking_courage",
         "seeking_forgiveness",
         "seeking_meaning"
-      ]
+      ],
+      "tier": "core"
     }
-  ]
+  ],
+  "tiers": {
+    "anchor": "Editorial exemplars that define Sarathi's voice and quality bar.",
+    "core": "High educational / pastoral value; prioritize after anchors.",
+    "supporting": "Remaining discourse; review after core coverage."
+  },
+  "roadmap": {
+    "anchor": [
+      "karma_yoga_foundations",
+      "sthitaprajna",
+      "self_mastery",
+      "devotional_character"
+    ],
+    "core_next": [
+      "devotional_practice",
+      "nature_of_worship",
+      "karma_yoga_chapter_3",
+      "surrender_closing"
+    ],
+    "note": "Roadmap driven by educational value, not chapter order."
+  }
 }

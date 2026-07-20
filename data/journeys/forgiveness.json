@@ -1,0 +1,37 @@
+{
+  "id": "forgiveness",
+  "title": "Forgiveness and Soft Regard",
+  "description": "From grudges and reactivity toward friendliness, composure, and equal regard — with safety boundaries intact.",
+  "entry_queries": [
+    "how do I stop holding grudges",
+    "I can't forgive",
+    "how do I become kinder",
+    "I'm bitter toward someone"
+  ],
+  "families": [
+    "devotional_character"
+  ],
+  "steps": [
+    {
+      "family": "devotional_character",
+      "verse": "bg_12_13",
+      "response_level": "L1",
+      "practice": "Choose one small act of goodwill toward someone with whom you have tension, when doing so is safe and appropriate.",
+      "reflection": "Where is hatred, possessiveness, or ego blocking my capacity to be a friend?"
+    },
+    {
+      "family": "devotional_character",
+      "verse": "bg_12_15",
+      "response_level": "L1",
+      "practice": "Before reacting to criticism or praise, pause one breath and ask: will my response add turbulence?",
+      "reflection": "Do I unsettle others more than I realize — and do I let others unsettle me more than I need to?"
+    },
+    {
+      "family": "devotional_character",
+      "verse": "bg_12_18",
+      "response_level": "L1",
+      "practice": "Treat one compliment and one criticism today with the same inner steadiness — learn from both, cling to neither.",
+      "reflection": "Whose praise or insult still gets to decide whether I feel whole?"
+    }
+  ]
+}

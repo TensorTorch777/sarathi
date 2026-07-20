@@ -1,14 +1,29 @@
 # Sarathi Editorial Guide
 
+**Version:** `1.0` (frozen with Intelligence v0.5.0)  
+**Status:** Stable editorial philosophy — prefer content growth over redefinition.
+
 This guide keeps **Sarathi Intelligence** consistent across all 700 verses.
 
 Authentic Scripture (Layer 1) is never rewritten here. We only curate guidance.
+
+### Change policy (v1.0+)
+
+| Change type | When allowed |
+|-------------|--------------|
+| **Patch** | Small wording clarifications that do not alter principles |
+| **Minor** | New optional fields or vocabulary that solve a demonstrated need |
+| **Major** | New editorial principles — only if a recurring problem appears across multiple families |
+
+Do **not** redefine philosophy casually while approving new families. Consistency across generations of approved verses is a product asset.
 
 Related docs:
 
 - `SOURCE_LICENSE.md` — provenance / rights
 - `SARATHI_VOICE.md` — voice rules (distinct from tone checklists)
 - `benchmarks/golden_queries.v0.json` — retrieval evaluation cases (when enough verses are approved)
+
+*Later (public-facing, optional): a short “Sarathi Editorial Principles” document for users — scripture vs. explanatory layer, examples, safety, interpretive plurality — once ~8–10 anchor/core families are approved.*
 
 ---
 
@@ -211,18 +226,28 @@ Review philosophical units as families whenever possible.
 
 **Anchor families** are the editorial exemplars every new family should match in style and quality.
 
-Current anchors (`anchor_family: true` in `verse_families.json`):
+Current anchors (`anchor_family: true` / `tier: "anchor"` in `verse_families.json`):
 
-1. Karma Yoga Foundations (BG 2.47–2.50)  
-2. Steady Wisdom / Sthitaprajña (BG 2.54–2.72)  
-3. Self Mastery (BG 6.5–6.10)  
-4. Devotional Character (BG 12.13–12.20)  
+1. Karma Yoga Foundations (BG 2.47–2.50) — purposeful action without attachment  
+2. Steady Wisdom / Sthitaprajña (BG 2.54–2.72) — inner stability amidst change  
+3. Self Mastery (BG 6.5–6.10) — train the mind with discipline and compassion  
+4. Devotional Character (BG 12.13–12.20) — spirituality through everyday conduct  
 
 When reviewing a new family, ask:
 
 > Does this meet the bar set by the anchor families — fidelity, voice, misconceptions, and practical clarity?
 
 Promote a family to anchor only after approval + second-pass confidence that it should define future style.
+
+### Family tiers (roadmap)
+
+| Tier | Role | Examples |
+|------|------|----------|
+| **Anchor** | Editorial exemplars; define voice | Four pillars above |
+| **Core** | High educational / pastoral value; next priorities | Devotional Practice, Nature of Worship, Ch.3 Karma Yoga depth, Ch.18 closing |
+| **Supporting** | Remaining discourse after core coverage | Later units |
+
+Roadmap is driven by **educational value**, not chapter order. See `verse_families.json` → `roadmap`.
 
 ### Family overview (required for approved families)
 

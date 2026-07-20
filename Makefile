@@ -12,6 +12,7 @@ help:
 	@echo "  make import-gita-supersite  Offline Layer-1 import (default: all chapters)"
 	@echo "  make import-gita-supersite-license  Print Supersite licensing notice"
 	@echo "  make generate-intelligence  Generate Sarathi Intelligence drafts (700)"
+	@echo "  make eval             Run M3 benchmarks + release gate + trust report"
 	@echo "  make review-cards SPEC=2.47-2.50  Render end-user review cards"
 	@echo "  make up               Start Docker Compose stack"
 	@echo "  make down             Stop Docker Compose stack"
@@ -84,6 +85,10 @@ generate-intelligence:
 SPEC ?= 2.47-2.50
 review-cards:
 	cd apps/api && poetry run python ../../scripts/corpus/render_review_cards.py "$(SPEC)"
+
+# M3 — evaluation / trust / release gate
+eval:
+	cd apps/api && poetry run python ../../scripts/evaluation/run_benchmarks.py
 
 pull-models:
 	# Prefer user-local Ollama on :11435 (Gemma 4 needs >= 0.20)

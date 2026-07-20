@@ -4,7 +4,7 @@
     "scripture": "bhagavad_gita",
     "chapter": 12,
     "chapter_title": "Bhakti Yoga — Devotion",
-    "version": "0.5.0",
+    "version": "0.5.1-wip",
     "status": "partial_approved",
     "authentic_corpus": "../bhagavad_gita.json",
     "editorial_workflow": [
@@ -400,276 +400,374 @@
     {
       "node_id": "bg_12_8",
       "citation": "BG 12.8",
-      "status": "generated",
-      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.8) inviting reflection on devotion, equanimity.",
-      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "status": "reviewed",
+      "summary": "Fix the mind on the Divine and place your understanding there — then you dwell in that presence; of this there is no doubt.",
+      "modern_interpretation": "This is the first offer of a compassionate ladder: steady attention and clear intention oriented toward what you revere. It is an invitation to wholehearted focus — not a demand that every seeker begin here, nor a claim that failing at it makes you lesser.",
       "topics": [
         "devotion",
-        "equanimity",
-        "compassion"
+        "mind",
+        "discipline",
+        "yoga"
       ],
       "emotions": [
+        "mental_restlessness",
+        "lack_of_focus",
         "anxiety",
-        "peace",
-        "grief"
+        "self_doubt"
       ],
       "life_domains": [
         "spiritual_practice",
-        "relationships",
-        "identity"
+        "identity",
+        "studies"
       ],
       "user_intents": [
+        "seeking_discipline",
         "seeking_peace",
-        "seeking_encouragement"
+        "seeking_guidance"
       ],
       "virtues": [
         "devotion",
-        "compassion",
-        "equanimity",
-        "patience"
+        "discipline",
+        "perseverance"
       ],
       "practice": [
-        "Sit with BG 12.8 for two minutes; note one feeling and one duty it clarifies."
+        "For five minutes today, return your attention once each time it wanders — without scolding yourself.",
+        "Name one intention you want your mind to serve; write it in one sentence."
       ],
-      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "reflection_question": "Where am I able to offer steady attention — and where do I need a gentler entry point?",
       "related_verses": [
-        "bg_12_6",
-        "bg_12_7",
         "bg_12_9",
-        "bg_12_10"
+        "bg_12_10",
+        "bg_6_26",
+        "bg_6_5"
       ],
       "confidence": {
-        "summary": 0.57,
-        "topics": 0.62,
-        "emotions": 0.54,
-        "overall": 0.62
+        "summary": 0.88,
+        "topics": 0.86,
+        "emotions": 0.85,
+        "overall": 0.87
       },
-      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: मय्येव मन आधत्स्व मयि बुद्धिं निवेशय। निवसिष्यसि मय्येव अत ऊ…. Requires human review before approved/locked.",
-      "reviewed_by": null,
+      "uncertainty_notes": "Devotional Practice unit (12.8–12.12) first editorial pass; second pass required before approved.",
+      "reviewed_by": "editorial_team",
       "approved_at": null,
-      "source_sanskrit_checksum": null,
       "authentic_node_id": "bg_12_8",
-      "review_notes": []
+      "review_notes": [
+        "First editorial pass 2026-07-21: Devotional Practice family (BG 12.8–12.12).",
+        "Preserved progressive-practice pedagogy: meet the seeker where they are; not a hierarchy of winners/losers.",
+        "12.12 framed as comparative efficacy toward peace, not ranking of persons.",
+        "Aligned to Editorial Guide v1.0 + four anchor families.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved."
+      ],
+      "misconceptions": [
+        "Fixing the mind is not forcing a blank mind; it is returning attention again and again.",
+        "This verse is an invitation, not a ranking of spiritual worth.",
+        "If steady focus feels impossible today, the next verses meet you where you are."
+      ],
+      "common_queries": [
+        "How do I keep my mind focused on what matters?",
+        "Why can't I concentrate even when I want to?",
+        "How do I start a spiritual practice if my mind is restless?"
+      ],
+      "verse_family": "devotional_practice"
     },
     {
       "node_id": "bg_12_9",
       "citation": "BG 12.9",
-      "status": "generated",
-      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.9) inviting reflection on devotion, equanimity.",
-      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "status": "reviewed",
+      "summary": "If you cannot fix the mind steadily, seek the Divine through practice — repeated effort that gradually trains attention.",
+      "modern_interpretation": "Here the Gita meets the seeker with mercy: if steadiness is not yet possible, practice itself is the path. Abhyāsa is patient repetition — meeting yourself where you are, not pretending you have already arrived.",
       "topics": [
         "devotion",
-        "equanimity",
-        "compassion",
-        "karma"
+        "discipline",
+        "yoga",
+        "mind"
       ],
       "emotions": [
-        "anxiety",
-        "peace",
-        "grief"
+        "discouragement",
+        "self_doubt",
+        "mental_restlessness",
+        "lack_of_focus"
       ],
       "life_domains": [
         "spiritual_practice",
-        "relationships",
-        "identity"
+        "studies",
+        "health"
       ],
       "user_intents": [
-        "seeking_peace",
-        "seeking_encouragement"
+        "seeking_discipline",
+        "seeking_encouragement",
+        "seeking_guidance"
       ],
       "virtues": [
-        "devotion",
-        "compassion",
-        "equanimity",
-        "patience"
+        "perseverance",
+        "discipline",
+        "patience",
+        "devotion"
       ],
       "practice": [
-        "Sit with BG 12.9 for two minutes; note one feeling and one duty it clarifies."
+        "Choose one small daily practice you can repeat for seven days — same time, same length — even if imperfect.",
+        "When you miss a day, resume without self-contempt; continuity matters more than streak pride."
       ],
-      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "reflection_question": "What honest practice can I sustain — even if steady focus is not yet mine?",
       "related_verses": [
-        "bg_12_7",
         "bg_12_8",
         "bg_12_10",
-        "bg_12_11"
+        "bg_6_35",
+        "bg_6_26"
       ],
       "confidence": {
-        "summary": 0.57,
-        "topics": 0.62,
-        "emotions": 0.54,
-        "overall": 0.62
+        "summary": 0.88,
+        "topics": 0.86,
+        "emotions": 0.85,
+        "overall": 0.87
       },
-      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम्। अभ्यासयोगेन ततो मा…. Requires human review before approved/locked.",
-      "reviewed_by": null,
+      "uncertainty_notes": "Devotional Practice unit (12.8–12.12) first editorial pass; second pass required before approved.",
+      "reviewed_by": "editorial_team",
       "approved_at": null,
-      "source_sanskrit_checksum": null,
       "authentic_node_id": "bg_12_9",
-      "review_notes": []
+      "review_notes": [
+        "First editorial pass 2026-07-21: Devotional Practice family (BG 12.8–12.12).",
+        "Preserved progressive-practice pedagogy: meet the seeker where they are; not a hierarchy of winners/losers.",
+        "12.12 framed as comparative efficacy toward peace, not ranking of persons.",
+        "Aligned to Editorial Guide v1.0 + four anchor families.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved."
+      ],
+      "misconceptions": [
+        "Needing practice instead of perfect steadiness is not failure; it is the teaching's next doorway.",
+        "Practice is not performance for others; it is training for your own attention.",
+        "Different practices are not signs of greater or lesser worth."
+      ],
+      "common_queries": [
+        "What if I can't meditate steadily yet?",
+        "How do I build a practice when I keep failing?",
+        "Is trying again every day enough?"
+      ],
+      "verse_family": "devotional_practice"
     },
     {
       "node_id": "bg_12_10",
       "citation": "BG 12.10",
-      "status": "generated",
-      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.10) inviting reflection on devotion, equanimity.",
-      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "status": "reviewed",
+      "summary": "If even practice feels beyond you, dedicate your actions — do your work as offering, and sincerity itself becomes the path.",
+      "modern_interpretation": "When formal practice is hard, living devotion can move into ordinary work: do what you must do, oriented toward service rather than self-display. This is not a demotion; it is another honest entry point for a sincere life.",
       "topics": [
         "devotion",
-        "equanimity",
-        "compassion",
-        "karma"
+        "karma",
+        "right_action",
+        "discipline"
       ],
       "emotions": [
-        "anxiety",
-        "peace",
-        "grief"
+        "overwhelm",
+        "discouragement",
+        "performance_pressure",
+        "anxiety"
       ],
       "life_domains": [
+        "career",
+        "family",
         "spiritual_practice",
-        "relationships",
-        "identity"
+        "leadership"
       ],
       "user_intents": [
-        "seeking_peace",
-        "seeking_encouragement"
+        "seeking_guidance",
+        "seeking_encouragement",
+        "seeking_discipline"
       ],
       "virtues": [
         "devotion",
-        "compassion",
-        "equanimity",
-        "patience"
+        "discipline",
+        "perseverance",
+        "humility"
       ],
       "practice": [
-        "Sit with BG 12.10 for two minutes; note one feeling and one duty it clarifies."
+        "Choose one necessary task today and do it as clean offering — full effort, less self-advertising.",
+        "Before starting work, silently ask: who or what is this for, beyond my image?"
       ],
-      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "reflection_question": "Can my ordinary duties become practice — without needing a perfect meditation seat first?",
       "related_verses": [
-        "bg_12_8",
         "bg_12_9",
         "bg_12_11",
-        "bg_12_12"
+        "bg_2_47",
+        "bg_3_19"
       ],
       "confidence": {
-        "summary": 0.57,
-        "topics": 0.62,
-        "emotions": 0.54,
-        "overall": 0.62
+        "summary": 0.88,
+        "topics": 0.86,
+        "emotions": 0.85,
+        "overall": 0.87
       },
-      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव। मदर्थमपि कर्माणि कुर्वन…. Requires human review before approved/locked.",
-      "reviewed_by": null,
+      "uncertainty_notes": "Devotional Practice unit (12.8–12.12) first editorial pass; second pass required before approved.",
+      "reviewed_by": "editorial_team",
       "approved_at": null,
-      "source_sanskrit_checksum": null,
       "authentic_node_id": "bg_12_10",
-      "review_notes": []
+      "review_notes": [
+        "First editorial pass 2026-07-21: Devotional Practice family (BG 12.8–12.12).",
+        "Preserved progressive-practice pedagogy: meet the seeker where they are; not a hierarchy of winners/losers.",
+        "12.12 framed as comparative efficacy toward peace, not ranking of persons.",
+        "Aligned to Editorial Guide v1.0 + four anchor families.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved."
+      ],
+      "misconceptions": [
+        "Dedicated action is not a lesser path for the spiritually weak; it is a valid doorway.",
+        "Working 'for the Divine' is not an excuse to neglect excellence or ethics.",
+        "This is not a demand to quit practice forever — only another way to begin sincerely."
+      ],
+      "common_queries": [
+        "What if I don't have time to meditate?",
+        "Can my daily work count as spiritual practice?",
+        "How do I make ordinary tasks more meaningful?"
+      ],
+      "verse_family": "devotional_practice"
     },
     {
       "node_id": "bg_12_11",
       "citation": "BG 12.11",
-      "status": "generated",
-      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.11) inviting reflection on devotion, equanimity.",
-      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "status": "reviewed",
+      "summary": "If even dedicated action feels beyond reach, take refuge in this yoga: with self-possession, relinquish attachment to the fruits of all actions.",
+      "modern_interpretation": "The ladder's next step is often the most accessible under pressure: do what you can, and release the outcome. This meets people who feel unable to sustain focus, formal practice, or lofty dedication — yet can still loosen the grip on results.",
       "topics": [
+        "detachment",
+        "karma",
         "devotion",
-        "equanimity",
-        "compassion",
-        "karma"
+        "right_action"
       ],
       "emotions": [
         "anxiety",
-        "peace",
-        "grief"
+        "fear_of_failure",
+        "performance_pressure",
+        "overwhelm"
       ],
       "life_domains": [
-        "spiritual_practice",
-        "relationships",
-        "identity"
+        "career",
+        "placements",
+        "business",
+        "spiritual_practice"
       ],
       "user_intents": [
+        "seeking_detachment",
         "seeking_peace",
         "seeking_encouragement"
       ],
       "virtues": [
-        "devotion",
-        "compassion",
-        "equanimity",
-        "patience"
+        "non_attachment",
+        "humility",
+        "patience",
+        "devotion"
       ],
       "practice": [
-        "Sit with BG 12.11 for two minutes; note one feeling and one duty it clarifies."
+        "Complete one effort fully today, then consciously postpone judging the result until the work is done.",
+        "When outcome-anxiety spikes, name it once — then return to the next honest step."
       ],
-      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "reflection_question": "Where am I able to release the fruit — even when I cannot yet steady the mind?",
       "related_verses": [
-        "bg_12_9",
         "bg_12_10",
         "bg_12_12",
-        "bg_12_13"
+        "bg_2_47",
+        "bg_2_48"
       ],
       "confidence": {
-        "summary": 0.57,
-        "topics": 0.62,
-        "emotions": 0.54,
-        "overall": 0.62
+        "summary": 0.88,
+        "topics": 0.86,
+        "emotions": 0.85,
+        "overall": 0.87
       },
-      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रितः। सर्वकर्मफलत्यागं ततः…. Requires human review before approved/locked.",
-      "reviewed_by": null,
+      "uncertainty_notes": "Devotional Practice unit (12.8–12.12) first editorial pass; second pass required before approved.",
+      "reviewed_by": "editorial_team",
       "approved_at": null,
-      "source_sanskrit_checksum": null,
       "authentic_node_id": "bg_12_11",
-      "review_notes": []
+      "review_notes": [
+        "First editorial pass 2026-07-21: Devotional Practice family (BG 12.8–12.12).",
+        "Preserved progressive-practice pedagogy: meet the seeker where they are; not a hierarchy of winners/losers.",
+        "12.12 framed as comparative efficacy toward peace, not ranking of persons.",
+        "Aligned to Editorial Guide v1.0 + four anchor families.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved."
+      ],
+      "misconceptions": [
+        "Relinquishing fruits is not laziness or indifference to quality.",
+        "This step is not a consolation prize; it is a profound practice offered with compassion.",
+        "Taking refuge here does not make you less worthy than someone who can meditate for hours."
+      ],
+      "common_queries": [
+        "How do I stop obsessing over outcomes?",
+        "What if I can't do any spiritual practice well?",
+        "How do I work hard without attaching my worth to results?"
+      ],
+      "verse_family": "devotional_practice"
     },
     {
       "node_id": "bg_12_12",
       "citation": "BG 12.12",
-      "status": "generated",
-      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.12) inviting reflection on devotion, equanimity.",
-      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "status": "reviewed",
+      "summary": "Knowledge surpasses mere mechanical practice; meditation surpasses knowledge; renouncing the fruits of action surpasses meditation — and from that renunciation, peace follows.",
+      "modern_interpretation": "Read with the ladder of 12.8–11: this verse compares methods by how directly they ripen into peace — not people by spiritual rank. Releasing fruit-obsession is praised because it quickly softens the anxiety that keeps the heart unsettled. It does not declare practitioners on other rungs as lesser beings.",
       "topics": [
+        "detachment",
+        "wisdom",
         "devotion",
-        "equanimity",
-        "compassion",
-        "karma"
+        "peace",
+        "renunciation"
       ],
       "emotions": [
         "anxiety",
+        "restlessness",
         "peace",
-        "grief"
+        "discouragement"
       ],
       "life_domains": [
         "spiritual_practice",
-        "relationships",
+        "career",
         "identity"
       ],
       "user_intents": [
         "seeking_peace",
-        "seeking_encouragement"
+        "seeking_detachment",
+        "seeking_meaning"
       ],
       "virtues": [
-        "devotion",
-        "compassion",
+        "non_attachment",
+        "wisdom",
         "equanimity",
-        "patience"
+        "devotion"
       ],
       "practice": [
-        "Sit with BG 12.12 for two minutes; note one feeling and one duty it clarifies."
+        "Notice one place where more information or more technique has not brought peace — then practice releasing one outcome.",
+        "Ask: am I collecting methods, or am I loosening the grip that disturbs me?"
       ],
-      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "reflection_question": "Where have I confused collecting practices with finding peace?",
       "related_verses": [
-        "bg_12_10",
         "bg_12_11",
-        "bg_12_13",
-        "bg_12_14"
+        "bg_12_8",
+        "bg_2_49",
+        "bg_2_71"
       ],
       "confidence": {
-        "summary": 0.57,
-        "topics": 0.62,
-        "emotions": 0.54,
-        "overall": 0.62
+        "summary": 0.88,
+        "topics": 0.86,
+        "emotions": 0.85,
+        "overall": 0.87
       },
-      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते। ध्यानात्कर…. Requires human review before approved/locked.",
-      "reviewed_by": null,
+      "uncertainty_notes": "Devotional Practice unit (12.8–12.12) first editorial pass; second pass required before approved.",
+      "reviewed_by": "editorial_team",
       "approved_at": null,
-      "source_sanskrit_checksum": null,
       "authentic_node_id": "bg_12_12",
-      "review_notes": []
+      "review_notes": [
+        "First editorial pass 2026-07-21: Devotional Practice family (BG 12.8–12.12).",
+        "Preserved progressive-practice pedagogy: meet the seeker where they are; not a hierarchy of winners/losers.",
+        "12.12 framed as comparative efficacy toward peace, not ranking of persons.",
+        "Aligned to Editorial Guide v1.0 + four anchor families.",
+        "Marked reviewed; awaiting second pass + approval checklist before approved."
+      ],
+      "misconceptions": [
+        "This ranking of methods is not a ranking of human worth.",
+        "Renunciation of fruits is not anti-knowledge or anti-meditation; it names what most directly yields peace.",
+        "Different practices are not signs of greater or lesser worth — they are multiple entry points for sincere practice."
+      ],
+      "common_queries": [
+        "Why does letting go of results bring more peace than more techniques?",
+        "Is meditation better than just trying hard?",
+        "Am I doing the 'wrong' spiritual practice?"
+      ],
+      "verse_family": "devotional_practice"
     },
     {
       "node_id": "bg_12_13",

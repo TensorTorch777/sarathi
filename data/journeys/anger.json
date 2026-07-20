@@ -1,0 +1,38 @@
+{
+  "id": "anger",
+  "title": "Working with Anger",
+  "description": "From the spiral of obsession and anger toward composure that does not add turbulence.",
+  "entry_queries": [
+    "I get angry and can't think",
+    "I keep losing my temper",
+    "how do I stop being so angry",
+    "rage when criticized"
+  ],
+  "families": [
+    "sthitaprajna",
+    "devotional_character"
+  ],
+  "steps": [
+    {
+      "family": "sthitaprajna",
+      "verse": "bg_2_62",
+      "response_level": "L1",
+      "practice": "When obsessing on a person, object, or outcome, name the chain: dwell → attach → crave → anger.",
+      "reflection": "What am I repeatedly dwelling on that is quietly building anger?"
+    },
+    {
+      "family": "sthitaprajna",
+      "verse": "bg_2_63",
+      "response_level": "L1",
+      "practice": "Use a cool-down: leave the room, drink water, write the angry sentence privately before speaking.",
+      "reflection": "Where has anger already started erasing my memory of what matters?"
+    },
+    {
+      "family": "devotional_character",
+      "verse": "bg_12_15",
+      "response_level": "L1",
+      "practice": "Before reacting to criticism or praise, pause one breath and ask: will my response add turbulence?",
+      "reflection": "Do I unsettle others more than I realize — and do I let others unsettle me more than I need to?"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "purpose",
+  "title": "Purpose in Action",
+  "description": "Clarity about why you act — skill in action, purpose beyond status, and release of fruit-obsession.",
+  "entry_queries": [
+    "I don't know my purpose",
+    "why am I doing this work",
+    "I feel lost about my path",
+    "what should I focus on"
+  ],
+  "families": [
+    "karma_yoga_foundations"
+  ],
+  "steps": [
+    {
+      "family": "karma_yoga_foundations",
+      "verse": "bg_2_47",
+      "response_level": "L1",
+      "practice": "Give your full attention to today's effort, and postpone judging success until the work is complete.",
+      "reflection": "Where am I attaching my happiness to the outcome — and calling it high standards?"
+    },
+    {
+      "family": "karma_yoga_foundations",
+      "verse": "bg_2_49",
+      "response_level": "L1",
+      "practice": "Write the purpose of your work beyond salary or status.",
+      "reflection": "Where has chasing reward made my work smaller than it could be?"
+    },
+    {
+      "family": "karma_yoga_foundations",
+      "verse": "bg_2_50",
+      "response_level": "L1",
+      "practice": "Choose one task and do it with full attention for twenty minutes.",
+      "reflection": "What would 'skill in action' look like in my hardest task this week?"
+    }
+  ]
+}

@@ -2,6 +2,24 @@
 
 Versioned separately from Authentic Scripture (`bhagavad_gita.json` v1.0.0, locked).
 
+## v0.5.1-wip — toward v0.6.0
+
+### Editorial governance
+
+- **Editorial Guide v1.0 frozen** (with Intelligence v0.5.0): prefer content growth over redefining philosophy.
+- Family tiers introduced: **anchor** / **core** / **supporting**.
+
+### In review
+
+- **Devotional Practice:** BG 12.8–12.12 (`reviewed`, core family)
+  - Progressive-practice pedagogy: meet the seeker where they are
+  - Family misconception: different practices ≠ greater/lesser worth
+
+### Next
+
+- Second pass → approve → Intelligence **v0.6.0**
+- Then Nature of Worship (12.1–12.7) · Chapter 3 Karma Yoga depth · Chapter 18 closing
+
 ## v0.5.0 — 2026-07-21
 
 ### Approved (+8; total 37 verses)

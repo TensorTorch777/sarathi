@@ -10,6 +10,7 @@ from app.api.v1.deps.auth import (
 )
 from app.api.v1.deps.use_cases import (
     CheckHealthUseCaseDep,
+    ConversationalAnswerUseCaseDep,
     GenerateAnswerUseCaseDep,
     GetCurrentUserUseCaseDep,
     LoginUserUseCaseDep,
@@ -23,6 +24,7 @@ from app.api.v1.deps.use_cases import (
 __all__ = [
     "AdminUserDep",
     "CheckHealthUseCaseDep",
+    "ConversationalAnswerUseCaseDep",
     "CurrentUserDep",
     "GenerateAnswerUseCaseDep",
     "GetCurrentUserUseCaseDep",

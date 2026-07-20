@@ -1,0 +1,39 @@
+{
+  "id": "comparison",
+  "title": "Comparison and Envy",
+  "description": "Leaving the habit of measuring yourself against others — toward self-effort and kinder regard.",
+  "entry_queries": [
+    "I keep comparing myself",
+    "everyone else is ahead of me",
+    "I'm jealous of others",
+    "why do I envy people"
+  ],
+  "families": [
+    "self_mastery",
+    "devotional_character",
+    "karma_yoga_foundations"
+  ],
+  "steps": [
+    {
+      "family": "self_mastery",
+      "verse": "bg_6_5",
+      "response_level": "L1",
+      "practice": "Interrupt one self-degrading habit today with one concrete uplifting replacement.",
+      "reflection": "In what way is my own mind currently acting as my enemy — and what would friendship with myself look like?"
+    },
+    {
+      "family": "devotional_character",
+      "verse": "bg_12_13",
+      "response_level": "L1",
+      "practice": "Choose one small act of goodwill toward someone with whom you have tension, when doing so is safe and appropriate.",
+      "reflection": "Where is hatred, possessiveness, or ego blocking my capacity to be a friend?"
+    },
+    {
+      "family": "karma_yoga_foundations",
+      "verse": "bg_2_47",
+      "response_level": "L1",
+      "practice": "Give your full attention to today's effort, and postpone judging success until the work is complete.",
+      "reflection": "Where am I attaching my happiness to the outcome — and calling it high standards?"
+    }
+  ]
+}

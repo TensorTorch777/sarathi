@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "product_release": "v0.6.0-product-alpha+journeys",
+  "description": "Curated wisdom journeys \u2014 approved editorial sequences only. No AI generation.",
+  "journeys": [
+    "anger",
+    "comparison",
+    "discipline",
+    "fear_of_failure",
+    "forgiveness",
+    "grief",
+    "purpose"
+  ]
+}

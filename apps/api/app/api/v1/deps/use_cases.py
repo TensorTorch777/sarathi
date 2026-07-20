@@ -13,7 +13,7 @@ from app.application.use_cases.auth import (
     RegisterUserUseCase,
     RequestPasswordResetUseCase,
 )
-from app.application.use_cases.answer import GenerateAnswerUseCase
+from app.application.use_cases.answer import ConversationalAnswerUseCase, GenerateAnswerUseCase
 from app.application.use_cases.health import CheckHealthUseCase
 from app.application.use_cases.retrieval import RetrieveVersesUseCase
 from app.core.di.providers import DbSessionDep, SettingsDep
@@ -83,8 +83,13 @@ async def get_generate_answer_use_case(
     session: DbSessionDep,
     settings: SettingsDep,
 ) -> GenerateAnswerUseCase:
-    """Build the full grounded answer pipeline use case."""
+    """Build the legacy LLM grounded answer pipeline use case."""
     return await build_generate_answer_use_case(session=session, settings=settings)
+
+
+async def get_conversational_answer_use_case() -> ConversationalAnswerUseCase:
+    """Build the v0.6.0-product-alpha conversation engine use case."""
+    return ConversationalAnswerUseCase()
 
 
 CheckHealthUseCaseDep = Annotated[CheckHealthUseCase, Depends(get_check_health_use_case)]
@@ -99,3 +104,7 @@ PasswordResetUseCaseDep = Annotated[
 ]
 RetrieveVersesUseCaseDep = Annotated[RetrieveVersesUseCase, Depends(get_retrieve_verses_use_case)]
 GenerateAnswerUseCaseDep = Annotated[GenerateAnswerUseCase, Depends(get_generate_answer_use_case)]
+ConversationalAnswerUseCaseDep = Annotated[
+    ConversationalAnswerUseCase,
+    Depends(get_conversational_answer_use_case),
+]

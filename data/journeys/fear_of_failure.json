@@ -1,0 +1,39 @@
+{
+  "id": "fear_of_failure",
+  "title": "Fear of Failure",
+  "description": "A short path from outcome-anxiety to steady effort and befriending the mind — without shame.",
+  "entry_queries": [
+    "I'm terrified I'll fail my exams",
+    "I'm scared of failing",
+    "What if I fail",
+    "fear of failure",
+    "performance anxiety about results"
+  ],
+  "families": [
+    "karma_yoga_foundations",
+    "self_mastery"
+  ],
+  "steps": [
+    {
+      "family": "karma_yoga_foundations",
+      "verse": "bg_2_47",
+      "response_level": "L1",
+      "practice": "Give your full attention to today's effort, and postpone judging success until the work is complete.",
+      "reflection": "Where am I attaching my happiness to the outcome — and calling it high standards?"
+    },
+    {
+      "family": "karma_yoga_foundations",
+      "verse": "bg_2_48",
+      "response_level": "L1",
+      "practice": "Before a result arrives, name one action still fully in your control.",
+      "reflection": "Can I stay kind and clear whether this attempt succeeds or fails?"
+    },
+    {
+      "family": "self_mastery",
+      "verse": "bg_6_5",
+      "response_level": "L1",
+      "practice": "Interrupt one self-degrading habit today with one concrete uplifting replacement.",
+      "reflection": "In what way is my own mind currently acting as my enemy — and what would friendship with myself look like?"
+    }
+  ]
+}
