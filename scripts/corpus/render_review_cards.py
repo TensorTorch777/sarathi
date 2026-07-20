@@ -65,13 +65,18 @@ def render_card(auth: dict, intel: dict) -> str:
     misconception_block = (
         "\n".join(f"- {m}" for m in misconceptions) if misconceptions else "- _(none)_"
     )
+    common_queries = intel.get("common_queries") or []
+    queries_block = (
+        "\n".join(f"- {q}" for q in common_queries) if common_queries else "- _(none yet)_"
+    )
     conf = intel.get("confidence") or {}
     overall = conf.get("overall", "—")
     sanskrit = (auth.get("sanskrit") or "").strip()
+    family = intel.get("verse_family") or "—"
 
     return f"""### {intel.get('citation') or auth.get('citation')}
 
-**Status:** `{intel.get('status')}` · **confidence:** {overall}
+**Status:** `{intel.get('status')}` · **family:** `{family}` · **confidence:** {overall}
 
 **Authentic Verse**
 {sanskrit}
@@ -97,6 +102,9 @@ def render_card(auth: dict, intel: dict) -> str:
 **Virtues**
 {virtues}
 
+**Common Queries** *(natural language people may type)*
+{queries_block}
+
 **Practice**
 {practice_block}
 
@@ -116,10 +124,12 @@ def render_card(auth: dict, intel: dict) -> str:
 | Check | Question |
 | --- | --- |
 | Fidelity | Does this stay faithful to the verse? |
+| Clarity | Understandable without prior Sanskrit training? |
 | Practicality | Is the advice useful without distorting the teaching? |
-| Retrieval | Would these tags help find this verse? |
-| Tone | Does it sound calm and compassionate? |
-| Boundaries | Does it avoid claiming things the verse doesn't say? |
+| Retrieval | Would tags + common_queries help find this verse? |
+| Misconceptions | Are common misreadings gently corrected? |
+| Tone | Does it sound calm and compassionate (Sarathi Voice)? |
+| Editorial | Consistent with anchor-family style? |
 
 ---
 """

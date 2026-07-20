@@ -2,7 +2,7 @@
   "manifest": {
     "name": "Sarathi Intelligence",
     "scripture": "bhagavad_gita",
-    "version": "0.4.0",
+    "version": "0.5.0",
     "status": "partial_approved",
     "enrichment_count": 700,
     "authentic_corpus": "../bhagavad_gita.json",
@@ -12,7 +12,7 @@
       "approved",
       "locked"
     ],
-    "approved_count": 29
+    "approved_count": 37
   },
   "enrichments": [
     {
@@ -26187,22 +26187,25 @@
     {
       "node_id": "bg_12_13",
       "citation": "BG 12.13",
-      "status": "generated",
-      "summary": "A devotee is free of hatred, friendly and compassionate, without possessiveness or ego, equal in pain and pleasure, forgiving.",
-      "modern_interpretation": "Devotion shows up as character: warmth without ownership, steadiness without hardness.",
+      "status": "approved",
+      "summary": "A devotee lives without hatred, with friendliness and compassion — free of possessiveness and ego, even-minded in pain and pleasure, and ready to forgive.",
+      "modern_interpretation": "Devotion here is visible in character, not performance. The teaching points toward warmth without ownership, and steadiness without hardness: less hatred, more friendliness, more compassion, less ego-clutching.",
       "topics": [
         "devotion",
         "compassion",
-        "equanimity"
+        "equanimity",
+        "mind"
       ],
       "emotions": [
         "anger",
-        "peace",
-        "grief"
+        "shame",
+        "loneliness",
+        "guilt"
       ],
       "life_domains": [
         "relationships",
         "family",
+        "leadership",
         "spiritual_practice"
       ],
       "user_intents": [
@@ -26217,417 +26220,658 @@
         "equanimity"
       ],
       "practice": [
-        "Choose one relationship; practice friendliness without needing to win."
+        "Choose one small act of goodwill toward someone with whom you have tension, when doing so is safe and appropriate.",
+        "When ego flares, name the feeling once — then choose a kinder next sentence."
       ],
-      "reflection_question": "Where is possessiveness or ego blocking my capacity to be a friend?",
+      "reflection_question": "Where is hatred, possessiveness, or ego blocking my capacity to be a friend?",
       "related_verses": [
         "bg_12_14",
         "bg_12_15",
-        "bg_2_56"
+        "bg_2_56",
+        "bg_6_9"
       ],
       "confidence": {
-        "summary": 0.9,
-        "topics": 0.85,
-        "emotions": 0.8,
-        "overall": 0.9
+        "summary": 0.94,
+        "topics": 0.92,
+        "emotions": 0.91,
+        "overall": 0.93
       },
-      "uncertainty_notes": "High-priority verse override — still requires human review before approval.",
-      "reviewed_by": null,
-      "approved_at": null,
+      "uncertainty_notes": null,
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-20T19:47:13Z",
       "authentic_node_id": "bg_12_13",
-      "review_notes": [],
-      "misconceptions": [],
-      "verse_family": "qualities_of_devotee"
+      "review_notes": [
+        "First editorial pass 2026-07-21: Devotional Character family (BG 12.13–12.20).",
+        "Aligned to Sarathi Voice + anchor-family style (Karma Yoga / Sthitaprajña / Self Mastery).",
+        "Added common_queries for retrieval/UX bridge.",
+        "Second pass 2026-07-21: refine practice/safety wording; simplify identity-project language; reinforce path-vs-prerequisite theme.",
+        "Approved against 7-criterion checklist + Sarathi Voice; promoted as fourth anchor family."
+      ],
+      "misconceptions": [
+        "Compassion is not people-pleasing; it is goodwill without self-erasure.",
+        "Freedom from hatred is not approving harm; it is refusing to let hostility own your heart.",
+        "Forgiveness is not a demand to stay in unsafe situations."
+      ],
+      "common_queries": [
+        "How do I become kinder?",
+        "Why do I get irritated so easily?",
+        "How do I stop holding grudges?",
+        "How can I become less angry?"
+      ],
+      "verse_family": "devotional_character",
+      "response_levels": {
+        "level_1": "A devotee lives without hatred, with friendliness and compassion — free of possessiveness and ego, even-minded in pain and pleasure, and ready to forgive.",
+        "level_2": "Devotion here is visible in character, not performance. The teaching points toward warmth without ownership, and steadiness without hardness: less hatred, more friendliness, more compassion, less ego-clutching.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "common_queries",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      }
     },
     {
       "node_id": "bg_12_14",
       "citation": "BG 12.14",
-      "status": "generated",
-      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.14) inviting reflection on devotion, equanimity.",
-      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "status": "approved",
+      "summary": "Dear to the Divine is the devotee who stays content, self-restrained, firmly resolved, and offers mind and understanding in devotion.",
+      "modern_interpretation": "This continues the portrait from 12.13: devotion matures as steady contentment and firm resolve — not restless spiritual ambition. Offering the mind means returning attention to what you revere, again and again.",
       "topics": [
         "devotion",
-        "equanimity",
-        "compassion",
-        "karma"
+        "discipline",
+        "mind",
+        "equanimity"
       ],
       "emotions": [
         "anxiety",
-        "peace",
-        "grief"
+        "restlessness",
+        "self_doubt",
+        "discouragement"
       ],
       "life_domains": [
         "spiritual_practice",
-        "relationships",
-        "identity"
+        "identity",
+        "career",
+        "relationships"
       ],
       "user_intents": [
+        "seeking_discipline",
         "seeking_peace",
         "seeking_encouragement"
       ],
       "virtues": [
         "devotion",
-        "compassion",
-        "equanimity",
+        "discipline",
+        "perseverance",
         "patience"
       ],
       "practice": [
-        "Sit with BG 12.14 for two minutes; note one feeling and one duty it clarifies."
+        "Once today, choose contentment over comparison — name one thing that is enough for now.",
+        "Return your attention to one sincere intention three times when the mind wanders."
       ],
-      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "reflection_question": "Where am I restless for more, when steady devotion asks for firm, quiet resolve?",
       "related_verses": [
-        "bg_12_12",
         "bg_12_13",
         "bg_12_15",
-        "bg_12_16"
+        "bg_6_5",
+        "bg_2_48"
       ],
       "confidence": {
-        "summary": 0.57,
-        "topics": 0.62,
-        "emotions": 0.54,
-        "overall": 0.62
+        "summary": 0.94,
+        "topics": 0.92,
+        "emotions": 0.91,
+        "overall": 0.93
       },
-      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः। मय्यर्पितमनोबुद्धिर्…. Requires human review before approved/locked.",
-      "reviewed_by": null,
-      "approved_at": null,
-      "source_sanskrit_checksum": null,
+      "uncertainty_notes": null,
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-20T19:47:13Z",
       "authentic_node_id": "bg_12_14",
-      "review_notes": [],
-      "misconceptions": [],
-      "verse_family": "qualities_of_devotee"
+      "review_notes": [
+        "First editorial pass 2026-07-21: Devotional Character family (BG 12.13–12.20).",
+        "Aligned to Sarathi Voice + anchor-family style (Karma Yoga / Sthitaprajña / Self Mastery).",
+        "Added common_queries for retrieval/UX bridge.",
+        "Second pass 2026-07-21: refine practice/safety wording; simplify identity-project language; reinforce path-vs-prerequisite theme.",
+        "Approved against 7-criterion checklist + Sarathi Voice; promoted as fourth anchor family."
+      ],
+      "misconceptions": [
+        "Devotion is not measured by constant emotional intensity.",
+        "Contentment is not complacency; it is freedom from frantic grasping.",
+        "Firm resolve is not rigid control of others; it is steady self-direction."
+      ],
+      "common_queries": [
+        "How do I stay consistent in my practice?",
+        "Why can't I feel content with what I have?",
+        "How do I stop comparing myself to others spiritually?"
+      ],
+      "verse_family": "devotional_character",
+      "response_levels": {
+        "level_1": "Dear to the Divine is the devotee who stays content, self-restrained, firmly resolved, and offers mind and understanding in devotion.",
+        "level_2": "This continues the portrait from 12.13: devotion matures as steady contentment and firm resolve — not restless spiritual ambition. Offering the mind means returning attention to what you revere, again and again.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "common_queries",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      }
     },
     {
       "node_id": "bg_12_15",
       "citation": "BG 12.15",
-      "status": "generated",
-      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.15) inviting reflection on devotion, equanimity.",
-      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "status": "approved",
+      "summary": "Dear is the one who neither agitates the world nor is agitated by it — free from elation, envy, fear, and restless disturbance.",
+      "modern_interpretation": "This is relational peace: you stop being a source of unnecessary turbulence, and you stop letting every mood of the world yank your center. Freedom from fear and envy here is composure, not emotional numbness.",
       "topics": [
-        "devotion",
         "equanimity",
-        "compassion"
+        "devotion",
+        "compassion",
+        "mind"
       ],
       "emotions": [
         "anxiety",
-        "peace",
-        "grief"
+        "fear",
+        "anger",
+        "performance_pressure"
       ],
       "life_domains": [
-        "spiritual_practice",
         "relationships",
-        "identity"
+        "family",
+        "leadership",
+        "career"
       ],
       "user_intents": [
         "seeking_peace",
-        "seeking_encouragement"
+        "seeking_discipline",
+        "seeking_courage"
       ],
       "virtues": [
-        "devotion",
-        "compassion",
         "equanimity",
-        "patience"
+        "patience",
+        "compassion",
+        "self_control"
       ],
       "practice": [
-        "Sit with BG 12.15 for two minutes; note one feeling and one duty it clarifies."
+        "Before reacting to criticism or praise, pause one breath and ask: will my response add turbulence?",
+        "Notice one moment of envy today; replace the spiral with one concrete generous wish."
       ],
-      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "reflection_question": "Do I unsettle others more than I realize — and do I let others unsettle me more than I need to?",
       "related_verses": [
         "bg_12_13",
         "bg_12_14",
         "bg_12_16",
-        "bg_12_17"
+        "bg_2_56"
       ],
       "confidence": {
-        "summary": 0.57,
-        "topics": 0.62,
-        "emotions": 0.54,
-        "overall": 0.62
+        "summary": 0.94,
+        "topics": 0.92,
+        "emotions": 0.91,
+        "overall": 0.93
       },
-      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः। हर्षामर्षभयोद्वे…. Requires human review before approved/locked.",
-      "reviewed_by": null,
-      "approved_at": null,
-      "source_sanskrit_checksum": null,
+      "uncertainty_notes": null,
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-20T19:47:13Z",
       "authentic_node_id": "bg_12_15",
-      "review_notes": [],
-      "misconceptions": [],
-      "verse_family": "qualities_of_devotee"
+      "review_notes": [
+        "First editorial pass 2026-07-21: Devotional Character family (BG 12.13–12.20).",
+        "Aligned to Sarathi Voice + anchor-family style (Karma Yoga / Sthitaprajña / Self Mastery).",
+        "Added common_queries for retrieval/UX bridge.",
+        "Second pass 2026-07-21: refine practice/safety wording; simplify identity-project language; reinforce path-vs-prerequisite theme.",
+        "Approved against 7-criterion checklist + Sarathi Voice; promoted as fourth anchor family."
+      ],
+      "misconceptions": [
+        "Not agitating the world is not becoming invisible or passive; it is refusing needless harm.",
+        "Freedom from fear and envy is not emotional numbness.",
+        "This does not require remaining in abusive relationships to appear peaceful."
+      ],
+      "common_queries": [
+        "How do I stop reacting to criticism?",
+        "How do I stop being so easily triggered by people?",
+        "Why do other people's moods control mine?"
+      ],
+      "verse_family": "devotional_character",
+      "response_levels": {
+        "level_1": "Dear is the one who neither agitates the world nor is agitated by it — free from elation, envy, fear, and restless disturbance.",
+        "level_2": "This is relational peace: you stop being a source of unnecessary turbulence, and you stop letting every mood of the world yank your center. Freedom from fear and envy here is composure, not emotional numbness.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "common_queries",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      }
     },
     {
       "node_id": "bg_12_16",
       "citation": "BG 12.16",
-      "status": "generated",
-      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.16) inviting reflection on devotion, equanimity.",
-      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "status": "approved",
+      "summary": "Dear is the devotee who is independent of craving, inwardly clean, capable, even-tempered, free of distress, and not driven by constantly trying to prove who you are through restless new starts.",
+      "modern_interpretation": "Purity and capability belong together here: devotion is not helplessness. 'Renouncing undertakings' points away from compulsive self-image projects — constantly trying to prove who you are — not away from responsible work.",
       "topics": [
         "devotion",
-        "equanimity",
-        "compassion"
+        "detachment",
+        "discipline",
+        "right_action"
       ],
       "emotions": [
         "anxiety",
-        "peace",
-        "grief"
+        "overwhelm",
+        "performance_pressure",
+        "restlessness"
       ],
       "life_domains": [
+        "career",
+        "business",
         "spiritual_practice",
-        "relationships",
         "identity"
       ],
       "user_intents": [
-        "seeking_peace",
-        "seeking_encouragement"
+        "seeking_detachment",
+        "seeking_discipline",
+        "seeking_peace"
       ],
       "virtues": [
-        "devotion",
-        "compassion",
-        "equanimity",
-        "patience"
+        "non_attachment",
+        "discipline",
+        "honesty",
+        "equanimity"
       ],
       "practice": [
-        "Sit with BG 12.16 for two minutes; note one feeling and one duty it clarifies."
+        "Audit one restless project: is it service, or is it feeding anxiety and identity?",
+        "Do one necessary task cleanly today without adding drama."
       ],
-      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "reflection_question": "Which of my starts are true duty — and which are restless attempts to prove myself?",
       "related_verses": [
-        "bg_12_14",
         "bg_12_15",
         "bg_12_17",
-        "bg_12_18"
+        "bg_2_47",
+        "bg_2_49"
       ],
       "confidence": {
-        "summary": 0.57,
-        "topics": 0.62,
-        "emotions": 0.54,
-        "overall": 0.62
+        "summary": 0.94,
+        "topics": 0.92,
+        "emotions": 0.91,
+        "overall": 0.93
       },
-      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: अनपेक्षः शुचिर्दक्ष उदासीनो गतव्यथः। सर्वारम्भपरित्यागी यो म…. Requires human review before approved/locked.",
-      "reviewed_by": null,
-      "approved_at": null,
-      "source_sanskrit_checksum": null,
+      "uncertainty_notes": null,
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-20T19:47:13Z",
       "authentic_node_id": "bg_12_16",
-      "review_notes": [],
-      "misconceptions": [],
-      "verse_family": "qualities_of_devotee"
+      "review_notes": [
+        "First editorial pass 2026-07-21: Devotional Character family (BG 12.13–12.20).",
+        "Aligned to Sarathi Voice + anchor-family style (Karma Yoga / Sthitaprajña / Self Mastery).",
+        "Added common_queries for retrieval/UX bridge.",
+        "Second pass 2026-07-21: refine practice/safety wording; simplify identity-project language; reinforce path-vs-prerequisite theme.",
+        "Approved against 7-criterion checklist + Sarathi Voice; promoted as fourth anchor family."
+      ],
+      "misconceptions": [
+        "Renouncing undertakings is not laziness or abandoning duty; it is dropping compulsive self-image projects.",
+        "Independence from craving is not cold withdrawal from people.",
+        "Capability is part of devotion; helplessness is not holiness."
+      ],
+      "common_queries": [
+        "Why do I keep starting things and never feel settled?",
+        "How do I work hard without being restless?",
+        "How do I stop needing constant new projects to feel worthy?"
+      ],
+      "verse_family": "devotional_character",
+      "response_levels": {
+        "level_1": "Dear is the devotee who is independent of craving, inwardly clean, capable, even-tempered, free of distress, and not driven by constantly trying to prove who you are through restless new starts.",
+        "level_2": "Purity and capability belong together here: devotion is not helplessness. 'Renouncing undertakings' points away from compulsive self-image projects — constantly trying to prove who you are — not away from responsible work.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "common_queries",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      }
     },
     {
       "node_id": "bg_12_17",
       "citation": "BG 12.17",
-      "status": "generated",
-      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.17) inviting reflection on devotion, equanimity.",
-      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "status": "approved",
+      "summary": "Dear is the devotee who neither rejoices nor hates, neither grieves nor craves — and who can release clinging to good and bad outcomes.",
+      "modern_interpretation": "This is emotional freedom without emotional erasure. Joy and grief still arise; the teaching points to not being owned by them. Results are not a verdict on your worth.",
       "topics": [
-        "devotion",
         "equanimity",
-        "compassion"
+        "detachment",
+        "devotion",
+        "desire"
       ],
       "emotions": [
+        "grief",
         "anxiety",
-        "peace",
-        "grief"
+        "anger",
+        "fear_of_failure"
       ],
       "life_domains": [
-        "spiritual_practice",
         "relationships",
-        "identity"
+        "career",
+        "grief_loss",
+        "spiritual_practice"
       ],
       "user_intents": [
         "seeking_peace",
-        "seeking_encouragement"
+        "seeking_detachment",
+        "seeking_forgiveness"
       ],
       "virtues": [
-        "devotion",
-        "compassion",
         "equanimity",
-        "patience"
+        "non_attachment",
+        "patience",
+        "devotion"
       ],
       "practice": [
-        "Sit with BG 12.17 for two minutes; note one feeling and one duty it clarifies."
+        "When good news or bad news hits, name the feeling — then take one steady next action without amplifying it.",
+        "Release one outcome tonight that you have been clutching as a measure of your worth."
       ],
-      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "reflection_question": "Which outcomes am I still using as proof that I am worthy — or unworthy?",
       "related_verses": [
-        "bg_12_15",
         "bg_12_16",
         "bg_12_18",
-        "bg_12_19"
+        "bg_2_57",
+        "bg_2_71"
       ],
       "confidence": {
-        "summary": 0.57,
-        "topics": 0.62,
-        "emotions": 0.54,
-        "overall": 0.62
+        "summary": 0.94,
+        "topics": 0.92,
+        "emotions": 0.91,
+        "overall": 0.93
       },
-      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति। शुभाशुभपरित्याग…. Requires human review before approved/locked.",
-      "reviewed_by": null,
-      "approved_at": null,
-      "source_sanskrit_checksum": null,
+      "uncertainty_notes": null,
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-20T19:47:13Z",
       "authentic_node_id": "bg_12_17",
-      "review_notes": [],
-      "misconceptions": [],
-      "verse_family": "qualities_of_devotee"
+      "review_notes": [
+        "First editorial pass 2026-07-21: Devotional Character family (BG 12.13–12.20).",
+        "Aligned to Sarathi Voice + anchor-family style (Karma Yoga / Sthitaprajña / Self Mastery).",
+        "Added common_queries for retrieval/UX bridge.",
+        "Second pass 2026-07-21: refine practice/safety wording; simplify identity-project language; reinforce path-vs-prerequisite theme.",
+        "Approved against 7-criterion checklist + Sarathi Voice; promoted as fourth anchor family."
+      ],
+      "misconceptions": [
+        "Not rejoicing and not grieving does not mean becoming emotionally numb.",
+        "Renouncing good and bad is not moral indifference; it is release from outcome-obsession.",
+        "This is not a ban on healthy celebration or honest mourning."
+      ],
+      "common_queries": [
+        "How do I stop riding emotional highs and lows?",
+        "How do I care without clinging?",
+        "How do I stop making every result about my worth?"
+      ],
+      "verse_family": "devotional_character",
+      "response_levels": {
+        "level_1": "Dear is the devotee who neither rejoices nor hates, neither grieves nor craves — and who can release clinging to good and bad outcomes.",
+        "level_2": "This is emotional freedom without emotional erasure. Joy and grief still arise; the teaching points to not being owned by them. Results are not a verdict on your worth.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "common_queries",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      }
     },
     {
       "node_id": "bg_12_18",
       "citation": "BG 12.18",
-      "status": "generated",
-      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.18) inviting reflection on devotion, equanimity.",
-      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "status": "approved",
+      "summary": "Equal toward friend and foe, honor and dishonor, heat and cold, pleasure and pain — free from compulsive clinging.",
+      "modern_interpretation": "Equal regard here protects your center when relationships and status swing. It does not erase discernment about trust, safety, or wise boundaries; it refuses to let praise and insult own you.",
       "topics": [
-        "devotion",
         "equanimity",
-        "compassion"
+        "devotion",
+        "detachment",
+        "wisdom"
       ],
       "emotions": [
+        "shame",
+        "anger",
         "anxiety",
-        "peace",
-        "grief"
+        "performance_pressure"
       ],
       "life_domains": [
-        "spiritual_practice",
         "relationships",
-        "identity"
+        "leadership",
+        "career",
+        "family"
       ],
       "user_intents": [
         "seeking_peace",
-        "seeking_encouragement"
+        "seeking_courage",
+        "seeking_detachment"
       ],
       "virtues": [
-        "devotion",
-        "compassion",
         "equanimity",
-        "patience"
+        "non_attachment",
+        "patience",
+        "wisdom"
       ],
       "practice": [
-        "Sit with BG 12.18 for two minutes; note one feeling and one duty it clarifies."
+        "Treat one compliment and one criticism today with the same inner steadiness — learn from both, cling to neither.",
+        "When someone feels like an enemy, separate the person from the story your ego is spinning."
       ],
-      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "reflection_question": "Whose praise or insult still gets to decide whether I feel whole?",
       "related_verses": [
-        "bg_12_16",
         "bg_12_17",
         "bg_12_19",
-        "bg_12_20"
+        "bg_6_7",
+        "bg_6_9"
       ],
       "confidence": {
-        "summary": 0.57,
-        "topics": 0.62,
-        "emotions": 0.54,
-        "overall": 0.62
+        "summary": 0.94,
+        "topics": 0.92,
+        "emotions": 0.91,
+        "overall": 0.93
       },
-      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: समः शत्रौ च मित्रे च तथा मानापमानयोः। शीतोष्णसुखदुःखेषु समः …. Requires human review before approved/locked.",
-      "reviewed_by": null,
-      "approved_at": null,
-      "source_sanskrit_checksum": null,
+      "uncertainty_notes": null,
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-20T19:47:13Z",
       "authentic_node_id": "bg_12_18",
-      "review_notes": [],
-      "misconceptions": [],
-      "verse_family": "qualities_of_devotee"
+      "review_notes": [
+        "First editorial pass 2026-07-21: Devotional Character family (BG 12.13–12.20).",
+        "Aligned to Sarathi Voice + anchor-family style (Karma Yoga / Sthitaprajña / Self Mastery).",
+        "Added common_queries for retrieval/UX bridge.",
+        "Second pass 2026-07-21: refine practice/safety wording; simplify identity-project language; reinforce path-vs-prerequisite theme.",
+        "Approved against 7-criterion checklist + Sarathi Voice; promoted as fourth anchor family."
+      ],
+      "misconceptions": [
+        "Equal toward friend and foe is not approving harm or abandoning boundaries.",
+        "Equal worth in the heart is not equal usefulness in every practical decision.",
+        "This does not require staying close to people who mistreat you."
+      ],
+      "common_queries": [
+        "How do I stop reacting to criticism?",
+        "How do I stay steady when someone disrespects me?",
+        "How do I treat difficult people without becoming bitter?"
+      ],
+      "verse_family": "devotional_character",
+      "response_levels": {
+        "level_1": "Equal toward friend and foe, honor and dishonor, heat and cold, pleasure and pain — free from compulsive clinging.",
+        "level_2": "Equal regard here protects your center when relationships and status swing. It does not erase discernment about trust, safety, or wise boundaries; it refuses to let praise and insult own you.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "common_queries",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      }
     },
     {
       "node_id": "bg_12_19",
       "citation": "BG 12.19",
-      "status": "generated",
-      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.19) inviting reflection on devotion, equanimity.",
-      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "status": "approved",
+      "summary": "Dear is the one who treats blame and praise alike, speaks with restraint, finds contentment in what comes, stays inwardly unfixed on possessions, and keeps a steady mind in devotion.",
+      "modern_interpretation": "Restraint in speech often expresses wisdom more than constant reaction. Contentment with 'whatever comes' is resilience — not a command to accept injustice without action. Steadiness of mind is the through-line.",
       "topics": [
-        "devotion",
         "equanimity",
-        "compassion"
+        "devotion",
+        "discipline",
+        "mind"
       ],
       "emotions": [
+        "shame",
+        "loneliness",
         "anxiety",
-        "peace",
-        "grief"
+        "restlessness"
       ],
       "life_domains": [
-        "spiritual_practice",
+        "identity",
         "relationships",
-        "identity"
+        "spiritual_practice",
+        "money"
       ],
       "user_intents": [
         "seeking_peace",
+        "seeking_discipline",
         "seeking_encouragement"
       ],
       "virtues": [
-        "devotion",
-        "compassion",
         "equanimity",
-        "patience"
+        "humility",
+        "discipline",
+        "devotion"
       ],
       "practice": [
-        "Sit with BG 12.19 for two minutes; note one feeling and one duty it clarifies."
+        "When praised or blamed, wait before defending or inflating — speak only what is needed.",
+        "Practice contentment once today with an imperfect circumstance you cannot fully control."
       ],
-      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "reflection_question": "How much of my speech is defense of image — and how much is simply true?",
       "related_verses": [
-        "bg_12_17",
         "bg_12_18",
-        "bg_12_20"
+        "bg_12_20",
+        "bg_12_14",
+        "bg_2_58"
       ],
       "confidence": {
-        "summary": 0.57,
-        "topics": 0.62,
-        "emotions": 0.54,
-        "overall": 0.62
+        "summary": 0.94,
+        "topics": 0.92,
+        "emotions": 0.91,
+        "overall": 0.93
       },
-      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येनकेनचित्। अनिकेतः स्थिरम…. Requires human review before approved/locked.",
-      "reviewed_by": null,
-      "approved_at": null,
-      "source_sanskrit_checksum": null,
+      "uncertainty_notes": null,
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-20T19:47:13Z",
       "authentic_node_id": "bg_12_19",
-      "review_notes": [],
-      "misconceptions": [],
-      "verse_family": "qualities_of_devotee"
+      "review_notes": [
+        "First editorial pass 2026-07-21: Devotional Character family (BG 12.13–12.20).",
+        "Aligned to Sarathi Voice + anchor-family style (Karma Yoga / Sthitaprajña / Self Mastery).",
+        "Added common_queries for retrieval/UX bridge.",
+        "Second pass 2026-07-21: refine practice/safety wording; simplify identity-project language; reinforce path-vs-prerequisite theme.",
+        "Approved against 7-criterion checklist + Sarathi Voice; promoted as fourth anchor family."
+      ],
+      "misconceptions": [
+        "Treating blame and praise alike is not indifference to truth or feedback.",
+        "Contentment with whatever comes is not passivity toward injustice.",
+        "'Without a fixed abode' is not a command to abandon family responsibility; it points to non-clinging."
+      ],
+      "common_queries": [
+        "How do I stop caring so much what people say about me?",
+        "How do I speak less reactively?",
+        "How do I feel okay without constant approval?"
+      ],
+      "verse_family": "devotional_character",
+      "response_levels": {
+        "level_1": "Dear is the one who treats blame and praise alike, speaks with restraint, finds contentment in what comes, stays inwardly unfixed on possessions, and keeps a steady mind in devotion.",
+        "level_2": "Restraint in speech often expresses wisdom more than constant reaction. Contentment with 'whatever comes' is resilience — not a command to accept injustice without action. Steadiness of mind is the through-line.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "common_queries",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      }
     },
     {
       "node_id": "bg_12_20",
       "citation": "BG 12.20",
-      "status": "generated",
-      "summary": "A teaching from Bhakti Yoga — Devotion (BG 12.20) inviting reflection on devotion, equanimity.",
-      "modern_interpretation": "In modern life, this verse from Chapter 12 supports clarity around devotion when facing anxiety. (Generated coverage draft — refine against full translation in review.)",
+      "status": "approved",
+      "summary": "Those who take up this nectar of dharma with faith — devoted and oriented toward the Divine — are exceedingly dear.",
+      "modern_interpretation": "The portrait of 12.13–19 is not a demand for instant perfection. Every quality described in this family is something to grow toward, not a prerequisite for being worthy of devotion. Sincere practice with faith is honored: walking the path matters more than performing spiritual arrival.",
       "topics": [
         "devotion",
-        "equanimity",
-        "compassion"
+        "dharma",
+        "discipline",
+        "surrender"
       ],
       "emotions": [
-        "anxiety",
-        "peace",
-        "grief"
+        "discouragement",
+        "self_doubt",
+        "hope",
+        "peace"
       ],
       "life_domains": [
         "spiritual_practice",
-        "relationships",
-        "identity"
+        "identity",
+        "relationships"
       ],
       "user_intents": [
-        "seeking_peace",
-        "seeking_encouragement"
+        "seeking_encouragement",
+        "seeking_meaning",
+        "seeking_peace"
       ],
       "virtues": [
         "devotion",
-        "compassion",
-        "equanimity",
-        "patience"
+        "perseverance",
+        "faith",
+        "humility"
       ],
       "practice": [
-        "Sit with BG 12.20 for two minutes; note one feeling and one duty it clarifies."
+        "Choose one quality from 12.13–19 and practice it for one day without trying to master all of them.",
+        "When you fall short, return with faith — not self-contempt."
       ],
-      "reflection_question": "What is Chapter 12's theme (Bhakti Yoga — Devotion) asking of me through this verse?",
+      "reflection_question": "Am I practicing this path with faith — or punishing myself for not being finished?",
       "related_verses": [
-        "bg_12_18",
-        "bg_12_19"
+        "bg_12_13",
+        "bg_12_19",
+        "bg_9_22",
+        "bg_18_65"
       ],
       "confidence": {
-        "summary": 0.5299999999999999,
-        "topics": 0.58,
-        "emotions": 0.49999999999999994,
-        "overall": 0.58
+        "summary": 0.94,
+        "topics": 0.92,
+        "emotions": 0.91,
+        "overall": 0.93
       },
-      "uncertainty_notes": "Generated coverage draft from chapter theme + verse structure. Sanskrit cue: ये तु धर्म्यामृतमिदं यथोक्तं पर्युपासते। श्रद्दधाना मत्परमा …. Requires human review before approved/locked.",
-      "reviewed_by": null,
-      "approved_at": null,
-      "source_sanskrit_checksum": null,
+      "uncertainty_notes": null,
+      "reviewed_by": "editorial_team",
+      "approved_at": "2026-07-20T19:47:13Z",
       "authentic_node_id": "bg_12_20",
-      "review_notes": [],
-      "misconceptions": [],
-      "verse_family": "qualities_of_devotee"
+      "review_notes": [
+        "First editorial pass 2026-07-21: Devotional Character family (BG 12.13–12.20).",
+        "Aligned to Sarathi Voice + anchor-family style (Karma Yoga / Sthitaprajña / Self Mastery).",
+        "Added common_queries for retrieval/UX bridge.",
+        "Second pass 2026-07-21: refine practice/safety wording; simplify identity-project language; reinforce path-vs-prerequisite theme.",
+        "Approved against 7-criterion checklist + Sarathi Voice; promoted as fourth anchor family."
+      ],
+      "misconceptions": [
+        "Every quality in this family is something to grow toward, not a prerequisite for being worthy of devotion.",
+        "Being 'exceedingly dear' is not a status contest; it honors sincere practice.",
+        "Faith here is trustful commitment, not blind refusal to think.",
+        "This verse does not require perfection before devotion counts."
+      ],
+      "common_queries": [
+        "What if I keep failing at being a better person?",
+        "Is sincere effort enough even when I fall short?",
+        "How do I stay devoted without becoming perfectionistic?"
+      ],
+      "verse_family": "devotional_character",
+      "response_levels": {
+        "level_1": "Those who take up this nectar of dharma with faith — devoted and oriented toward the Divine — are exceedingly dear.",
+        "level_2": "The portrait of 12.13–19 is not a demand for instant perfection. Every quality described in this family is something to grow toward, not a prerequisite for being worthy of devotion. Sincere practice with faith is honored: walking the path matters more than performing spiritual arrival.",
+        "level_3_includes": [
+          "related_verses",
+          "misconceptions",
+          "common_queries",
+          "sanskrit_concepts",
+          "philosophical_nuance"
+        ]
+      }
     },
     {
       "node_id": "bg_13_1",

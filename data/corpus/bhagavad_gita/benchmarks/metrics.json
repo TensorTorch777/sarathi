@@ -19,6 +19,17 @@
       "avg_retrieval_confidence": null,
       "user_satisfaction": null,
       "notes": "Self Mastery (BG 6.5–6.10) approved. Editorial freeze includes family overviews, family-level misconceptions, and expanded emotion taxonomy. Retrieval eval TBD."
+    },
+    "0.5.0": {
+      "approved_verses": 37,
+      "approved_families": 4,
+      "anchor_families": 4,
+      "golden_query_hit_rate": null,
+      "correct_top1_verse": null,
+      "avg_editorial_confidence": 0.901,
+      "avg_retrieval_confidence": null,
+      "user_satisfaction": null,
+      "notes": "Devotional Character (BG 12.13–12.20) approved as fourth anchor family. common_queries + why_this_matters_today added. Retrieval eval TBD."
     }
   }
 }

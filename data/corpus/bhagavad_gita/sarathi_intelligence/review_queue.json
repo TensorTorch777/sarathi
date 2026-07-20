@@ -8,6 +8,11 @@
   ],
   "instructions": "Review high priority first (10–20 at a time). Paste JSON batches for editorial review. Mark reviewed → approved → locked only after human check.",
   "high_priority": [
+    "BG 12.8",
+    "BG 12.9",
+    "BG 12.10",
+    "BG 12.11",
+    "BG 12.12",
     "BG 2.47",
     "BG 2.48",
     "BG 2.49",
@@ -22,7 +27,6 @@
     "BG 4.7",
     "BG 6.26",
     "BG 9.22",
-    "BG 12.13",
     "BG 18.66"
   ],
   "medium_priority": [
@@ -182,13 +186,6 @@
     "BG 12.10",
     "BG 12.11",
     "BG 12.12",
-    "BG 12.14",
-    "BG 12.15",
-    "BG 12.16",
-    "BG 12.17",
-    "BG 12.18",
-    "BG 12.19",
-    "BG 12.20",
     "BG 18.1",
     "BG 18.2",
     "BG 18.3",
@@ -716,6 +713,12 @@
   "approved_families": [
     "karma_yoga_foundations",
     "sthitaprajna",
-    "self_mastery"
+    "self_mastery",
+    "devotional_character"
+  ],
+  "chapter_12_review_order": [
+    "devotional_character (12.13-20)",
+    "devotional_practice (12.8-12)",
+    "nature_of_worship (12.1-7)"
   ]
 }

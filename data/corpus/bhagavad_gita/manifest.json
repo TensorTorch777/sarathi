@@ -21,7 +21,7 @@
     "index": "sarathi_intelligence/ALL.generated.json",
     "review_queue": "sarathi_intelligence/review_queue.json",
     "enrichment_count": 700,
-    "status": "v0.4.0_partial_approved",
+    "status": "v0.5.0_partial_approved",
     "editorial_workflow": [
       "generated",
       "reviewed",
@@ -29,13 +29,14 @@
       "locked"
     ],
     "approval_policy": "Never auto-approve. Review via review_queue.json in batches of 10–20.",
-    "version": "0.4.0",
+    "version": "0.5.0",
     "changelog": "sarathi_intelligence/CHANGELOG.md",
     "verse_families": "sarathi_intelligence/verse_families.json",
-    "approved_count": 29,
+    "approved_count": 37,
     "freeze_v0_3_0": "sarathi_intelligence/releases/v0.3.0.freeze.json",
-    "git_tag_status": "sarathi-intelligence-v0.4.0 (tag after commit)",
-    "freeze_v0_4_0": "sarathi_intelligence/releases/v0.4.0.freeze.json"
+    "git_tag_status": "sarathi-intelligence-v0.5.0",
+    "freeze_v0_4_0": "sarathi_intelligence/releases/v0.4.0.freeze.json",
+    "freeze_v0_5_0": "sarathi_intelligence/releases/v0.5.0.freeze.json"
   },
   "coverage": {
     "chapters": [
@@ -80,14 +81,15 @@
     "milestone_2": "DONE — karma-yoga core + Sthitaprajña approved",
     "milestone_3": "DONE — Ch.2 units (2.47–50, 2.54–72) approved",
     "milestone_4": "DONE — Self Mastery BG 6.5–6.10 approved (v0.4.0)",
-    "milestone_5": "NEXT — remainder of Chapter 6 → Chapter 12 → 18.66 cluster"
+    "milestone_5": "DONE — Devotional Character BG 12.13–12.20 approved (v0.5.0, fourth anchor)",
+    "milestone_6": "NEXT — Devotional Practice 12.8–12 → Nature of Worship 12.1–7 → Ch.18 / Ch.3"
   },
   "editorial": {
     "guide": "EDITORIAL_GUIDE.md",
     "voice": "SARATHI_VOICE.md",
     "approval_checklist": "7 criteria in EDITORIAL_GUIDE.md",
-    "reviewed_count": 29,
-    "approved_count": 29,
+    "reviewed_count": 37,
+    "approved_count": 37,
     "clusters": {
       "karma_yoga_core": {
         "verses": [
@@ -132,6 +134,20 @@
           "bg_6_10"
         ],
         "status": "approved"
+      },
+      "devotional_character": {
+        "verses": [
+          "bg_12_13",
+          "bg_12_14",
+          "bg_12_15",
+          "bg_12_16",
+          "bg_12_17",
+          "bg_12_18",
+          "bg_12_19",
+          "bg_12_20"
+        ],
+        "status": "approved",
+        "anchor_family": true
       }
     },
     "next_recommended": [
@@ -140,11 +156,17 @@
       "bg_18_66_cluster"
     ],
     "golden_benchmark": "benchmarks/golden_queries.v0.json",
-    "intelligence_version": "0.4.0",
+    "intelligence_version": "0.5.0",
     "authentic_version": "1.0.0",
     "progressive_disclosure": true,
-    "next_milestone": "Continue Chapter 6 beyond 6.10; then Chapter 12",
-    "in_review": []
+    "next_milestone": "Devotional Practice BG 12.8–12.12",
+    "in_review": [],
+    "anchor_families": [
+      "karma_yoga_foundations",
+      "sthitaprajna",
+      "self_mastery",
+      "devotional_character"
+    ]
   },
   "related_paths": {
     "taxonomies": "taxonomies.json",

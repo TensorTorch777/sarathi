@@ -1,6 +1,13 @@
 {
-  "version": "0.4.0",
-  "description": "Verse families group teachings that should be retrieved and taught together before jumping across the corpus.",
+  "version": "0.5.0",
+  "description": "Verse families group teachings that should be retrieved and taught together before jumping across the corpus. Anchor families are editorial exemplars for style and quality.",
+  "anchor_families": [
+    "karma_yoga_foundations",
+    "sthitaprajna",
+    "self_mastery",
+    "devotional_character"
+  ],
+  "review_priority_note": "Chapter 12 pedagogical order: Devotional Character (12.13–20) → Devotional Practice (12.8–12) → Nature of Worship (12.1–7).",
   "families": [
     {
       "id": "karma_yoga_foundations",
@@ -13,6 +20,7 @@
         "bg_2_50"
       ],
       "status": "approved",
+      "anchor_family": true,
       "theme": "Right action, equanimity in results, buddhi-yoga, skill in action.",
       "primary_intents": [
         "seeking_guidance",
@@ -24,7 +32,8 @@
       "family_misconceptions": [
         "Detachment does not mean laziness.",
         "Releasing attachment to results is not abandoning excellence or ethics."
-      ]
+      ],
+      "why_this_matters_today": "This family speaks to anyone under pressure to produce outcomes — careers, exams, ventures — and offers a way to act fully without being owned by results."
     },
     {
       "id": "sthitaprajna",
@@ -52,6 +61,7 @@
         "bg_2_72"
       ],
       "status": "approved",
+      "anchor_family": true,
       "theme": "What a person of steady wisdom looks like in desire, emotion, sense restraint, and peace.",
       "primary_intents": [
         "seeking_peace",
@@ -63,7 +73,8 @@
       "family_misconceptions": [
         "Steady wisdom is not emotional numbness.",
         "Sense restraint is not lifelong escape from ordinary life."
-      ]
+      ],
+      "why_this_matters_today": "This family answers the modern hunger for emotional steadiness: how to meet desire, praise, and loss without being overturned by them."
     },
     {
       "id": "self_mastery",
@@ -78,6 +89,7 @@
         "bg_6_10"
       ],
       "status": "approved",
+      "anchor_family": true,
       "theme": "Elevate yourself by disciplined attention; mind as ally or obstacle; steadiness across dualities; equal regard with safety; meditation foundations.",
       "primary_intents": [
         "seeking_discipline",
@@ -96,11 +108,12 @@
         "mental_restlessness",
         "discouragement",
         "lack_of_focus"
-      ]
+      ],
+      "why_this_matters_today": "This family meets everyday struggles with habits, attention, and self-control — training the mind as an ally rather than fighting yourself."
     },
     {
-      "id": "qualities_of_devotee",
-      "name": "Qualities of the Devotee",
+      "id": "devotional_character",
+      "name": "Devotional Character",
       "chapter": 12,
       "verse_ids": [
         "bg_12_13",
@@ -112,13 +125,79 @@
         "bg_12_19",
         "bg_12_20"
       ],
-      "status": "planned",
-      "theme": "Compassion, equanimity, friendliness, and devoted character.",
+      "status": "approved",
+      "anchor_family": true,
+      "candidate_anchor": false,
+      "theme": "The qualities of the ideal devotee: compassion, equanimity, friendliness, contentment, and devoted character.",
       "primary_intents": [
         "seeking_peace",
         "seeking_forgiveness",
-        "seeking_encouragement"
-      ]
+        "seeking_encouragement",
+        "seeking_discipline"
+      ],
+      "overview": "This group of verses describes devotion as lived character — compassion, friendliness, equanimity, and steady faith — rather than as performance or withdrawal. It is among the most practical sections for everyday relationships and inner composure.",
+      "family_misconceptions": [
+        "Devotional character is not emotional numbness.",
+        "Compassion and equal regard do not require staying in unsafe situations.",
+        "These qualities are a path of practice, not a demand for instant perfection."
+      ],
+      "review_order": 1,
+      "why_this_matters_today": "This family addresses how spiritual practice becomes visible through everyday relationships, emotional steadiness, forgiveness, and compassion rather than external performance."
+    },
+    {
+      "id": "devotional_practice",
+      "name": "Devotional Practice",
+      "chapter": 12,
+      "verse_ids": [
+        "bg_12_8",
+        "bg_12_9",
+        "bg_12_10",
+        "bg_12_11",
+        "bg_12_12"
+      ],
+      "status": "planned",
+      "anchor_family": false,
+      "theme": "Progressive paths: fixing the mind, practice, dedicated action, renunciation of fruits.",
+      "primary_intents": [
+        "seeking_discipline",
+        "seeking_guidance",
+        "seeking_encouragement",
+        "seeking_detachment"
+      ],
+      "overview": "This group offers a compassionate ladder of practice for different capacities — from steadying the mind, to repeated effort, to dedicated action, to releasing the fruits.",
+      "family_misconceptions": [
+        "Lower rungs of practice are not failures; they are honest starting points.",
+        "Renunciation of fruits is not abandonment of excellence."
+      ],
+      "review_order": 2
+    },
+    {
+      "id": "nature_of_worship",
+      "name": "Nature of Worship",
+      "chapter": 12,
+      "verse_ids": [
+        "bg_12_1",
+        "bg_12_2",
+        "bg_12_3",
+        "bg_12_4",
+        "bg_12_5",
+        "bg_12_6",
+        "bg_12_7"
+      ],
+      "status": "planned",
+      "anchor_family": false,
+      "theme": "Personal vs. impersonal devotion and Krishna's response.",
+      "primary_intents": [
+        "seeking_meaning",
+        "seeking_guidance",
+        "seeking_peace"
+      ],
+      "overview": "This opening unit explores different ways of approaching the Divine and affirms a path that is workable for the devoted heart without dismissing other approaches.",
+      "family_misconceptions": [
+        "Affirming one accessible path is not condemning all other sincere approaches.",
+        "Difficulty of a path is not a measure of a person's worth."
+      ],
+      "review_order": 3
     },
     {
       "id": "surrender_closing",
@@ -133,6 +212,7 @@
         "bg_18_66"
       ],
       "status": "planned",
+      "anchor_family": false,
       "theme": "Refuge, surrender, and the Gita's culminating pastoral teaching.",
       "primary_intents": [
         "seeking_peace",

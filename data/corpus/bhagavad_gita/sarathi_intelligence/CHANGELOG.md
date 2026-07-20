@@ -2,6 +2,37 @@
 
 Versioned separately from Authentic Scripture (`bhagavad_gita.json` v1.0.0, locked).
 
+## v0.5.0 — 2026-07-21
+
+### Approved (+8; total 37 verses)
+
+- **Devotional Character:** BG 12.13–12.20 — **fourth anchor family**
+
+### Editorial focus
+
+- Second-pass refinements: safety-aware practice wording; devotion ≠ emotional intensity; simplify self-image-project language; path-vs-prerequisite closing.
+- `common_queries` established as retrieval/UX bridge.
+- Optional family field `why_this_matters_today` introduced for journeys / education.
+- Editorial vocabulary: *turbulence*; *equal worth ≠ equal usefulness*.
+
+### Four anchor pillars
+
+1. Karma Yoga Foundations (BG 2.47–2.50)
+2. Steady Wisdom / Sthitaprajña (BG 2.54–2.72)
+3. Self Mastery (BG 6.5–6.10)
+4. Devotional Character (BG 12.13–12.20)
+
+### Frozen
+
+- Snapshot in `releases/v0.5.0.freeze.json`
+- Git tag: `sarathi-intelligence-v0.5.0`
+
+### Next
+
+- Devotional Practice (BG 12.8–12.12)
+- Nature of Worship (BG 12.1–12.7)
+- Chapter 18 closing cluster · Chapter 3 depth
+
 ## v0.4.0 — 2026-07-19
 
 ### Approved (+6; total 29 verses)
@@ -13,17 +44,6 @@ Versioned separately from Authentic Scripture (`bhagavad_gita.json` v1.0.0, lock
 - Stricter psychology pass: self-effort without blame; steadiness ≠ numbness; equal regard ≠ enduring abuse; solitude ≠ permanent withdrawal.
 - Family overview + family-level misconceptions introduced for Self Mastery.
 - Emotion taxonomy expanded: `self_doubt`, `inner_conflict`, `mental_restlessness`, `discouragement`, `lack_of_focus`.
-
-### Frozen
-
-- Snapshot in `releases/v0.4.0.freeze.json`
-- Git tag: `sarathi-intelligence-v0.4.0`
-
-### Next
-
-- Remainder of Chapter 6
-- Chapter 12 (qualities of the devotee)
-- Chapter 18 (esp. 18.66 cluster)
 
 ## v0.3.0 — 2026-07-19
 

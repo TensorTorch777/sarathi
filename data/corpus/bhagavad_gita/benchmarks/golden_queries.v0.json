@@ -11,42 +11,127 @@
     {
       "id": "exam_fear",
       "query": "I'm terrified of failing my exams.",
-      "expected_verses": ["bg_2_47", "bg_2_48", "bg_6_5"],
+      "expected_verses": [
+        "bg_2_47",
+        "bg_2_48",
+        "bg_6_5"
+      ],
       "expected_confidence": 0.85,
       "notes": "Outcome anxiety / performance pressure cluster.",
-      "depends_on_approved": ["bg_2_47", "bg_2_48", "bg_6_5"]
+      "depends_on_approved": [
+        "bg_2_47",
+        "bg_2_48",
+        "bg_6_5"
+      ]
     },
     {
       "id": "comparison",
       "query": "I keep comparing myself with everyone.",
-      "expected_verses": ["bg_2_47", "bg_12_13", "bg_6_5"],
+      "expected_verses": [
+        "bg_2_47",
+        "bg_12_13",
+        "bg_6_5"
+      ],
       "expected_confidence": 0.85,
       "notes": "Ego, envy, self-mastery. Adjust expected list after ch.12 review.",
-      "depends_on_approved": ["bg_2_47", "bg_12_13", "bg_6_5"]
+      "depends_on_approved": [
+        "bg_2_47",
+        "bg_12_13",
+        "bg_6_5"
+      ]
     },
     {
       "id": "grief_loss",
       "query": "I've lost someone close to me.",
-      "expected_verses": ["bg_2_13", "bg_2_20", "bg_2_22"],
+      "expected_verses": [
+        "bg_2_13",
+        "bg_2_20",
+        "bg_2_22"
+      ],
       "expected_confidence": 0.85,
       "notes": "Impermanence / embodied self cluster. Pastoral care required in answers.",
-      "depends_on_approved": ["bg_2_13", "bg_2_20", "bg_2_22"]
+      "depends_on_approved": [
+        "bg_2_13",
+        "bg_2_20",
+        "bg_2_22"
+      ]
     },
     {
       "id": "steady_wisdom",
       "query": "How do I stay calm when everything goes wrong?",
-      "expected_verses": ["bg_2_56", "bg_2_57", "bg_2_48"],
+      "expected_verses": [
+        "bg_2_56",
+        "bg_2_57",
+        "bg_2_48"
+      ],
       "expected_confidence": 0.85,
       "notes": "Sthitaprajña / equanimity unit (2.54–72).",
-      "depends_on_approved": ["bg_2_56", "bg_2_57", "bg_2_48"]
+      "depends_on_approved": [
+        "bg_2_56",
+        "bg_2_57",
+        "bg_2_48"
+      ]
     },
     {
       "id": "anger_spiral",
       "query": "I get angry and then I can't think straight.",
-      "expected_verses": ["bg_2_62", "bg_2_63", "bg_2_64"],
+      "expected_verses": [
+        "bg_2_62",
+        "bg_2_63",
+        "bg_2_64"
+      ],
       "expected_confidence": 0.85,
       "notes": "Desire → anger → delusion cascade.",
-      "depends_on_approved": ["bg_2_62", "bg_2_63", "bg_2_64"]
+      "depends_on_approved": [
+        "bg_2_62",
+        "bg_2_63",
+        "bg_2_64"
+      ]
+    },
+    {
+      "id": "become_kinder",
+      "query": "How do I become kinder?",
+      "expected_verses": [
+        "bg_12_13",
+        "bg_12_15",
+        "bg_2_56"
+      ],
+      "expected_confidence": 0.85,
+      "notes": "Devotional Character / compassion cluster.",
+      "depends_on_approved": [
+        "bg_12_13",
+        "bg_12_15"
+      ]
+    },
+    {
+      "id": "reacting_to_criticism",
+      "query": "How do I stop reacting to criticism?",
+      "expected_verses": [
+        "bg_12_15",
+        "bg_12_18",
+        "bg_12_19"
+      ],
+      "expected_confidence": 0.85,
+      "notes": "Equanimity under praise/blame.",
+      "depends_on_approved": [
+        "bg_12_15",
+        "bg_12_18",
+        "bg_12_19"
+      ]
+    },
+    {
+      "id": "holding_grudges",
+      "query": "How do I stop holding grudges?",
+      "expected_verses": [
+        "bg_12_13",
+        "bg_12_17",
+        "bg_6_9"
+      ],
+      "expected_confidence": 0.85,
+      "notes": "Forgiveness / freedom from hatred.",
+      "depends_on_approved": [
+        "bg_12_13"
+      ]
     }
   ]
 }
