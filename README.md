@@ -2,6 +2,8 @@
 
 Production-oriented AI assistant grounded in the Bhagavad Gita.
 
+**Start here:** [`VISION_2.0.md`](VISION_2.0.md) — project constitution (principles, not roadmap).
+
 ## Repository layout
 
 ```
