@@ -2,7 +2,14 @@
 
 Production-oriented AI assistant grounded in the Bhagavad Gita.
 
-**Start here:** [`VISION_2.0.md`](VISION_2.0.md) — project constitution (principles, not roadmap).
+**Foundational documents** (read before changing product or editorial behavior):
+
+| Document | Answers |
+|----------|---------|
+| [`VISION_2.0.md`](VISION_2.0.md) | Why Sarathi exists (constitution) |
+| [`PEDAGOGY.md`](PEDAGOGY.md) | How Sarathi teaches (scripture-centered) |
+| [`data/corpus/bhagavad_gita/EDITORIAL_GUIDE.md`](data/corpus/bhagavad_gita/EDITORIAL_GUIDE.md) | How content is written and reviewed |
+| [`data/corpus/bhagavad_gita/SARATHI_VOICE.md`](data/corpus/bhagavad_gita/SARATHI_VOICE.md) | How Sarathi is allowed to speak |
 
 ## Repository layout
 
